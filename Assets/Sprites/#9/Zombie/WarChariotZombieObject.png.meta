@@ -1,0 +1,2456 @@
+fileFormatVersion: 2
+guid: 38a914d0d896a65449cd79ee22141036
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WarChariotZombieObject_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474
+        width: 253
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4edb61648ccff4184b8338918efbaa
+      internalID: 280013828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102c0bfc6fe797e41909bc932fd599a5
+      internalID: -1075783772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 547
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7c5ebaca8922045951dedb8a08abca
+      internalID: -1443830116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 550
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b1c007d6898e943983b461740b0ddf
+      internalID: -99581255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 554
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ad1e3fc3d1bfb4d953a385775a4b15
+      internalID: 321326358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 558
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13987ec5215392f488f8481c99635f4a
+      internalID: -1377564618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 555
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c75914ab77c9ed478b8d7836d17b6f6
+      internalID: -997315852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 593
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3511d7d803193074f92c463428f616fc
+      internalID: 1558592886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 590
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe0f21e4e80e54cb9231904c6ce6ed
+      internalID: 260346852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_9
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 585
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adda99ef4f221f4dafd10eeb548a103
+      internalID: 754495066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_10
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 584
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31183a5d371d4504395cb43bcbd6c6bf
+      internalID: -7934137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6058d5bfffaf62542800a6b16322adc3
+      internalID: 1963951941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 558
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256d04d6b8a819849a507e7b2dab6050
+      internalID: -709834266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_13
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 529
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ddec6de374e3945b9df11f454f524d
+      internalID: 133493993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 550
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85deef7d49ae13c4285e2dd3fd803cc8
+      internalID: -1230245703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 541
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af58cd347c86d9647b2d87ca01eb026e
+      internalID: -655735778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 514
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dacfaeedfa0db4d965b366e7449a0b
+      internalID: -1152573933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_17
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 514
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca70999019a57444bd37f5056cebadb
+      internalID: 390945200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 522
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401c3bbc916c07f46965bb43e1235d0b
+      internalID: -1139302067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 534
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd144f1e49ca02a4a85b142f873e299a
+      internalID: 819531986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 514
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7409dd73c9c54544890f3e8312b733a
+      internalID: 1066455816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 511
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c75dc826e3108f4886383c367fc0cf3
+      internalID: -105995285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 507
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed632e8f498556d41ba610fc6f22400e
+      internalID: -1250761687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_23
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 517
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fd7bbae480a3742a43f6a8bf52e6cb
+      internalID: 943542159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_24
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 486
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512f4e4515821c4a92d2dd9f83347b5
+      internalID: -1908055669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_25
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 510
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f000b6cc0abae1489390a02c978cfa2
+      internalID: 144068533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 447
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1f6e875934ccf44ab8a45740ad08c1
+      internalID: -1563853434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 447
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787eeccefd4018342bdc9e334278b958
+      internalID: 34187626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_28
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 447
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16248aa64a723ed43951dcd0e1b1ae6b
+      internalID: 1617174256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 458
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ade449bfbc30b4b987846bd3d493be
+      internalID: -2144289460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_30
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 465
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c241da828014b4d9fa738392a619cc
+      internalID: 600571399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_31
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 471
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a88d4bade7edf4c85e4671ad4ebd1a
+      internalID: -605460348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_32
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 470
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d1da0da5ac1bc47bb0acea2a6160c8
+      internalID: 26794122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_33
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 412
+        width: 19
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0a67b3a6a3c448ac943a90f47a93f
+      internalID: 218673697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_34
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 457
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953224135faa3d54d9965a7992f1b222
+      internalID: 1921876320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 314
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2efcaa93b42239478df0679f2921459
+      internalID: -1321347493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_36
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 422
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7e6ad3a661d2749bbf2348e722d2f0
+      internalID: 1890244009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 411
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d923accfcc6b24cb01e96e66779b91
+      internalID: 425439166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_38
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 417
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b142c4715049b2742bb1a0e48cff6805
+      internalID: -690291736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_39
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 422
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e077e2390fb7b4fb5455ae70e6a3e8
+      internalID: -1428503495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_40
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 422
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4580de3af6439f84886542d74ecfbf05
+      internalID: -1670152545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_41
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 426
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0227aabc2016ba34ab0d1546e31453dd
+      internalID: 790363838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_42
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 352
+        width: 16
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf833df62140f3b4085e899a9447e991
+      internalID: -1827168132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_43
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 411
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1549d855aaba491458e27412f21fab54
+      internalID: 558118233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 363
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8001ed006a66643b098d903f6c2f8d
+      internalID: 930492078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_45
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 370
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beac8e028fa69f142b6b6503cbc132f8
+      internalID: 1344547321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_46
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 375
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4992bec47c67c5440b2654c240985517
+      internalID: -1767081233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_47
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 375
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3235bd8d587e9d64b89ff8f3fcaf32d2
+      internalID: -834170286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_48
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 384
+        width: 49
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f75ff9de3cac1c4f8abbab22619241e
+      internalID: -97120883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_49
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 371
+        width: 50
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abad3d22a6321644a38f2d69ff35505
+      internalID: 37998741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 305
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88851ed145ee3c14292601bd1eb17be8
+      internalID: -2047368089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_51
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 316
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4bcaacce8b1fc418a65ca2788850ef
+      internalID: -501212999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_52
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 322
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0d982f6c388a84b8a475a79ab81c0c
+      internalID: 785017345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_53
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 328
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0acf68837759c4ca44d7b7bcfcacd5
+      internalID: 368221200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_54
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 328
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea856b62195ef014b80acb41def60182
+      internalID: -571565379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_55
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 281
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53915f43089f7d346a5b208b53f2659b
+      internalID: 1328145322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_56
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 234
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b17860dc11dec44fb93dc2aa63cec7a
+      internalID: -479574875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_57
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 281
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e14bcb48fe8b4b4fa18d7611857e6cb
+      internalID: -308334167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_58
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 259
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa2626e95063e4192a032f1ea3ebde
+      internalID: -166090376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_59
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 228
+        width: 75
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56e3d9db66eefa45ad29e0f0b965690
+      internalID: 1361295152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_60
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 263
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992865d74ad1b8d4a94a85f08d43e8a1
+      internalID: 569871955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_61
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 243
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7570b24cbff937b48affd08f8e3b5f17
+      internalID: 1089271024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_62
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 254
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0edbc59ff3911448bf047df5bf2907
+      internalID: -2059184621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_63
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 250
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198524d3f49dba9408de6d6e3ce98117
+      internalID: -664135135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_64
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 245
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10255e18ea6dfb146a361fcebcedb298
+      internalID: -151353818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 174
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721aa26945e290f4dafac6ff66b73720
+      internalID: -1506594928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_66
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 184
+        width: 10
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1be183587752d4ea661c7850163382
+      internalID: 1578332133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_67
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 201
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a115846f059de4bb13b4436e2b5c28
+      internalID: 1441635966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_68
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 179
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b05df38054384791ba7564822b8f5
+      internalID: 1850662206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_69
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 198
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b60baf9c8c17104c8be57e93e255842
+      internalID: -2087447507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_70
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 233
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75998c51234bb6a41ac4be48f2098c17
+      internalID: 930802427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 15
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa22f47680830d4197d761d4e7a6ecd
+      internalID: -628742639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_72
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 181
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115898787f309834392d641d62302cbf
+      internalID: 1400346587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_73
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 213
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b4c9de90fb5e24daec3a390e8fcab5
+      internalID: 1119183602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_74
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 175
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2207d88f82eb8242b21e7146e296283
+      internalID: 179454599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 210
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9e42dcbf9b7c14199f0b28e1e0c8e1
+      internalID: 979400331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_76
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 203
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa3718b50a63fc41a89d2422015fede
+      internalID: 218597309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_77
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 218
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1420ab1f957b8c4e8da3943c7b61501
+      internalID: 975604531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_78
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8b557372540954a84d0e518322055c
+      internalID: 1967393734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_79
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 222
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae79464c5e5a9dd46b29c9888cb7f8d6
+      internalID: 355666625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_80
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 191
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b60f4e84e2819744b2ba7dc0b885b91
+      internalID: -868762304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_81
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 218
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec34cd1b5e32a6c4abe2d6f60091947b
+      internalID: -1078108055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_82
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 211
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566e9ee43e128ec4b9797d98d17045f7
+      internalID: -379780528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_83
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 182
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a909edbcfc12a4e817fa0f5fcecfe3
+      internalID: 1490347724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_84
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 183
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aae9d24f707ccb478ecb52bbd4882e4
+      internalID: 323137750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_85
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 206
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe3308ac147f9b41aa60077594f8c64
+      internalID: -953938181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_86
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 199
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1da5f5204338ba42aefebf3a915731e
+      internalID: -1155468388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_87
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 192
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6576dff79f4b98640af8f9a1880cb2ee
+      internalID: -1398398313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_88
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 192
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb76e986176ef24c8a32bca548a2734
+      internalID: -515494702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_89
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 182
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f986ca961ae74d94c95be46e12b881dc
+      internalID: -1591905985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_90
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 176
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbfe0ec403f101468611a169046d27c
+      internalID: -579753455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_91
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 115
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14a80459c7aed948b65ccca8e8f229b
+      internalID: 394253760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_92
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 175
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50754b8134be8c7449599fafd14e375a
+      internalID: -1538125653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_93
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 167
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b449d966ee8074db060fc6335b7e8c
+      internalID: 978096635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_94
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda768efcfe3dd4dac9cb55e5fc4e4e
+      internalID: 1242748456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_95
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 26
+        width: 157
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12aa51dcb714994892aba893cc2d03d
+      internalID: -1995886640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_96
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 25
+        width: 155
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef5cbc1da966aa49a642e63457a6202
+      internalID: -309461386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 57
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84af0fc30f299064682282f70e1a5bac
+      internalID: 2072937222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_98
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdc2ffd339f93347aae110b9c3c675a
+      internalID: 1945694149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_99
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6b689b16b6e6e4cbbc57b5c6b7bb6a
+      internalID: -141874136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_100
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f8c790bc231054bbebaedc834b04f2
+      internalID: -1821878546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_101
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 7
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a053cbbdd9b7c1f49afe1d3312ea1f65
+      internalID: -737554861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_102
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 3
+        width: 79
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa937142a329cfb48a93d04205d013d4
+      internalID: -855403495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_103
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 18
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29527b5515a88da4f8078376806a7e7b
+      internalID: -559091144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarChariotZombieObject_104
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4802b1ffee55cd8489b6ed8b8fc1bdf4
+      internalID: 223900282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WarChariotZombieObject_3: -99581255
+      WarChariotZombieObject_25: 144068533
+      WarChariotZombieObject_76: 218597309
+      WarChariotZombieObject_91: 394253760
+      WarChariotZombieObject_71: -628742639
+      WarChariotZombieObject_74: 179454599
+      WarChariotZombieObject_45: 1344547321
+      WarChariotZombieObject_59: 1361295152
+      WarChariotZombieObject_27: 34187626
+      WarChariotZombieObject_75: 979400331
+      WarChariotZombieObject_93: 978096635
+      WarChariotZombieObject_83: 1490347724
+      WarChariotZombieObject_12: -709834266
+      WarChariotZombieObject_52: 785017345
+      WarChariotZombieObject_17: 390945200
+      WarChariotZombieObject_48: -97120883
+      WarChariotZombieObject_36: 1890244009
+      WarChariotZombieObject_55: 1328145322
+      WarChariotZombieObject_57: -308334167
+      WarChariotZombieObject_1: -1075783772
+      WarChariotZombieObject_65: -1506594928
+      WarChariotZombieObject_61: 1089271024
+      WarChariotZombieObject_87: -1398398313
+      WarChariotZombieObject_82: -379780528
+      WarChariotZombieObject_101: -737554861
+      WarChariotZombieObject_5: -1377564618
+      WarChariotZombieObject_60: 569871955
+      WarChariotZombieObject_19: 819531986
+      WarChariotZombieObject_49: 37998741
+      WarChariotZombieObject_63: -664135135
+      WarChariotZombieObject_50: -2047368089
+      WarChariotZombieObject_73: 1119183602
+      WarChariotZombieObject_89: -1591905985
+      WarChariotZombieObject_4: 321326358
+      WarChariotZombieObject_46: -1767081233
+      WarChariotZombieObject_104: 223900282
+      WarChariotZombieObject_38: -690291736
+      WarChariotZombieObject_32: 26794122
+      WarChariotZombieObject_7: 1558592886
+      WarChariotZombieObject_66: 1578332133
+      WarChariotZombieObject_51: -501212999
+      WarChariotZombieObject_37: 425439166
+      WarChariotZombieObject_102: -855403495
+      WarChariotZombieObject_100: -1821878546
+      WarChariotZombieObject_21: -105995285
+      WarChariotZombieObject_80: -868762304
+      WarChariotZombieObject_41: 790363838
+      WarChariotZombieObject_30: 600571399
+      WarChariotZombieObject_69: -2087447507
+      WarChariotZombieObject_10: -7934137
+      WarChariotZombieObject_33: 218673697
+      WarChariotZombieObject_64: -151353818
+      WarChariotZombieObject_6: -997315852
+      WarChariotZombieObject_26: -1563853434
+      WarChariotZombieObject_42: -1827168132
+      WarChariotZombieObject_56: -479574875
+      WarChariotZombieObject_79: 355666625
+      WarChariotZombieObject_94: 1242748456
+      WarChariotZombieObject_29: -2144289460
+      WarChariotZombieObject_86: -1155468388
+      WarChariotZombieObject_97: 2072937222
+      WarChariotZombieObject_92: -1538125653
+      WarChariotZombieObject_58: -166090376
+      WarChariotZombieObject_67: 1441635966
+      WarChariotZombieObject_98: 1945694149
+      WarChariotZombieObject_24: -1908055669
+      WarChariotZombieObject_90: -579753455
+      WarChariotZombieObject_43: 558118233
+      WarChariotZombieObject_23: 943542159
+      WarChariotZombieObject_77: 975604531
+      WarChariotZombieObject_81: -1078108055
+      WarChariotZombieObject_85: -953938181
+      WarChariotZombieObject_13: 133493993
+      WarChariotZombieObject_18: -1139302067
+      WarChariotZombieObject_40: -1670152545
+      WarChariotZombieObject_99: -141874136
+      WarChariotZombieObject_54: -571565379
+      WarChariotZombieObject_2: -1443830116
+      WarChariotZombieObject_28: 1617174256
+      WarChariotZombieObject_22: -1250761687
+      WarChariotZombieObject_35: -1321347493
+      WarChariotZombieObject_62: -2059184621
+      WarChariotZombieObject_16: -1152573933
+      WarChariotZombieObject_8: 260346852
+      WarChariotZombieObject_11: 1963951941
+      WarChariotZombieObject_31: -605460348
+      WarChariotZombieObject_9: 754495066
+      WarChariotZombieObject_15: -655735778
+      WarChariotZombieObject_95: -1995886640
+      WarChariotZombieObject_44: 930492078
+      WarChariotZombieObject_72: 1400346587
+      WarChariotZombieObject_84: 323137750
+      WarChariotZombieObject_47: -834170286
+      WarChariotZombieObject_53: 368221200
+      WarChariotZombieObject_96: -309461386
+      WarChariotZombieObject_103: -559091144
+      WarChariotZombieObject_20: 1066455816
+      WarChariotZombieObject_39: -1428503495
+      WarChariotZombieObject_88: -515494702
+      WarChariotZombieObject_70: 930802427
+      WarChariotZombieObject_68: 1850662206
+      WarChariotZombieObject_14: -1230245703
+      WarChariotZombieObject_0: 280013828
+      WarChariotZombieObject_78: 1967393734
+      WarChariotZombieObject_34: 1921876320
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

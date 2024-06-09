@@ -1,0 +1,3820 @@
+fileFormatVersion: 2
+guid: 799364528bd379248bc76641583a8f44
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HammerZombie_0
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 3293
+        width: 221
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36289616691740439b05ccffc1cbe33
+      internalID: -1868266908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_1
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 4011
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c68b01424f73f945a9f750c5e5d3039
+      internalID: -48853830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_2
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 3474
+        width: 550
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5981dd0ca5b9b74d8e23e28edc93084
+      internalID: 552739057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_3
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 3928
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565049353896a946b650f15df27cdbd
+      internalID: 1256002960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_4
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 3840
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bd46eb22fbeb94d9bcdc5b72f9698a
+      internalID: 48623309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_5
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 3755
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cf7ada15161fb4bb0b5409267d28e7
+      internalID: 582779325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_6
+      rect:
+        serializedVersion: 2
+        x: 4038
+        y: 3677
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6681ecc21ba5a8f408d58f9071f5fe36
+      internalID: 479395680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_7
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 3595
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce5c77755fe3784587ae033fc81b200
+      internalID: 988590401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_8
+      rect:
+        serializedVersion: 2
+        x: 4028
+        y: 3517
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df78388dea1c6344ab17e0c09dfd623b
+      internalID: 379413924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_9
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 3566
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15093a4c6796f524e90bcf3415570a1b
+      internalID: -452505364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_10
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 3457
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0ba4830ab4cf2418be4d961ed92466
+      internalID: 1192796091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_11
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 3323
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce51a6074974c9b429f41a5707677769
+      internalID: 1950839138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_12
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 3369
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d3eeda2c5ef2d4dae92ef0dae87507
+      internalID: 2030249230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_13
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 3365
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b3a791d7dd1224bb1ab55af8f53d83
+      internalID: 830442995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_14
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 3405
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644ea261ef8e781438b4b53f6d054d4e
+      internalID: -1502599743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_15
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 2816
+        width: 644
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8821176d0e529c243b1cab4ca217e276
+      internalID: 706073269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_16
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2811
+        width: 653
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66048be5d39e5a45acbafe2ff6cd8bc
+      internalID: -723808603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_17
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 3382
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaf213a067e2ee478644fe1746c0d79
+      internalID: -1388206157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_18
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 3363
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaf86dc44dbbe043a609d8e1b4b0d1a
+      internalID: -363822589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2820
+        width: 635
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0f748bee27b4b43b6276422ff12369
+      internalID: -1631582435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_20
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 3299
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e494cb64c796e4642939e967082c572c
+      internalID: -1208342832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_21
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 3309
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8371488212bfd6b43be45154e1e8d769
+      internalID: 1769510016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_22
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 2809
+        width: 651
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804174e748621dd4180afbd4f5b2d166
+      internalID: -309691514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_23
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 3311
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40082367ddccde94ea289871c479777a
+      internalID: 1665928563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_24
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 2811
+        width: 647
+        height: 567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9be28ed4f28bd4e92ee3142cc35853
+      internalID: -8733661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_25
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 3331
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2891bd577ebcfde48b0a2e90a0be32ee
+      internalID: 140606311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_26
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 3337
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404514a4e88a6a0458f310f59ba82327
+      internalID: 964750002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_27
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 3251
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a67e1ff275cb7149b2efc8780f04ca1
+      internalID: 1977136658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_28
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 3295
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e792fc552cafd542b98162ede9e1403
+      internalID: -1752421906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_29
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 3211
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3536aec35161945958c1095984b19c
+      internalID: 1273073985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_30
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 3290
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d459ef26a20d71429898f6f1f928d81
+      internalID: 1441548914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_31
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 3250
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a742c84a6fa4ffd40a860cf5622cae8c
+      internalID: -788385182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_32
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 3231
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8171ea6f44874434c82a09dfbe5d0c36
+      internalID: 392355371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_33
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 3163
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1610d642de53194dbba87f0a5b35bd6
+      internalID: 2097555071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_34
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 3209
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde4f3c762a90294cae8288f384b0768
+      internalID: -2087428422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_35
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 3092
+        width: 72
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe7af7ff09ceb240a65dccf07a1439d
+      internalID: 1219997633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_36
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 3000
+        width: 123
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480d82762d08fd640b47d312d6a9d080
+      internalID: 297140587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_37
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 3179
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da003e95386d78a44995308a49dbda63
+      internalID: -1274836918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_38
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 3170
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075257ebd28b37648bea1990bf51723d
+      internalID: -642339914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_39
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 3177
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c646c2a9743891c4798e56ead412c17c
+      internalID: 1069623173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_40
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 3145
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9632b7d82acfc245a438f1ffa960faa
+      internalID: -1883235976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_41
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 3173
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ba3eb9e472d8146b170cff484c14b1
+      internalID: -1200340637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_42
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 3147
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d953e5473933249bed984473372a43
+      internalID: -472492195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3133
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feef1d1fc3917946b191e76ca8dacc6
+      internalID: 1698674325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_44
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 3134
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75114e34d5ba8624ba9aef74fa9246c8
+      internalID: -1656553538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_45
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3131
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd76ab843fdcae479e22200892629af
+      internalID: 1729405705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_46
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 3133
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5024d051d102695448daf80aae7f7bc8
+      internalID: -159043486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_47
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 3115
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19302d3124966074ea1653adc2afe68d
+      internalID: -656564811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_48
+      rect:
+        serializedVersion: 2
+        x: 4069
+        y: 3116
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64501f03737e6c94887b5d292d2d4ac0
+      internalID: 72795867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_49
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 3101
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2592e58dcf8e9744855deccb3696657
+      internalID: -71408751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_50
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 3122
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6a0e56e8b16774ea2ebed6cf55454f
+      internalID: 6924974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_51
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 3080
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5e745162d08a84f881cfc4e5e7e053
+      internalID: -1245583735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_52
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 2827
+        width: 209
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af71c90ffbd0e074f82ff0dbd96ba49b
+      internalID: 1356833011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_53
+      rect:
+        serializedVersion: 2
+        x: 4019
+        y: 2769
+        width: 67
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4a0206d4d62cb468c0275ff28771cd
+      internalID: -1271913271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_54
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 2801
+        width: 175
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0da20472bc9154e95c0c0647646132
+      internalID: 127015917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2205
+        width: 626
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a96a2c55320a3479dbadf8e49bb64d
+      internalID: 1989862102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_56
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2209
+        width: 615
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f717774d6c5fd248bd80f60ad7b5bb7
+      internalID: 2139681348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_57
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 2228
+        width: 586
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd424fb780d9b742aa7b900f9a3e25e
+      internalID: 345364367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_58
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2388
+        width: 171
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d81f9a38a01b742b5b8a57a92fa062
+      internalID: -450875976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_59
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 2214
+        width: 602
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1b00c5e16d3ad49a980a70a7c09992
+      internalID: 539855674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_60
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 2236
+        width: 569
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1f2a84fec31de47b600613fffe4b73
+      internalID: 124303976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_61
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2209
+        width: 161
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416c87708ff11c6409b63246976b2791
+      internalID: -755237931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_62
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 2293
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc52a3104d919f4297ef8e14b525f82
+      internalID: 138972326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_63
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 2240
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6c336ad1d7e4a429b2296f559a543b
+      internalID: -843297130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_64
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 2206
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b05dc7b49a9c74893d8913e1f0022b
+      internalID: -268782508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_65
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 2221
+        width: 191
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa489d3805fb8a849a5bee23c0234f0d
+      internalID: -792703318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_66
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 2221
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d901554556784993c05652ad964b9
+      internalID: 549404305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_67
+      rect:
+        serializedVersion: 2
+        x: 3941
+        y: 2237
+        width: 71
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d3f9457bfa29f4c841e49dabd4731d
+      internalID: -1272222105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_68
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 2223
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208c0078157e8874f8ed34aa497cd677
+      internalID: -1028777900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_69
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1717
+        width: 479
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919499e3e2deda24fb51ec07581aeaae
+      internalID: -161229803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_70
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1732
+        width: 103
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40039b49215c72241a77572de55fb4c3
+      internalID: 690101725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_71
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2009
+        width: 132
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5cb133c8050334685319366af1de71
+      internalID: -1552809547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_72
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1692
+        width: 535
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179dec77b5c8d1743b6025777f214d83
+      internalID: -1013304946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_73
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1696
+        width: 519
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d5b12ee92635a449d626d82d42dd1c
+      internalID: 1491683578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_74
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1318
+        width: 255
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2861f5fd8aec1439fae2287a9eef32
+      internalID: 619675415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_75
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 1788
+        width: 43
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76725f3142124e34b8fc96233224008a
+      internalID: -148122341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_76
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 1684
+        width: 555
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aa981b87212d2489816231f708b331
+      internalID: 113552730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_77
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 1732
+        width: 499
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb196078cc9e7a74ca125d6b82297798
+      internalID: 2079479291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_78
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1809
+        width: 100
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effd590ddf388b141a4ea9853d6093f9
+      internalID: 1136262581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_79
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2004
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e3541ee2d49f64cbf7728e247c50fc
+      internalID: -820414923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_80
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 1710
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0b6978b2fe4014494a7e53ea4a95d7
+      internalID: -416098535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_81
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1256
+        width: 462
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947b5cf0b86dfbf4f974cf44ae219b1c
+      internalID: 255183247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_82
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1253
+        width: 463
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab9f187b54734347842f60ec2bae989
+      internalID: -1147421480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_83
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1236
+        width: 455
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0e58d3996320b4f8f2437961ee1b10
+      internalID: 1729295962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_84
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1353
+        width: 327
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99449f273bb72544954d2fda403790d
+      internalID: 473237642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_85
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1231
+        width: 457
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169d68118586cdd49bd33bb2aee19442
+      internalID: -1514059774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_86
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1236
+        width: 449
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283f85e8faf873543a6d15e1e3d6fb73
+      internalID: 2115077204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_87
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 1331
+        width: 134
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c023b30f01bda4383ef8d92a0d1f89
+      internalID: 496518082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_88
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 1305
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77c1a8319946aa44b9a96b6728450d3
+      internalID: 200869652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_89
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 1263
+        width: 364
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f4c6f28d84d134c898b1f39f5c007b
+      internalID: -837546471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_90
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1265
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae079bf2e8013d48b9c7a2f26b83ba1
+      internalID: -79447085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_91
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1244
+        width: 191
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e696a5e3a5476428bc15c069c01a27
+      internalID: 222278305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_92
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1244
+        width: 190
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156ae163894f75645b7e12c45b9c48b6
+      internalID: -1661811375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_93
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 1213
+        width: 192
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008afea1405f65540bed8278a6c33e73
+      internalID: -175938082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_94
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 1211
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54c793f3a876da4cb146e0078c68338
+      internalID: -621644982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_95
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 1253
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6a42ef1ca202d4ab036a09f42ae123
+      internalID: 217909203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_96
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1237
+        width: 188
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ba6417983a9bf429bebe11d7f2a639
+      internalID: -496151415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_97
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 813
+        width: 437
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e778142ffb55fe4cbab72c42c7df377
+      internalID: -359027178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_98
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 812
+        width: 439
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf7daf18f6b5a142a1766984a50da9d
+      internalID: -201417086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_99
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1118
+        width: 266
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acd04bf93fbac6409ad66451669cd27
+      internalID: -1653947427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_100
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1152
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b3af38c3f756348a67efbd02f61792
+      internalID: 1596255422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_101
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 809
+        width: 412
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b0735c9b989f144bb468fe5fc61f94
+      internalID: -1990122618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_102
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 941
+        width: 126
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8fe3084ea42b44bbf8d7c0652983dc
+      internalID: -1881243897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_103
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 808
+        width: 430
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecc2a99aa13c274783571797fa63591
+      internalID: 1438484353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_104
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 884
+        width: 345
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da8f58a33905264ba36544e2221661f
+      internalID: 469340027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_105
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 761
+        width: 394
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232248dccc7a22640be007526bdc0a11
+      internalID: 1983133584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_106
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 563
+        width: 214
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb641e5ebe36fd4ab775873015373b7
+      internalID: 1358164253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_107
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 948
+        width: 299
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fffd90f7ba30a4089683a3582b3742
+      internalID: 820722147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_108
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 964
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b8b1b2507d76a46b8e2d50754df9fd
+      internalID: 900403987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_109
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 982
+        width: 296
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47da8ce58a2d01b41868ae540beadbdf
+      internalID: 1888049033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_110
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 544
+        width: 418
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b050e4026788f48a2f1554a567cd6e
+      internalID: -643078061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_111
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 801
+        width: 120
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c558633e610fa489486fc536f27aee
+      internalID: 1307731659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_112
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 821
+        width: 118
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da907a8687e7bd441898af2b71a31cfb
+      internalID: -392842917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_113
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 820
+        width: 191
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70492d334b7da446a588bee1d7a4fbf
+      internalID: -709742706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_114
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 801
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b21434d0b0cb46ae1b0067c7b3794
+      internalID: -1073913664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_115
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 774
+        width: 184
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa1dd995ed25de4da1f486be2a9880d
+      internalID: 139828227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_116
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 847
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c17a77e095503443bbf15694dcaa510
+      internalID: 759498072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_117
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 822
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a56b0b3428b73c4cbfd4e01beadf5a5
+      internalID: 275844702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_118
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 813
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb04af70f2e1eda4f900857bde9718ce
+      internalID: 701866133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_119
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 405
+        width: 403
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575bc486a828ede4092d2aad6900b5a8
+      internalID: 1651564277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_120
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 413
+        width: 387
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dbf12a047d30c4f802bd0b9b684791
+      internalID: 554828693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_121
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 433
+        width: 363
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acc18029ec6ffd4c8cf3b3e7c2010a6
+      internalID: -1607467051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_122
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 414
+        width: 392
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e26a519ab2e504ab7a8b1ed926ebad
+      internalID: 1933996574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_123
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 428
+        width: 376
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e79c68d516c3834cb3a1d6900f64217
+      internalID: -603969310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_124
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 398
+        width: 363
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9952e52a4db191d4395a8ed7624d9ba0
+      internalID: 611690704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_125
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 712
+        width: 82
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df4dcd0babb40047a538ce2eb3caa36
+      internalID: -1064466641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_126
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 581
+        width: 223
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21aa1460c807fe48b35bcc5eee6df1c
+      internalID: 278863239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_127
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 632
+        width: 126
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aeacaebb062d94d8bf9e6d93e85b8c
+      internalID: -25832914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_128
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 656
+        width: 145
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57177ef9d814214c87b52e944aa484b
+      internalID: -1330883400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_129
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 629
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5474ef4e299241148b3d9bc2b49da8fc
+      internalID: 112612040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_130
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 547
+        width: 116
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b28b613b6790245ac5c07eff340975
+      internalID: 24761518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_131
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 225
+        width: 307
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58a318f892c3b942b921870536e089d
+      internalID: -1849205461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_132
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 430
+        width: 183
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104cfa36265935c4daa91bd66314212a
+      internalID: -646808448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_133
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 333
+        width: 574
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0645baca81fb13d428c7d423a52597ec
+      internalID: -292351736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_134
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 243
+        width: 154
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bf9a0c42eabd54ba2166de96dcd2f0
+      internalID: -126768299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_135
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 394
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cec064916b14b4ba12b65b55b3360b
+      internalID: 1664063874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_136
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 454
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42d965a003061b428a20c3039145c6d
+      internalID: -1132935816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_137
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 129
+        width: 269
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dee414afd3b84542b73e2e7f2c45a26
+      internalID: -1603754458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_138
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 176
+        width: 366
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fcc2a620bc1844886f443b18e2649e
+      internalID: -1573109127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_139
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 157
+        width: 104
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5384713a8720c564fa8f0f43cebb112d
+      internalID: 1643647038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_140
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 137
+        width: 154
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5c9d9c5d725d14b93e3dfa7efef9b7
+      internalID: 2146756060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_141
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 241
+        width: 109
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3060d4b36050e3a4bb832429dfefb866
+      internalID: -502681373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_142
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 128
+        width: 289
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152317fd3f88c8d4288ad15283c153a8
+      internalID: 615562300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_143
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 209
+        width: 445
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f9abe857a77a54288639cd4bc849a1
+      internalID: 1247076025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_144
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 261
+        width: 250
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6813de08a3b9042bc80c8f1f8b0434
+      internalID: 2147443090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_145
+      rect:
+        serializedVersion: 2
+        x: 3545
+        y: 221
+        width: 222
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2b8f34864b612409c8502c524df0de
+      internalID: 481442841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_146
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 241
+        width: 254
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66074ab2fe785a34baa74af846bfb4b6
+      internalID: 1850789322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 183
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170b5bcbf21007441b7dc8d40a435ea3
+      internalID: -1255129153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_148
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 98
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dc4414ce4c2d34cba5c49c02f3f7a9
+      internalID: -1986668924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_149
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 207
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541961eb4f8255346a3c5916f2efc05a
+      internalID: 775536836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_150
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 61
+        width: 96
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f288beb7e260d9b429b57a77635c9339
+      internalID: 1379998601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_151
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 161
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a4cbd3e6aa65a4a90ceb6970dd7af4
+      internalID: -1612544815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_152
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 188
+        width: 79
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4aea4fd926cb649a982675dc0f8d38
+      internalID: 1203003401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_153
+      rect:
+        serializedVersion: 2
+        x: 3977
+        y: 134
+        width: 119
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688366615c345c42a53b3c482e8c4c9
+      internalID: -1368939025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_154
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 99
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514cb68d84bd7ce40971d32baa4f9af8
+      internalID: 1374511163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_155
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 125
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf2f7560e3c0354eb4744681ed71c60
+      internalID: 2097460254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_156
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 185
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75a413e29998b141b892250adca3eab
+      internalID: -1023956015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_157
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 192
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e705b21ee9c3e49a4ac22e580a9863
+      internalID: 784229987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_158
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 67
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0f22a25d0681f44b4863b8549e94a4
+      internalID: -558148211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_159
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 91
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cfcc61627652d42b4d9ee8ee010288
+      internalID: -127192248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_160
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 107
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6572bb8285c6d134e8332e23316f80c4
+      internalID: 181506515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_161
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 109
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5741d0158d7c6fc4fa0d72243c10673f
+      internalID: -1577341519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_162
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 156
+        width: 213
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c313f1358da12c544b14741b30c2b964
+      internalID: -1701753165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_163
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 65
+        width: 453
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb614b09a447c04449c325036d0d6486
+      internalID: -1362927970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_164
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 90
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d241f24dc8b7d4c84c58120e35ccf5
+      internalID: 1004458322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_165
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 57
+        width: 185
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5dad653d8b6e745bdd778ef206c6a1
+      internalID: -373287681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HammerZombie_166
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 53
+        width: 250
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384d2cff44e461146a193fe78473b695
+      internalID: -1603237531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HammerZombie_34: -2087428422
+      HammerZombie_140: 2146756060
+      HammerZombie_115: 139828227
+      HammerZombie_160: 181506515
+      HammerZombie_164: 1004458322
+      HammerZombie_30: 1441548914
+      HammerZombie_80: -416098535
+      HammerZombie_103: 1438484353
+      HammerZombie_116: 759498072
+      HammerZombie_55: 1989862102
+      HammerZombie_107: 820722147
+      HammerZombie_84: 473237642
+      HammerZombie_11: 1950839138
+      HammerZombie_153: -1368939025
+      HammerZombie_68: -1028777900
+      HammerZombie_44: -1656553538
+      HammerZombie_65: -792703318
+      HammerZombie_118: 701866133
+      HammerZombie_27: 1977136658
+      HammerZombie_120: 554828693
+      HammerZombie_66: 549404305
+      HammerZombie_113: -709742706
+      HammerZombie_59: 539855674
+      HammerZombie_1: -48853830
+      HammerZombie_33: 2097555071
+      HammerZombie_123: -603969310
+      HammerZombie_3: 1256002960
+      HammerZombie_41: -1200340637
+      HammerZombie_50: 6924974
+      HammerZombie_96: -496151415
+      HammerZombie_93: -175938082
+      HammerZombie_16: -723808603
+      HammerZombie_0: -1868266908
+      HammerZombie_129: 112612040
+      HammerZombie_101: -1990122618
+      HammerZombie_76: 113552730
+      HammerZombie_21: 1769510016
+      HammerZombie_77: 2079479291
+      HammerZombie_97: -359027178
+      HammerZombie_51: -1245583735
+      HammerZombie_63: -843297130
+      HammerZombie_133: -292351736
+      HammerZombie_25: 140606311
+      HammerZombie_87: 496518082
+      HammerZombie_117: 275844702
+      HammerZombie_47: -656564811
+      HammerZombie_6: 479395680
+      HammerZombie_52: 1356833011
+      HammerZombie_53: -1271913271
+      HammerZombie_108: 900403987
+      HammerZombie_110: -643078061
+      HammerZombie_100: 1596255422
+      HammerZombie_45: 1729405705
+      HammerZombie_75: -148122341
+      HammerZombie_147: -1255129153
+      HammerZombie_2: 552739057
+      HammerZombie_57: 345364367
+      HammerZombie_69: -161229803
+      HammerZombie_94: -621644982
+      HammerZombie_67: -1272222105
+      HammerZombie_157: 784229987
+      HammerZombie_102: -1881243897
+      HammerZombie_135: 1664063874
+      HammerZombie_61: -755237931
+      HammerZombie_131: -1849205461
+      HammerZombie_134: -126768299
+      HammerZombie_81: 255183247
+      HammerZombie_36: 297140587
+      HammerZombie_12: 2030249230
+      HammerZombie_128: -1330883400
+      HammerZombie_42: -472492195
+      HammerZombie_142: 615562300
+      HammerZombie_161: -1577341519
+      HammerZombie_73: 1491683578
+      HammerZombie_146: 1850789322
+      HammerZombie_37: -1274836918
+      HammerZombie_43: 1698674325
+      HammerZombie_5: 582779325
+      HammerZombie_8: 379413924
+      HammerZombie_92: -1661811375
+      HammerZombie_126: 278863239
+      HammerZombie_26: 964750002
+      HammerZombie_56: 2139681348
+      HammerZombie_40: -1883235976
+      HammerZombie_132: -646808448
+      HammerZombie_48: 72795867
+      HammerZombie_158: -558148211
+      HammerZombie_7: 988590401
+      HammerZombie_86: 2115077204
+      HammerZombie_74: 619675415
+      HammerZombie_14: -1502599743
+      HammerZombie_99: -1653947427
+      HammerZombie_121: -1607467051
+      HammerZombie_15: 706073269
+      HammerZombie_98: -201417086
+      HammerZombie_139: 1643647038
+      HammerZombie_122: 1933996574
+      HammerZombie_136: -1132935816
+      HammerZombie_145: 481442841
+      HammerZombie_137: -1603754458
+      HammerZombie_39: 1069623173
+      HammerZombie_10: 1192796091
+      HammerZombie_154: 1374511163
+      HammerZombie_23: 1665928563
+      HammerZombie_19: -1631582435
+      HammerZombie_58: -450875976
+      HammerZombie_31: -788385182
+      HammerZombie_38: -642339914
+      HammerZombie_104: 469340027
+      HammerZombie_105: 1983133584
+      HammerZombie_60: 124303976
+      HammerZombie_109: 1888049033
+      HammerZombie_151: -1612544815
+      HammerZombie_95: 217909203
+      HammerZombie_143: 1247076025
+      HammerZombie_28: -1752421906
+      HammerZombie_162: -1701753165
+      HammerZombie_156: -1023956015
+      HammerZombie_62: 138972326
+      HammerZombie_124: 611690704
+      HammerZombie_17: -1388206157
+      HammerZombie_90: -79447085
+      HammerZombie_144: 2147443090
+      HammerZombie_119: 1651564277
+      HammerZombie_165: -373287681
+      HammerZombie_152: 1203003401
+      HammerZombie_18: -363822589
+      HammerZombie_9: -452505364
+      HammerZombie_46: -159043486
+      HammerZombie_111: 1307731659
+      HammerZombie_125: -1064466641
+      HammerZombie_130: 24761518
+      HammerZombie_163: -1362927970
+      HammerZombie_112: -392842917
+      HammerZombie_127: -25832914
+      HammerZombie_166: -1603237531
+      HammerZombie_150: 1379998601
+      HammerZombie_114: -1073913664
+      HammerZombie_159: -127192248
+      HammerZombie_138: -1573109127
+      HammerZombie_13: 830442995
+      HammerZombie_64: -268782508
+      HammerZombie_106: 1358164253
+      HammerZombie_49: -71408751
+      HammerZombie_20: -1208342832
+      HammerZombie_35: 1219997633
+      HammerZombie_83: 1729295962
+      HammerZombie_79: -820414923
+      HammerZombie_82: -1147421480
+      HammerZombie_22: -309691514
+      HammerZombie_149: 775536836
+      HammerZombie_88: 200869652
+      HammerZombie_141: -502681373
+      HammerZombie_24: -8733661
+      HammerZombie_70: 690101725
+      HammerZombie_71: -1552809547
+      HammerZombie_85: -1514059774
+      HammerZombie_91: 222278305
+      HammerZombie_4: 48623309
+      HammerZombie_78: 1136262581
+      HammerZombie_29: 1273073985
+      HammerZombie_32: 392355371
+      HammerZombie_148: -1986668924
+      HammerZombie_155: 2097460254
+      HammerZombie_54: 127015917
+      HammerZombie_72: -1013304946
+      HammerZombie_89: -837546471
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

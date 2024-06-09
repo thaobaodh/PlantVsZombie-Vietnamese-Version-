@@ -1,0 +1,2456 @@
+fileFormatVersion: 2
+guid: e7f3a38fab9943e48939613bcd10d002
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GodOfEarthObject_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 329
+        width: 123
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e248ada822e9ac4e988130917cfe168
+      internalID: -808427414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 505
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b013028eb6eb4f4f832a3156a43a729
+      internalID: 1233357302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 329
+        width: 103
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b43ccbce119d84290e2c5c42e6851b
+      internalID: 1716037965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 267
+        width: 54
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f466429c51874a48861a66a200fc6e9
+      internalID: -388199322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_4
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 583
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2002270c9cc054848b7e0d8132963dec
+      internalID: 393555936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_5
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 566
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152c93c691112b3439ef154bde6bcab3
+      internalID: -1744427370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 346
+        width: 94
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540006bce3b28e245ae541aaa9471cb9
+      internalID: -912268924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_7
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 526
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6331e4f2bb2ab5b47a7e48663ab44277
+      internalID: 1623879053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_8
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 485
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610ba0c6de5f8134788b2e123ee37714
+      internalID: -1872579085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_9
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 535
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9f1d61ad5651646bb3b390a1bfc7dc
+      internalID: 848431164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 473
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4407ae6019a2144b4888ee175d6b23
+      internalID: -669877919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 453
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01f41242b6f8e34299f7fd646c2153b
+      internalID: 1789129502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_12
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 466
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51ce01f4050c514e9be27fdb266e0fe
+      internalID: 1828170037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 401
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f752762d2a307c34388b6218582bb55a
+      internalID: -233449725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_14
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 415
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84805d3d3b63b4a449f835c9e66638a1
+      internalID: -831070431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 409
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a079c8816b978e34d8db3d0bf18d6c64
+      internalID: -170288758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_16
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 416
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aeac05d618ab94ab6fe7353d296e9f
+      internalID: 478241595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 213
+        width: 178
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aec81a544c3eed4b8b9074fee5700b0
+      internalID: -28618905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 330
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4058a38b83b945247ad8a5533451fa6a
+      internalID: -1248598212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_19
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 313
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf2543b58e7c4f4d8722e8315b160a4
+      internalID: -1677907727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_20
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 355
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d67642ee4020b4193b3d5741c2a762
+      internalID: 819611035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 81
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a52a4d00cb7b1e43a877044c1c20945
+      internalID: -689924589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 317
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3054d5a1b47a242b385972116f9e27
+      internalID: -1153862248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_23
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 304
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7c645e8ca9f3a46bb214c7b7fcd4cb
+      internalID: -137426992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_24
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 270
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850f0633a2a9fd948a80383f6c7d1748
+      internalID: -1575612068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 104
+        width: 82
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38f1d265cce71144bd890a6c05f76d9
+      internalID: 1065263003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_26
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 292
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5162ee8299e178d4fa14e6ad95694937
+      internalID: 1849179074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_27
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 271
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fad61df9bb54cb458e81603ac872f79
+      internalID: -1935430391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_28
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 267
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8442db699599948809405a128b5617
+      internalID: 356130691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_29
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 159
+        width: 92
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea402e9b9baafd742ab566014fcb0afa
+      internalID: 1083553017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_31
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 234
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10f98376cf3783449181d2f778df604
+      internalID: 805574378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_32
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 256
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcda69181e2340742b83b943706ea68a
+      internalID: -376415211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_33
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 255
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c61b7f749477647a95269b3ae47b50
+      internalID: 1834111665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_34
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 191
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17efed736c5266e45ad98dc3cbd4b14e
+      internalID: -984876178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_35
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 180
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f671e8d58e076c1409ecfe6c5ffccccf
+      internalID: -1627284058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_36
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 149
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e650aae824d1d745b1a070a83e11644
+      internalID: -1868189759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 110
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d1c91437ee92445950d4cc83198675
+      internalID: -840016767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 87
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5cbc515f939064aa81a6a9fc1d2015
+      internalID: -218070388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_41
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 95
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0560f4ca8922db4aa51ff1fd79d596e
+      internalID: -881730700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_42
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 83
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5622ea5b1d5e841aef9f83342704fb
+      internalID: -2078893591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_43
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 90
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c520e63bd088f9442b06567e952e4786
+      internalID: 1171765066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_44
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 88
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f442b911b7a480d4b964954b292d9a59
+      internalID: 477600821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_45
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 93
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bf90b08faef2349abad23547967db1
+      internalID: -1686004797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_46
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 47
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8a0f04019956a4790658c8334b94ba
+      internalID: 1711992930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 61
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6321adbcc3abe1c40affe67646099500
+      internalID: 1557555350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 62
+        width: 78
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0a2cb0dae864b4b91ddf1af623381b
+      internalID: -1498996728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_53
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 24
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8671651314a3c642964614ec123ac97
+      internalID: -994804223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_54
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdd5b724b48bff49925684d14ee9708
+      internalID: 1495945520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_39
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 84
+        width: 99
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935753621f7fd7d438a8f15e07eb9137
+      internalID: 1434626475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_55
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 117
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f05ecbba8ebedc4fb22602624790a91
+      internalID: -243345336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_56
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 169
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856e915a83cdf414b92fcc8a5b00d606
+      internalID: 548412970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_57
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 153
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b191192226f458c48ba2ac30e1c58155
+      internalID: -1987850829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_58
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 80
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656b2f0cfe7a2d8449bdd6b8f8c568cf
+      internalID: 382901978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_59
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 87
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302349f73b4d17b4daa9a524db59e19e
+      internalID: 1444815016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_30
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 96
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c9d3384d607e8478adcb89606fd326
+      internalID: -850661059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_60
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 43
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d46650e8ce85f4d85ca61c92f5d20f
+      internalID: 120115881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_61
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 43
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f75f7b62799f5449e3b18f82490e6e
+      internalID: -1002525860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_62
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 59
+        width: 71
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd88ee88268c0e409da8e350fc8b2bf
+      internalID: 957694771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_63
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 80
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fda4d5bc7ded74c9bc9a3d6efbd9c7
+      internalID: -869184559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_64
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 80
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33897272ac682d498fe8400a462f201
+      internalID: 1680496442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 20
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb03374d34abf543a2bfb5abab657c3
+      internalID: 142660730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_66
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 13
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce0afc7f566c14596b87282ae9543b
+      internalID: -1828221817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_67
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 13
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06960d2224551e944bfd8d3ff2478568
+      internalID: 243769369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_68
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 18
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f2aad089f229041aa7add8d76558d5
+      internalID: -313887473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_69
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 3
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c324382dfa434d9d5a20fa5927949
+      internalID: -700175368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_70
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee146f4f8ef09424b98a151f4426ca9e
+      internalID: 122647965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_71
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 3
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7460d916401e12440b4faceb10c6a391
+      internalID: 240589254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_72
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d2062f5b2772428982c8cade1caba
+      internalID: -418868358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_73
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e92db0aeea7fa24da68e10aa50377eb
+      internalID: 361249747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_74
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df58a61a863640d4a892445046eab569
+      internalID: -567868689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_75
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 6
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3299c86532bcdb54987969ff0513bb80
+      internalID: -1169658327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_76
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 5
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d986a494af2bbaa459775719bab1b7a0
+      internalID: 618939553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_77
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 23
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dc951fc750c28499da166cdd7d12e2
+      internalID: -1041848260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_78
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 16
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3755b82cce748f1448e266437740f165
+      internalID: -1250608696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_79
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 32
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17890bdbe8d6fc4c94b4e40222a17d0
+      internalID: 2106907065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_80
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 62
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4da96c6eda0b7342aaa96246c7dc946
+      internalID: 684134814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_81
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 72
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1114b4acbb6254699ffbd7eba588d4
+      internalID: 818266199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_82
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303e82bc58f7a614fb59fceeb1f7a6eb
+      internalID: -200421414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_83
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 42
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64995476bf1846409a071a489442ef3
+      internalID: -1326986091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_84
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 46
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b1fbdd358b7da4988a8266a4393861
+      internalID: 1976273765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_85
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 24
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b8cf31d4e1de45b032a5434c525d0
+      internalID: -1967258355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_86
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 16
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348cf091c6e7efd4aa9fd42cfa41ab3a
+      internalID: -248555826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_87
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 7
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567983ec2d89bc443a3c7addaef86e5d
+      internalID: -613677170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_88
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeb72a0eee61244b8e601cadb287f42
+      internalID: 1364467890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_89
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 7
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc53839283137b44691dd749a1fb9546
+      internalID: 1148115072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_37
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 155
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354923e8c7971ae4395727096ff8b493
+      internalID: 943928154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_90
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784a83803b14064419889c508212ddeb
+      internalID: 1804746797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_50
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 68
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1615cefffc6f04e8ea3cff43a54501
+      internalID: 1762570852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_91
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 47
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2ae6c93cbb7a84a99b6e580b98bf0d
+      internalID: -202119479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_92
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 42
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17868e171e4ea274f9f52f94b3ad3b38
+      internalID: 759420588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_93
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 3
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b685adeccb295474f9470073fe962127
+      internalID: -1791237913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_94
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 12
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ab47232a61a0347963c93e82ea4eb3
+      internalID: 663406405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_95
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e2f77277cd8ef4688fca07377c168d
+      internalID: -1838629000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_96
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cc4662507685e4ca925c116304e958
+      internalID: -80035625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_47
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 23
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7a0fa0cd678c843af24aa03c17fa22
+      internalID: 1836385370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 9
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede168bb31d00304f86dd99f82afe4fc
+      internalID: -406849554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987f2dce75502134e8726bd598c67c68
+      internalID: -1416179411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 9
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b23ec0e64456642ba819c254d6dfee
+      internalID: 1903563637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_99
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 5
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19feacf2d773b848a97b4e07a09cf6b
+      internalID: -1044725669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_100
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e633363bbb0f64c4da31e4d7d3e6dc94
+      internalID: -303737303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0c80ac1e05d5b49a5bb0ea6533a849
+      internalID: -1755266912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496f88ddd1ab2104298d606b2aa979cd
+      internalID: -2071431735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_102
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 10
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce9e693fa9aec74ca6606b7fe946705
+      internalID: 1469579308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_103
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 3
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917ab7b8a49dcfa45b5a704b35dbad06
+      internalID: 1186593709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GodOfEarthObject_104
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 343
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee92a6b7b59cdf429224bee430edc0a
+      internalID: -1392619352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GodOfEarthObject_45: -1686004797
+      GodOfEarthObject_95: -1838629000
+      GodOfEarthObject_71: 240589254
+      GodOfEarthObject_70: 122647965
+      GodOfEarthObject_65: 142660730
+      GodOfEarthObject_36: -1868189759
+      GodOfEarthObject_25: 1065263003
+      GodOfEarthObject_104: -1392619352
+      GodOfEarthObject_58: 382901978
+      GodOfEarthObject_100: -303737303
+      GodOfEarthObject_44: 477600821
+      GodOfEarthObject_66: -1828221817
+      GodOfEarthObject_21: -689924589
+      GodOfEarthObject_48: 1557555350
+      GodOfEarthObject_7: 1623879053
+      GodOfEarthObject_22: -1153862248
+      GodOfEarthObject_23: -137426992
+      GodOfEarthObject_82: -200421414
+      GodOfEarthObject_73: 361249747
+      GodOfEarthObject_50: 1762570852
+      GodOfEarthObject_85: -1967258355
+      GodOfEarthObject_2: 1716037965
+      GodOfEarthObject_76: 618939553
+      GodOfEarthObject_12: 1828170037
+      GodOfEarthObject_64: 1680496442
+      GodOfEarthObject_88: 1364467890
+      GodOfEarthObject_39: 1434626475
+      GodOfEarthObject_5: -1744427370
+      GodOfEarthObject_38: -840016767
+      GodOfEarthObject_101: -2071431735
+      GodOfEarthObject_87: -613677170
+      GodOfEarthObject_18: -1248598212
+      GodOfEarthObject_86: -248555826
+      GodOfEarthObject_20: 819611035
+      GodOfEarthObject_83: -1326986091
+      GodOfEarthObject_43: 1171765066
+      GodOfEarthObject_49: -1498996728
+      GodOfEarthObject_75: -1169658327
+      GodOfEarthObject_92: 759420588
+      GodOfEarthObject_69: -700175368
+      GodOfEarthObject_60: 120115881
+      GodOfEarthObject_8: -1872579085
+      GodOfEarthObject_80: 684134814
+      GodOfEarthObject_78: -1250608696
+      GodOfEarthObject_31: 805574378
+      GodOfEarthObject_16: 478241595
+      GodOfEarthObject_26: 1849179074
+      GodOfEarthObject_17: -28618905
+      GodOfEarthObject_57: -1987850829
+      GodOfEarthObject_90: 1804746797
+      GodOfEarthObject_84: 1976273765
+      GodOfEarthObject_14: -831070431
+      GodOfEarthObject_68: -313887473
+      GodOfEarthObject_28: 356130691
+      GodOfEarthObject_96: -80035625
+      GodOfEarthObject_9: 848431164
+      GodOfEarthObject_67: 243769369
+      GodOfEarthObject_46: 1711992930
+      GodOfEarthObject_79: 2106907065
+      GodOfEarthObject_89: 1148115072
+      GodOfEarthObject_27: -1935430391
+      GodOfEarthObject_37: 943928154
+      GodOfEarthObject_15: -170288758
+      GodOfEarthObject_59: 1444815016
+      GodOfEarthObject_103: 1186593709
+      GodOfEarthObject_81: 818266199
+      GodOfEarthObject_61: -1002525860
+      GodOfEarthObject_94: 663406405
+      GodOfEarthObject_1: 1233357302
+      GodOfEarthObject_3: -388199322
+      GodOfEarthObject_47: 1836385370
+      GodOfEarthObject_98: 1903563637
+      GodOfEarthObject_33: 1834111665
+      GodOfEarthObject_55: -243345336
+      GodOfEarthObject_41: -881730700
+      GodOfEarthObject_56: 548412970
+      GodOfEarthObject_0: -808427414
+      GodOfEarthObject_99: -1044725669
+      GodOfEarthObject_11: 1789129502
+      GodOfEarthObject_4: 393555936
+      GodOfEarthObject_63: -869184559
+      GodOfEarthObject_42: -2078893591
+      GodOfEarthObject_62: 957694771
+      GodOfEarthObject_24: -1575612068
+      GodOfEarthObject_53: -994804223
+      GodOfEarthObject_40: -218070388
+      GodOfEarthObject_19: -1677907727
+      GodOfEarthObject_32: -376415211
+      GodOfEarthObject_6: -912268924
+      GodOfEarthObject_54: 1495945520
+      GodOfEarthObject_35: -1627284058
+      GodOfEarthObject_13: -233449725
+      GodOfEarthObject_30: -850661059
+      GodOfEarthObject_77: -1041848260
+      GodOfEarthObject_51: -1755266912
+      GodOfEarthObject_52: -406849554
+      GodOfEarthObject_91: -202119479
+      GodOfEarthObject_93: -1791237913
+      GodOfEarthObject_102: 1469579308
+      GodOfEarthObject_29: 1083553017
+      GodOfEarthObject_97: -1416179411
+      GodOfEarthObject_74: -567868689
+      GodOfEarthObject_10: -669877919
+      GodOfEarthObject_34: -984876178
+      GodOfEarthObject_72: -418868358
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

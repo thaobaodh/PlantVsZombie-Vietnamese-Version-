@@ -1,0 +1,4370 @@
+fileFormatVersion: 2
+guid: 4bf6048b697284a47a4dc385cefe244a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BladeWieldingHero_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3755
+        width: 3472
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8857f767b17fa8b4f9064302f04978f7
+      internalID: 636596135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_1
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 3565
+        width: 339
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3863861f12edb4e8b4875abbf7ca71
+      internalID: -1776580269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_2
+      rect:
+        serializedVersion: 2
+        x: 3692
+        y: 4056
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ca8b56655975041bb285e2ec67d971
+      internalID: 130793881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_3
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 4035
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9073f9d260b3c64ea1aab967dcc33c5
+      internalID: 1064104170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_4
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 3997
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4c5fc4ad2dff148bed7cd4ff9248a9
+      internalID: -877111033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_5
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 3960
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610e8aebcfa11f944aeff374c9d38222
+      internalID: -1541857830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_6
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 3924
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f797e661ea2ea1498a4b4135b1e7f2f
+      internalID: 117391241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_7
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 3883
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4ec187b190bbd458559193db6edbb8
+      internalID: -500850071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_8
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 3844
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06df2b835cce9d246921cdb6f43fe30c
+      internalID: -1504137148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_9
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 3806
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cf59087977a0846b4dda83571c0cc6
+      internalID: 1700541770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_10
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 3773
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae7a9503e1aac540a25f03007832828
+      internalID: 390982600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_11
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 3722
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ce9620edb400f4e84050cdff1ac739
+      internalID: 1667091012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_12
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 3737
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b290ab107ec0f7e459af8e2ad0a0c992
+      internalID: -2104399724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_13
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3184
+        width: 631
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6ba04bc4893574da696f96c8fb8cf8
+      internalID: -2022456583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_14
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 3257
+        width: 475
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402be3831188fd64398bfe5e5061736b
+      internalID: -598820273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_15
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 3340
+        width: 362
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a2eba1edaed4f45b4fe15c18cbe4ae
+      internalID: 811736165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_16
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 3397
+        width: 373
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7029074398ec7499ea29eecb1676fa
+      internalID: 1845000073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_17
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 3673
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf119602ef967d84ab0652c5e2e49b2c
+      internalID: 2112413477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_18
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 3705
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36644123b8893254abe1348608a5c00c
+      internalID: -555351186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_19
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 3344
+        width: 352
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aa2a622bf9fee41b8c084e8ef7d820
+      internalID: -1077008710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_20
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 3681
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5e9d8207fd0e64db7bb2298d4fd730
+      internalID: -1641409416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_21
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 3649
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1765a3898bb6aad44adbb66011308513
+      internalID: -118148304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_22
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 3603
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9799e7de3bf492c42bcb05efeef107f5
+      internalID: -557920174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_23
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 3619
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bf16301aa1d8849a07f68c8e25264b
+      internalID: 1841174828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_24
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 3564
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2164638ef73a5e7449fe2d1511299190
+      internalID: 537136720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3062
+        width: 522
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc518fe47694064cbe2cb885b3ec669
+      internalID: -268096468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3544
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b76c0f39b235a44e8c81705271a4a29
+      internalID: -1334836491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_27
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3465
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ae4dd73b80d1743a6e830e3a8c57b6
+      internalID: 670045009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_28
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 3185
+        width: 294
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae19579691c2ce149b616c403ae9bd4c
+      internalID: 115300205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_29
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 3363
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72673271e1074174fa7afb671c35d32a
+      internalID: 1834576247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_30
+      rect:
+        serializedVersion: 2
+        x: 3969
+        y: 3509
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cfd6a6c80ec984082e71702e6932f2
+      internalID: -1937445625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_31
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 3269
+        width: 115
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62887273f15d5c448a19230bd103a428
+      internalID: 502877580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_32
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3358
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee0f7bd57fc1b640aa7d7dc41592508
+      internalID: 2067012210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_33
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 3325
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7394db821f7781346b259e1e8a46ab77
+      internalID: -1758479780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_34
+      rect:
+        serializedVersion: 2
+        x: 3842
+        y: 3348
+        width: 110
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0929eb418749f5641b19d08016981f51
+      internalID: 183879044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_35
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 3337
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dacc29eef29abc469cd7368a2d7117a
+      internalID: -1443203436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_36
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 3172
+        width: 214
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3544a4f13fe8a443974008b3060438d
+      internalID: -1441515274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_37
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 3305
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00897873a2301c4b8aba2333b85e861
+      internalID: -1569052707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_38
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3281
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691a8681bb0a6a14bab05a19f1c68ec9
+      internalID: -1718171043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_39
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 3050
+        width: 257
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f32dc2cf950b44e9591c335e5a9b3c
+      internalID: -733370074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_40
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3262
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b6ad96ce709884eaec2d494de52f2b
+      internalID: 1081694452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_41
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 3147
+        width: 347
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4be66a3c02a8954a817afa789b073d1
+      internalID: -1043618761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_42
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 3256
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff72c2096f743f24ea0ba265983387e2
+      internalID: 638325290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_43
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 3293
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285f639126ca01b4299a1b60b6621612
+      internalID: 1406696681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_44
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 3209
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81d90327e95e424ea7bfdcd70e39f09
+      internalID: 1922750916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_45
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 3279
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbbeb535a307e64a994f2d737e74b2f
+      internalID: 700212220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_46
+      rect:
+        serializedVersion: 2
+        x: 3858
+        y: 3284
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b59469a73bf6a146a8736181cee5e7d
+      internalID: -2031623808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_47
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 3116
+        width: 198
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341c433c1dcebb24d932cc164537a179
+      internalID: 1134398739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_48
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 3259
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9707d30cf236ca04bb5408f97c0e06f0
+      internalID: 686505250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_49
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 3255
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53178c951d687ed40b752a2647ff2885
+      internalID: 541582052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_50
+      rect:
+        serializedVersion: 2
+        x: 3382
+        y: 3279
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad38f2a204314e045b2b64e4c222866c
+      internalID: -463827009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_51
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 3254
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d423511ffafa24ca041e7ca15c4e8e
+      internalID: -1116737912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_52
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 3209
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434537de28602f34fb6cd727b892858f
+      internalID: -70492650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_53
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 3204
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45420e87c5198348a4481c2928297a8
+      internalID: -1670657687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_54
+      rect:
+        serializedVersion: 2
+        x: 4037
+        y: 3219
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeee107ac718fc4e934042ae36b2ae3
+      internalID: -1541105842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_55
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 3238
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c949f23ef34f0c4c86100de53469edc
+      internalID: 1153394051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_56
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 2996
+        width: 252
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd35cbd69b0cab24ea4d4888b0a42b82
+      internalID: -791554473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_57
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 3190
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f930f71bf871a49bc285ff914772c6
+      internalID: -1494593803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_58
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 3212
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d80796478b5814ea4e972e8babe3c0
+      internalID: 1310361628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_59
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 3229
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc86c1a38d14b24bbd49c29b7a26a4c
+      internalID: 1710124765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_60
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 3229
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad6a289feb1e7f4fb3a33e144c63002
+      internalID: -844318065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_61
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 3051
+        width: 183
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0607b46da53237c4a862126059e2ce66
+      internalID: -226953459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_62
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 3168
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f272e157550e35f4bba230642731b61a
+      internalID: -833941965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_63
+      rect:
+        serializedVersion: 2
+        x: 3349
+        y: 3195
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf497d9457cff41923b6a1a0db9326
+      internalID: 1495734966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_64
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2953
+        width: 169
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6033e76adc5dd9d47be54beb11695a12
+      internalID: 1567280961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_65
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 3046
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b98909542059846b251101903517f2
+      internalID: 1118299932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_66
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 3125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f4e50f60c606b44a46077c01b4ab0d
+      internalID: -1012098719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_67
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 3087
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80639a7a3bc54c24490f5806aa3e0b1b
+      internalID: 705789349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_68
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 2923
+        width: 202
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fb8436535b4e94ba32e9a04c4ec746
+      internalID: -34724670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_69
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 3080
+        width: 131
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37ca1a451a279043ad92419c0e47015
+      internalID: -1411430110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_70
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 3049
+        width: 331
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15bba28ed741c3478e84358a1787093
+      internalID: 908047539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_71
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 3054
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96af9a44e9871745a6b36a59c44c781
+      internalID: 187176607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_72
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3012
+        width: 205
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aded3ea2fe26a37488076ade28e6eea2
+      internalID: -1541445473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_73
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 3017
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9517eb1bb9b2ac4c8dafca6e7edd2dc
+      internalID: -1585186363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_74
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 2843
+        width: 158
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77bce73a3342d64cbfdfb4474971109
+      internalID: 410977667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_75
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 3045
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e36e833d1e49ac4da54c512abe37ab8
+      internalID: 1703317412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_76
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 2891
+        width: 161
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81bef20008c4224aac76f2c14c057bd
+      internalID: -1682842200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_77
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 3004
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff004057621998c4699c6af04c9d235c
+      internalID: -1608055841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_78
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2965
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42482f71bddb70841a57b469286adbc4
+      internalID: -710149896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_79
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 3013
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe1d1cc913b738489f29aec01d93045
+      internalID: 707817317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_80
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 2785
+        width: 159
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f4dd0469ea41c44a3d6f03041db911
+      internalID: -1000002572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_81
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 2995
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099ffae792705e545a68faa1ab09c36c
+      internalID: 1429472442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_82
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 3003
+        width: 74
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a98f8a5df560f4198a22a4caa705b9
+      internalID: -1323936954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_83
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 2924
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e9bab237d1294499eded455352038c
+      internalID: 1820043610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_84
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 2799
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd8f33ffde20cd4eb57abf3d9909338
+      internalID: 1209946198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_85
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 2799
+        width: 160
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b869fa1dd3129fe4ea2353b6520f0171
+      internalID: -970813327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_86
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 2924
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e1695e48e23e54daf87819ea0ea7f7
+      internalID: 1113076796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_87
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 2979
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f58b6c4bdc70ed4fa1836b1635935d8
+      internalID: -1514742538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_88
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 2844
+        width: 220
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0a34d1164748949a0d283675c98f96
+      internalID: -1496559054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_89
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 2983
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9053a5f7d756942ad9cf1897cf9d36
+      internalID: 2085963519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_90
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 2844
+        width: 230
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e6886eb1c69aa448c4b9937e521f26
+      internalID: -659714903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_91
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 2893
+        width: 100
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a8a666e9418b9489efeaa66c206a6a
+      internalID: -1835550759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_92
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 2924
+        width: 119
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157678e8cb1beed43be5e0136499fa8d
+      internalID: -1983714752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_93
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 2741
+        width: 163
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eeaa8c1f44ff74a9f172a5bff534dc
+      internalID: 567702594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_94
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2704
+        width: 160
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616f1f34bc6deae48b21f798400c2590
+      internalID: 304167761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_95
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 2705
+        width: 158
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c682cf3a3003845a574c4e0d90cf0e
+      internalID: -561579674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_96
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2913
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3a74925e8be8e46b50c06793a220f2
+      internalID: 1842742775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_97
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2935
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6da158f3c7e804d8fda9472babb468
+      internalID: 1784196811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_98
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 2854
+        width: 238
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b0c7f5074378e42a8f04e665aaa662
+      internalID: -1348978194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_99
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 2853
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e7db73b66ba814a8e8d5dc6d1111de
+      internalID: -1887463499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_100
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 2768
+        width: 189
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08300d19c202b294f9380caddf9e1aa1
+      internalID: -1239707718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_101
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 2700
+        width: 161
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46189780965089c4c93abf6467301c89
+      internalID: 973505399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_102
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 2845
+        width: 140
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d67f77209fff74f8107c5cfb60ca2c
+      internalID: -1812910351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_103
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 2884
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce15853166e74614b92d0cbfb5fd8d17
+      internalID: -1825067410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_104
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 2884
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba10cb4bdac2854b908cbf9d12e42b9
+      internalID: 2113060907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_105
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 2865
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c63252f6f0261549856271b14e5e733
+      internalID: -2011294785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_106
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 2885
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643f116e3e7e090458cae1d90ace22aa
+      internalID: 2143984316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_107
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2720
+        width: 210
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258306d2bda89c941b79c59c4ba9a95b
+      internalID: -1182634712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_108
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2721
+        width: 199
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef91b545efac9024ea64ae2e76ea7715
+      internalID: -108472839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_109
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2765
+        width: 242
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0be137facd67b4797e79238886d7fb
+      internalID: 559662258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_110
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 2727
+        width: 283
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b53431cdd843a4d959a9e5d5eb13dc
+      internalID: 695434942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_111
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 2729
+        width: 282
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd380c77531ea5428a47d7ef8d46ea9
+      internalID: -1716616235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_112
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 2724
+        width: 242
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c363d525d49754492da8e9448815fd
+      internalID: 1739971368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_113
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 2722
+        width: 266
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fb70bdfaf00b941920b0f37d96f905
+      internalID: 343080921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_114
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 2752
+        width: 274
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c3919b6ad602642aa6c09c47c7495e
+      internalID: -1494836404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_115
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 2805
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1102e4ccc308a409a0087ca5a46640
+      internalID: -1920561119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_116
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 2817
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b41ef6f95674146a3354df9802a0ca
+      internalID: 210234311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_117
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 2731
+        width: 215
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57cb22363b775245875b21b7838dd2e
+      internalID: 1155024471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_118
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 2737
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfbf6109c9361e47b02260ac8135f86
+      internalID: -1780570635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_119
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 2762
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f8147c3b95d7e49be415f2578109fc
+      internalID: -1998522371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_120
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 2649
+        width: 195
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad108c4528a4c2f4abac44125513cd0f
+      internalID: -247173705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_121
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 2766
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c526c895204f7104f97c3a938864d1f1
+      internalID: 716779965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_122
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 2700
+        width: 322
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21800466f97620242bc37a99def51a67
+      internalID: -494354294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_123
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2636
+        width: 244
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc98cd8303af51041b6de1708cf40542
+      internalID: -1942973919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_124
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 2557
+        width: 107
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8366faab05db4fa42a62eff68bb4d4a6
+      internalID: -1938586502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_125
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 2741
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c7568f11fb5ec4f80e6e13622786f0
+      internalID: -114750098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_126
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 2673
+        width: 115
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46620394936945f4db2ed5d66466253e
+      internalID: -900381790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_127
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 2748
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792d663a34eb31842bb7063907f4737c
+      internalID: -432171838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_128
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2601
+        width: 179
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6969f91d3bf934a8afff00d7f944f0
+      internalID: -810566246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_129
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2721
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bedaeb85735a5429bcb4e9534f4a08
+      internalID: -2083563851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_130
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2567
+        width: 164
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86a0ece7390a1746af98d6448a20f61
+      internalID: -1719526492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_131
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 2569
+        width: 111
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c07c85c43ae6084483a3d961e0ec1b7
+      internalID: 1070755477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_132
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 2707
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a297ef7ec8c634d965502377502c3c
+      internalID: -349739006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_133
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 2707
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d8acd625a027144acd69b90f8a7e2b
+      internalID: -691437697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_134
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 2717
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a378d9738904394090662cd50ca2e36
+      internalID: 1060375143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_135
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 2629
+        width: 42
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f1a593d6b2e444eaa18052423ec94f
+      internalID: -1803428095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_136
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 2502
+        width: 115
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbf8b7a18509b042ba2ed647156b309
+      internalID: -343500332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_137
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2557
+        width: 142
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee93c26a22ab7d449a4488c07863ba7a
+      internalID: -1913861458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_138
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2603
+        width: 182
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2675466ca8020604085168cba5b01eed
+      internalID: 1055039274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_139
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 2554
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef4a65086053134199a0a0a4e68a333
+      internalID: 1198407003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_140
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 2547
+        width: 130
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3d897318cf82947929445aca4f3075
+      internalID: -1480402864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_141
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2700
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c677f04dce97429ef69a3c199733e
+      internalID: 890651447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_142
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2635
+        width: 20
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32661fd6fee48c442b711ec3465073f2
+      internalID: -1921821802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_143
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 2616
+        width: 206
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3946c951e5f577c43a1a8119443fa0cb
+      internalID: 655887994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_144
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 2558
+        width: 141
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416e49c8e63ceb440ba2890af321d8bd
+      internalID: -567810155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_145
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 2633
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f9416a5d6ddce47bcae237bf91f8d3
+      internalID: 710472188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_146
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 2592
+        width: 169
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd909ba6e1b6d1048b0aade83129900e
+      internalID: 1798640628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_147
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 2613
+        width: 201
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fa109134abe9c43827ceca8a13d6ea
+      internalID: 1938092176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_148
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 2575
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12e07b6270f0f04f96892c0fe4b2bea
+      internalID: 558464810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_149
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 2608
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8234ed49be15ad84db78e44412527b31
+      internalID: -1993498029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_150
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 2565
+        width: 135
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad051223319cc743afc6a3087c531e8
+      internalID: -136018309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_151
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 2612
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42a5804c6f238647af900b287f99166
+      internalID: -816487604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_152
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2654
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e731daf1dd0b6843aec6bb6be54dfe2
+      internalID: 1220835622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_153
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 2563
+        width: 132
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dcc6019a70d3b4fb2878a4b1ca5045
+      internalID: -579251558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_154
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 2653
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c202b879ab75c4e90a60957e6f31b5
+      internalID: 153302469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_155
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 2661
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b23a6b9b28beb458c444c01fc941b5
+      internalID: -900697513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_156
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 2659
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e7a32f39c490149ac8c49aa7e08cf7
+      internalID: 1003731254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_157
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 2649
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584132d615c91bc4f813c94e9b37ce62
+      internalID: -594135574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_158
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2607
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff0c518c114c2149a27522b567ca2e6
+      internalID: 639381875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_159
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 2629
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45074d0fb7bc3ea40836a84ce4c56623
+      internalID: -690869159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_160
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2641
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c68c93ae5ba3a439045d7f45784cbc
+      internalID: 231131697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_161
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 2633
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a53c994c25f7fa478742e7626c28c18
+      internalID: -209263939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_162
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 2641
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9915a16b1d42983478ecf584cb23c08f
+      internalID: 849168155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_163
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 2649
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04d3b7942222d74386a605da404a5f1
+      internalID: 1539146783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_164
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 2636
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bd56bb0a56ace4f911cc20611a81ee
+      internalID: 1822354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_165
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2539
+        width: 153
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a25934a8bf1acf45ab7dcc73a9c3c16
+      internalID: -738236675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_166
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 2565
+        width: 239
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12360a9223367904f86806b858204796
+      internalID: -869660055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_167
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 2639
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5137bce6ed73d64cbbfe9cb0ca5c9c8
+      internalID: 1109404899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_168
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2523
+        width: 46
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839ce44a89a108d4299671aee6fa96d2
+      internalID: -2144602684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_169
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2559
+        width: 103
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb910dbb35b33e4a84c10f411946329
+      internalID: -724952691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_170
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 2522
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c157672e9e331a41a5b8121e173d85f
+      internalID: 628934056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_171
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 2522
+        width: 133
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d536660257278a46afd9bcdbfe5bb63
+      internalID: -719739238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_172
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 2525
+        width: 127
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d582b9c265a432a429c9e91d363ba146
+      internalID: 35579678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_173
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 2562
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6399fc5df6a72b04e90286546f74ecac
+      internalID: 1138530001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_174
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 2613
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685cbf7db4923d44180322809bb981b6
+      internalID: -164263047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_175
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 2612
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a51aff235da794f831b56c0de408a8
+      internalID: -1867663606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_176
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2535
+        width: 226
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc851215fe0b464baf349dfe419b3ed
+      internalID: -19412275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_177
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2529
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b06e654b0fd80a40a9e1eb57be2e4b1
+      internalID: -887283427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_178
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2599
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464c6aecf8a3f6c44a7edb7b31a11c48
+      internalID: 1805388076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_179
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2574
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f059547f6562544a7776fe1abca28e
+      internalID: -349967039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_180
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 2602
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126f2233af299e74983a1772e83c53ce
+      internalID: -2016974092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_181
+      rect:
+        serializedVersion: 2
+        x: 2567
+        y: 2510
+        width: 124
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9a6fb3b7be91448a9cbb6f8418fbe7
+      internalID: 411074373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_182
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 2565
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9cf8eda7e3399409f07ef1239915ff
+      internalID: -1764198429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_183
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 2579
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ceddc68ff315340900358722d68f97
+      internalID: 454951027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_184
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 2577
+        width: 121
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c345dec1c4835446b3439f3ea60d791
+      internalID: 883474774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_185
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2561
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d720eacd12d651643a17aab17c29e192
+      internalID: 803523768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_186
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2565
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad23450120fbd84bb078b4228202539
+      internalID: -1253340356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_187
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 2571
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716e7b041309bb54e9202239dc00ce93
+      internalID: 1208113681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_188
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 2564
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6936f0cade59ee24a82ea83cfd4d37fb
+      internalID: -1906446234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_189
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 2570
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9678f57d718b9c4eb4000db35ec00a7
+      internalID: -1573883033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_190
+      rect:
+        serializedVersion: 2
+        x: 3866
+        y: 0
+        width: 216
+        height: 2575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a84c4227df921428e10ce96505f7a9
+      internalID: -1549710669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BladeWieldingHero_191
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 2501
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ac018ef0a6ecd4eb75ee54cb26085e
+      internalID: -829001221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BladeWieldingHero_11: 1667091012
+      BladeWieldingHero_85: -970813327
+      BladeWieldingHero_4: -877111033
+      BladeWieldingHero_14: -598820273
+      BladeWieldingHero_100: -1239707718
+      BladeWieldingHero_46: -2031623808
+      BladeWieldingHero_78: -710149896
+      BladeWieldingHero_190: -1549710669
+      BladeWieldingHero_87: -1514742538
+      BladeWieldingHero_91: -1835550759
+      BladeWieldingHero_177: -887283427
+      BladeWieldingHero_107: -1182634712
+      BladeWieldingHero_21: -118148304
+      BladeWieldingHero_125: -114750098
+      BladeWieldingHero_169: -724952691
+      BladeWieldingHero_59: 1710124765
+      BladeWieldingHero_163: 1539146783
+      BladeWieldingHero_172: 35579678
+      BladeWieldingHero_152: 1220835622
+      BladeWieldingHero_156: 1003731254
+      BladeWieldingHero_92: -1983714752
+      BladeWieldingHero_171: -719739238
+      BladeWieldingHero_105: -2011294785
+      BladeWieldingHero_5: -1541857830
+      BladeWieldingHero_10: 390982600
+      BladeWieldingHero_52: -70492650
+      BladeWieldingHero_182: -1764198429
+      BladeWieldingHero_191: -829001221
+      BladeWieldingHero_44: 1922750916
+      BladeWieldingHero_42: 638325290
+      BladeWieldingHero_50: -463827009
+      BladeWieldingHero_62: -833941965
+      BladeWieldingHero_0: 636596135
+      BladeWieldingHero_180: -2016974092
+      BladeWieldingHero_79: 707817317
+      BladeWieldingHero_82: -1323936954
+      BladeWieldingHero_170: 628934056
+      BladeWieldingHero_67: 705789349
+      BladeWieldingHero_48: 686505250
+      BladeWieldingHero_40: 1081694452
+      BladeWieldingHero_66: -1012098719
+      BladeWieldingHero_90: -659714903
+      BladeWieldingHero_173: 1138530001
+      BladeWieldingHero_57: -1494593803
+      BladeWieldingHero_3: 1064104170
+      BladeWieldingHero_71: 187176607
+      BladeWieldingHero_104: 2113060907
+      BladeWieldingHero_121: 716779965
+      BladeWieldingHero_35: -1443203436
+      BladeWieldingHero_49: 541582052
+      BladeWieldingHero_142: -1921821802
+      BladeWieldingHero_95: -561579674
+      BladeWieldingHero_27: 670045009
+      BladeWieldingHero_126: -900381790
+      BladeWieldingHero_183: 454951027
+      BladeWieldingHero_132: -349739006
+      BladeWieldingHero_12: -2104399724
+      BladeWieldingHero_184: 883474774
+      BladeWieldingHero_25: -268096468
+      BladeWieldingHero_51: -1116737912
+      BladeWieldingHero_159: -690869159
+      BladeWieldingHero_187: 1208113681
+      BladeWieldingHero_111: -1716616235
+      BladeWieldingHero_64: 1567280961
+      BladeWieldingHero_89: 2085963519
+      BladeWieldingHero_98: -1348978194
+      BladeWieldingHero_83: 1820043610
+      BladeWieldingHero_2: 130793881
+      BladeWieldingHero_160: 231131697
+      BladeWieldingHero_146: 1798640628
+      BladeWieldingHero_143: 655887994
+      BladeWieldingHero_24: 537136720
+      BladeWieldingHero_75: 1703317412
+      BladeWieldingHero_45: 700212220
+      BladeWieldingHero_138: 1055039274
+      BladeWieldingHero_97: 1784196811
+      BladeWieldingHero_16: 1845000073
+      BladeWieldingHero_131: 1070755477
+      BladeWieldingHero_109: 559662258
+      BladeWieldingHero_86: 1113076796
+      BladeWieldingHero_39: -733370074
+      BladeWieldingHero_116: 210234311
+      BladeWieldingHero_162: 849168155
+      BladeWieldingHero_36: -1441515274
+      BladeWieldingHero_175: -1867663606
+      BladeWieldingHero_165: -738236675
+      BladeWieldingHero_113: 343080921
+      BladeWieldingHero_144: -567810155
+      BladeWieldingHero_41: -1043618761
+      BladeWieldingHero_96: 1842742775
+      BladeWieldingHero_102: -1812910351
+      BladeWieldingHero_58: 1310361628
+      BladeWieldingHero_20: -1641409416
+      BladeWieldingHero_150: -136018309
+      BladeWieldingHero_43: 1406696681
+      BladeWieldingHero_101: 973505399
+      BladeWieldingHero_32: 2067012210
+      BladeWieldingHero_167: 1109404899
+      BladeWieldingHero_29: 1834576247
+      BladeWieldingHero_88: -1496559054
+      BladeWieldingHero_114: -1494836404
+      BladeWieldingHero_189: -1573883033
+      BladeWieldingHero_147: 1938092176
+      BladeWieldingHero_135: -1803428095
+      BladeWieldingHero_128: -810566246
+      BladeWieldingHero_148: 558464810
+      BladeWieldingHero_118: -1780570635
+      BladeWieldingHero_161: -209263939
+      BladeWieldingHero_186: -1253340356
+      BladeWieldingHero_18: -555351186
+      BladeWieldingHero_106: 2143984316
+      BladeWieldingHero_168: -2144602684
+      BladeWieldingHero_185: 803523768
+      BladeWieldingHero_188: -1906446234
+      BladeWieldingHero_145: 710472188
+      BladeWieldingHero_166: -869660055
+      BladeWieldingHero_134: 1060375143
+      BladeWieldingHero_72: -1541445473
+      BladeWieldingHero_164: 1822354
+      BladeWieldingHero_55: 1153394051
+      BladeWieldingHero_94: 304167761
+      BladeWieldingHero_108: -108472839
+      BladeWieldingHero_141: 890651447
+      BladeWieldingHero_28: 115300205
+      BladeWieldingHero_70: 908047539
+      BladeWieldingHero_9: 1700541770
+      BladeWieldingHero_174: -164263047
+      BladeWieldingHero_99: -1887463499
+      BladeWieldingHero_74: 410977667
+      BladeWieldingHero_179: -349967039
+      BladeWieldingHero_60: -844318065
+      BladeWieldingHero_22: -557920174
+      BladeWieldingHero_15: 811736165
+      BladeWieldingHero_68: -34724670
+      BladeWieldingHero_1: -1776580269
+      BladeWieldingHero_124: -1938586502
+      BladeWieldingHero_23: 1841174828
+      BladeWieldingHero_34: 183879044
+      BladeWieldingHero_8: -1504137148
+      BladeWieldingHero_61: -226953459
+      BladeWieldingHero_17: 2112413477
+      BladeWieldingHero_140: -1480402864
+      BladeWieldingHero_37: -1569052707
+      BladeWieldingHero_122: -494354294
+      BladeWieldingHero_153: -579251558
+      BladeWieldingHero_158: 639381875
+      BladeWieldingHero_176: -19412275
+      BladeWieldingHero_73: -1585186363
+      BladeWieldingHero_33: -1758479780
+      BladeWieldingHero_127: -432171838
+      BladeWieldingHero_181: 411074373
+      BladeWieldingHero_63: 1495734966
+      BladeWieldingHero_19: -1077008710
+      BladeWieldingHero_84: 1209946198
+      BladeWieldingHero_13: -2022456583
+      BladeWieldingHero_7: -500850071
+      BladeWieldingHero_157: -594135574
+      BladeWieldingHero_30: -1937445625
+      BladeWieldingHero_120: -247173705
+      BladeWieldingHero_81: 1429472442
+      BladeWieldingHero_76: -1682842200
+      BladeWieldingHero_115: -1920561119
+      BladeWieldingHero_155: -900697513
+      BladeWieldingHero_119: -1998522371
+      BladeWieldingHero_110: 695434942
+      BladeWieldingHero_53: -1670657687
+      BladeWieldingHero_133: -691437697
+      BladeWieldingHero_123: -1942973919
+      BladeWieldingHero_56: -791554473
+      BladeWieldingHero_38: -1718171043
+      BladeWieldingHero_178: 1805388076
+      BladeWieldingHero_47: 1134398739
+      BladeWieldingHero_6: 117391241
+      BladeWieldingHero_151: -816487604
+      BladeWieldingHero_54: -1541105842
+      BladeWieldingHero_137: -1913861458
+      BladeWieldingHero_154: 153302469
+      BladeWieldingHero_69: -1411430110
+      BladeWieldingHero_80: -1000002572
+      BladeWieldingHero_65: 1118299932
+      BladeWieldingHero_103: -1825067410
+      BladeWieldingHero_31: 502877580
+      BladeWieldingHero_112: 1739971368
+      BladeWieldingHero_130: -1719526492
+      BladeWieldingHero_139: 1198407003
+      BladeWieldingHero_77: -1608055841
+      BladeWieldingHero_136: -343500332
+      BladeWieldingHero_129: -2083563851
+      BladeWieldingHero_149: -1993498029
+      BladeWieldingHero_26: -1334836491
+      BladeWieldingHero_93: 567702594
+      BladeWieldingHero_117: 1155024471
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1766 @@
+fileFormatVersion: 2
+guid: bc578d8aa3d49d3468b4c0953ffa0bdb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlackBearZombieObject_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bd2841088be8541a546858f06a9fff
+      internalID: -748981005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 462
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8396aec7de8188341b9c624f780b163b
+      internalID: 501175815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 468
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4ef5e4461406b4bacfd091c76cfbe8
+      internalID: -1588461501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 394
+        width: 132
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d6df8ff8e34ed44aaef7644d244353
+      internalID: 567856536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 491
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5569a51a83b3fd46a3929b1917fb833
+      internalID: -898936033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 490
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c5dcad6be1ec54a99cd07575e125b4
+      internalID: 1264154860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 376
+        width: 133
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2005e684b2d38dd488548540540602c6
+      internalID: 677325108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 479
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70f1bc08c337ff40a2372781bf7d383
+      internalID: 1799312926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 481
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fadde19a78a3234eb22453e6cf74061
+      internalID: 805893857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 255
+        width: 248
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff661d7702e3b9545ad7555ee03b6ca5
+      internalID: 1660959460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 373
+        width: 134
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36662104dc6818d419a526e19eb4b999
+      internalID: 1374579294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 426
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09505be9deb1c744bbb314739852fb8
+      internalID: -266423055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 422
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54db8c7f4c41afc4696d4c99693f4f9a
+      internalID: 1381956925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208dee910390bcc48aa0780126efafb0
+      internalID: 1878728032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 402
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3428c4bb0277af41a016da4110dcbb9
+      internalID: -84879271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 392
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a620976d793e24ebfb6ce8155e0199
+      internalID: 1738128984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 377
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94369fc2fb14bf34392fd94949d3732d
+      internalID: 280766537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc50f4483c1a715499ce7946c64827f6
+      internalID: -205706323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 369
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3341005f5e75547a5aec1d776cc0b8
+      internalID: 794147339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 370
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca88c7d78a78a394face5d8b6427aba2
+      internalID: -829282455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfce96697422d348983d51baec4a7e2
+      internalID: 960027828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 280
+        width: 131
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a49651d995b13c4cbf8706e491a5abe
+      internalID: 1036617638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_35
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 263
+        width: 87
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1ecda1b1488c7409671c9ad2752d9b
+      internalID: 1224051730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 122
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da0ef78b994f6f41a3119031fb94937
+      internalID: -1265518561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_39
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 310
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1547d7db598dc6d40887d8ca59185dff
+      internalID: 527850845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_40
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 246
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd37ff92df5961438d7d1cea8d924e2
+      internalID: -1952497093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_42
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 237
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5087f4501d6cc44bcb1ec55538fdf3
+      internalID: -1327729777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_43
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 272
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abba33bfd4e24844b79cb515d67f1e7
+      internalID: -1232778551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_44
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 219
+        width: 55
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b27fe0f3d5bf145bf6c29cd07dd155
+      internalID: 1324163022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4f8e11c0568864a959713ed25ab845
+      internalID: -634267029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 199
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac876a22ebbd134b8e9d7c68ca83c05
+      internalID: 1179742625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 155
+        width: 134
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6623ba8c94f04343b5ab93bab0a6ef6
+      internalID: 479916173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_48
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 182
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a78ae21d5ba7b445a57a3c776c133a9
+      internalID: -1369912351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_50
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 109
+        width: 135
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a10b49f1cc74bc4fba27ab10623fd7f
+      internalID: -778290721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_51
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 206
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06983624e7c9bdf4f882e22e8df6faff
+      internalID: 1073628589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_52
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 123
+        width: 50
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60741e08f54eb2841b77f23780ea552c
+      internalID: 417208564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_53
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 142
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdbab1222b3ac848a002527ff54dfd8
+      internalID: -907630954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_54
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 186
+        width: 85
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19205421dffc1942916c4a219f4a6f4
+      internalID: 1289490757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_55
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 111
+        width: 45
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d83b581bec2d445b68c706aab9d2a8
+      internalID: 165643115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_56
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 213
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c310e0f046f171e4583b89f4db916c6c
+      internalID: -1196526764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 130
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7401dabe28e754ab56c457cfd5610a
+      internalID: -1383144907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_58
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 152
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b11fe04f8543e4aa3aae9b005a002b
+      internalID: 1203387786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_59
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 151
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0928b37a933ee5478f72701c3afe38e
+      internalID: -1713347133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_63
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 138
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb2c6e84b1afae4688972f1a3af5c14
+      internalID: 1400247581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_66
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 42
+        width: 127
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8fbc5bafe14284c8382fd7ab498f39
+      internalID: 512323563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_67
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 22
+        width: 139
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff899bd59cee6654d99063717f80afb0
+      internalID: 1384864340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_68
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 62
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa5cf3056b526e4cab5b70ab11654a4
+      internalID: -399618465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_69
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 118
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36643a210c5337c408ab8d6252d517df
+      internalID: -1905051782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_70
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 10
+        width: 48
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf92561aa147fee4b8aa9f4c37974b9a
+      internalID: 1500803729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_71
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 118
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8802294a1f22745a103b9da7c86a8a
+      internalID: -1490942951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eba1b5e81d3d624e891ab579fa24c06
+      internalID: -1863758957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_73
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 58
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09066d7e20303194bbda894bf71b707f
+      internalID: -1108738142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_74
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 18
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30de1440f817c8240a61956c642b3ae0
+      internalID: -1390296370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_75
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 46
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b539676ab06509f4286348027c1f9982
+      internalID: 1434628873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_76
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 70
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9150b17c88625e4ab98c67f12114855
+      internalID: 1084165229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_77
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 50
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc160c7776a9a2478bfd650dfc0ca76
+      internalID: -137479997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_78
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 6
+        width: 84
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adf21441db652749a38f7f2ad49eab3
+      internalID: 413621855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 34
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d052da58b9a5bc40a348bb8850bf2bf
+      internalID: -538847171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_80
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d04ed57aff5bac468451d02181052c1
+      internalID: -983214315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_81
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 10
+        width: 79
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01017bdc1bb82ef4b9ca6297feaede13
+      internalID: 994906257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_82
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bc696c7c186b24ca432c4567574c13
+      internalID: 743774052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 8
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b0e661475956e42a30c5562e7e7c71
+      internalID: -938502407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_84
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 23
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c93c016314bee44b0c0c30767b7571
+      internalID: -89894001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_85
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79135a161a120e747954c5b4694e5a09
+      internalID: 379547783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_86
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda1e6438be57547925673d53f02ad1
+      internalID: 849036472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_7
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 389
+        width: 126
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5326979, y: 0.48788238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440db3ad23a65b145a3b83d9121282b1
+      internalID: -329583730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_12
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 359
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b343ed19e9b6edc4c93f2b20fca7a200
+      internalID: 134241522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 155
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440390a673f9b0d4691f54de83a76352
+      internalID: 2078382341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 150
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91891fb2eb0d354498f1e1b8de0b6d1d
+      internalID: -937168301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 182
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e0da57084dbf74599c4499183a024f
+      internalID: -1808157120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 152
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815ac63b49705634cb86a4f89695d1b7
+      internalID: 1311320681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37181701e69aa0b4fa3a9c0879af03fe
+      internalID: -717786923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackBearZombieObject_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6802a352198a2a4497a7177666e8ce6
+      internalID: 1084926918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BlackBearZombieObject_8: 1799312926
+      BlackBearZombieObject_32: 253155470
+      BlackBearZombieObject_20: 1084926918
+      BlackBearZombieObject_37: -204681623
+      BlackBearZombieObject_68: -399618465
+      BlackBearZombieObject_0: -748981005
+      BlackBearZombieObject_44: 1324163022
+      BlackBearZombieObject_38: -1265518561
+      BlackBearZombieObject_80: -983214315
+      BlackBearZombieObject_31: -829282455
+      BlackBearZombieObject_74: -1390296370
+      BlackBearZombieObject_50: -778290721
+      BlackBearZombieObject_69: -1905051782
+      BlackBearZombieObject_71: -1490942951
+      BlackBearZombieObject_76: 1084165229
+      BlackBearZombieObject_33: 960027828
+      BlackBearZombieObject_24: 1878728032
+      BlackBearZombieObject_59: -1713347133
+      BlackBearZombieObject_48: -1369912351
+      BlackBearZombieObject_75: 1434628873
+      BlackBearZombieObject_29: -205706323
+      BlackBearZombieObject_65: 11963604
+      BlackBearZombieObject_77: -137479997
+      BlackBearZombieObject_72: -1863758957
+      BlackBearZombieObject_43: -1232778551
+      BlackBearZombieObject_78: 413621855
+      BlackBearZombieObject_11: 1374579294
+      BlackBearZombieObject_64: 1940112748
+      BlackBearZombieObject_34: 1036617638
+      BlackBearZombieObject_49: -885840365
+      BlackBearZombieObject_57: -1383144907
+      BlackBearZombieObject_35: 1224051730
+      BlackBearZombieObject_14: -937168301
+      BlackBearZombieObject_54: 1289490757
+      BlackBearZombieObject_85: 379547783
+      BlackBearZombieObject_30: 794147339
+      BlackBearZombieObject_2: -1588461501
+      BlackBearZombieObject_42: -1327729777
+      BlackBearZombieObject_12: 134241522
+      BlackBearZombieObject_41: 533580653
+      BlackBearZombieObject_4: -898936033
+      BlackBearZombieObject_6: 677325108
+      BlackBearZombieObject_67: 1384864340
+      BlackBearZombieObject_63: 1400247581
+      BlackBearZombieObject_60: -570762146
+      BlackBearZombieObject_82: 743774052
+      BlackBearZombieObject_86: 849036472
+      BlackBearZombieObject_51: 1073628589
+      BlackBearZombieObject_7: -329583730
+      BlackBearZombieObject_19: -717786923
+      BlackBearZombieObject_16: -266423055
+      BlackBearZombieObject_1: 501175815
+      BlackBearZombieObject_25: -84879271
+      BlackBearZombieObject_66: 512323563
+      BlackBearZombieObject_52: 417208564
+      BlackBearZombieObject_15: -1808157120
+      BlackBearZombieObject_40: -1952497093
+      BlackBearZombieObject_23: -2021519184
+      BlackBearZombieObject_45: -634267029
+      BlackBearZombieObject_53: -907630954
+      BlackBearZombieObject_81: 994906257
+      BlackBearZombieObject_22: 2060313894
+      BlackBearZombieObject_36: 590770854
+      BlackBearZombieObject_70: 1500803729
+      BlackBearZombieObject_13: 2078382341
+      BlackBearZombieObject_9: 805893857
+      BlackBearZombieObject_79: -538847171
+      BlackBearZombieObject_27: 280766537
+      BlackBearZombieObject_55: 165643115
+      BlackBearZombieObject_5: 1264154860
+      BlackBearZombieObject_62: 378373348
+      BlackBearZombieObject_83: -938502407
+      BlackBearZombieObject_46: 1179742625
+      BlackBearZombieObject_56: -1196526764
+      BlackBearZombieObject_73: -1108738142
+      BlackBearZombieObject_10: 1660959460
+      BlackBearZombieObject_28: 822162920
+      BlackBearZombieObject_58: 1203387786
+      BlackBearZombieObject_18: 1311320681
+      BlackBearZombieObject_61: -1464951429
+      BlackBearZombieObject_21: 594575708
+      BlackBearZombieObject_26: 1738128984
+      BlackBearZombieObject_84: -89894001
+      BlackBearZombieObject_17: 1381956925
+      BlackBearZombieObject_39: 527850845
+      BlackBearZombieObject_47: 479916173
+      BlackBearZombieObject_3: 567856536
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

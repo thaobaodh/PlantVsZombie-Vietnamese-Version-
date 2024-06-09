@@ -1,0 +1,4300 @@
+fileFormatVersion: 2
+guid: 97bc5c77707b32449b27ef8a2f71d94a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 674
+        width: 483
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6783a0b2d2fd8464f91360d037a8c798
+      internalID: -50798597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 982
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a77434e8858424a93365f39e1ddf00
+      internalID: -1697506721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 942
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2bf81932ea81245aaeacb5c488f78d
+      internalID: -1645388031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 902
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd4a06efce39034eafbc3a6288144d5
+      internalID: -1484685349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_5
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 873
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bf4251751f3244698d1cb9e6b33317
+      internalID: 216382923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 805
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e891699effe4d4f4d896f51b1a6652c2
+      internalID: -965964935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 837
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e935dba076c704c9a6eefd1aa39100
+      internalID: -1504046643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_9
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 778
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7266e50a61f8ec47bd592fd3b9e0e55
+      internalID: 1379367344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 746
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0ef803c7790c64886ca62332f7c291
+      internalID: 1624598693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_11
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 759
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5622ee477ea9204db8adfaedf4d3159
+      internalID: -1431224142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_12
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 750
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd8a63aa4aec4349a6fbec2809d2481
+      internalID: 1790146800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_13
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 714
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096937a1aaaf092479f1cc8760ca77e9
+      internalID: 1668688487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_14
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 690
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4466d3029bd511b46b81bb0bcfdf8f29
+      internalID: -428887121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 674
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f01a9d9098400545b399eb0116d22a5
+      internalID: -1869820067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 446
+        width: 307
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088f25615eec5bb41828d53e0c70d108
+      internalID: 1587527776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 554
+        width: 164
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5651c865a93450468ec0564b96b231f
+      internalID: -1114785543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_18
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 609
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61538aa02a548f47a18ad146cc00591
+      internalID: -2054963514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_19
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 554
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f91143719c1b142a58be7c831d781a
+      internalID: 2130011091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 438
+        width: 120
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fcb93545cec97429971f5a66b471b3
+      internalID: -1005683379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_22
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 486
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f811fd7f9e0c16a458baaeda023b041c
+      internalID: 33933787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 438
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6c5d7aa1e47af45a7977bd2a7f6def
+      internalID: -108261729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_24
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 474
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4047347d44f8ede44b05c34734490c8b
+      internalID: -935913353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_25
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 465
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83675c27fcbb7734f9cd0381335c375b
+      internalID: -623220841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_26
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 456
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4038266dc75c2d04f8ae77adc06712a9
+      internalID: -1689549961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_27
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 445
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018cda27f7731a48a58a219f1964ddd
+      internalID: -1034242788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 279
+        width: 221
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a6614e48ba20c4dbaf8b3192f390ec
+      internalID: 462117277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 346
+        width: 120
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87ae9ea17852134f9638a9562d3698c
+      internalID: -1987849827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 436
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8c95f8ca0374743a6df44e0e039913
+      internalID: 1910717264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_31
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 436
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15dcddd38399bc43acc71ce0a033e9a
+      internalID: -1093421664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_32
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 434
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac515680807f809418904557023ddca0
+      internalID: -331787577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_33
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 389
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848ca46426ccaa64d807ef712880d5c8
+      internalID: -1718599295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_34
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 346
+        width: 106
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c49e5f68156b741ae1d26d6ed793de
+      internalID: -298390262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_35
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 398
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c893ed45c52d0204a93d67a58452683e
+      internalID: 1925401434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_39
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 258
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77032e4a68f9024cb198ee29a3010eb
+      internalID: 349542662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_40
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 289
+        width: 115
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ec1ae2ec2437a40bf5b4b24ecfcb9f
+      internalID: 194079959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_41
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 294
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4df1e01516f654ba42c53eb66f3614
+      internalID: 1517437850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 214
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954a5a277bc1aeb4bbe833404f7fbc0e
+      internalID: 1565853065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 214
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242064d14c7f1944da379745a82d7671
+      internalID: -950127963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_44
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 258
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1645b3e441521ec4bba59a03a0ba01a2
+      internalID: 1067825548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_45
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 270
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae087b81cbaa7242bfcb666d313d283
+      internalID: -594484561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_46
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 238
+        width: 113
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e36560918ba6d47bfb703fb364fefc
+      internalID: 630787066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_47
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 258
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc6a6e0a26c81d4dad65ab6682aa488
+      internalID: -1974953590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_49
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 261
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd5ed4fbf2608f49ad34d388a5f4cb5
+      internalID: -1333036715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_50
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 217
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ee06facf9cefa49a338c2ee53b6a49
+      internalID: -1453168514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_51
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 234
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52def3ad687ad2d4db3a58416d50922b
+      internalID: 1765418520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_52
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 248
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b9d077ce705814d8257d3469f1e88c
+      internalID: -587614205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_53
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 226
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b223346120e39134c9f4158ab8e86d6b
+      internalID: 1311670746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_54
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 249
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f02a5fbf2a3cdf4e898fcbe6ef09c4a
+      internalID: 493926136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_55
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 238
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c937a55f45c1d764e940ec2da6edfff1
+      internalID: 72419940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 194
+        width: 83
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6349295074687994d98ac1b903490e0a
+      internalID: 787184744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_57
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 198
+        width: 84
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d46601d27e277428297ef4a7390951
+      internalID: -606250797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_60
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 178
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a6dacd3f0ad6743ac5cf895852c050
+      internalID: 1038772950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_61
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 193
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5b8c2120d17a34f973648b2d69d079
+      internalID: 216517312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_62
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 194
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317b6a29bb6d614489d1bdb7b4f6ba5f
+      internalID: 2130857407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0cf4341a211134680e5f32cd5dfb88
+      internalID: 1154504460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_64
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 182
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e254210b38295c4ba4311669bb33d11
+      internalID: -1798787339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 174
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad47404a3776e247ac93abedce507c2
+      internalID: -565696721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_66
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 190
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab33b614dbbec448b4e99fe53d566f
+      internalID: -865756826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_67
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 158
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d71b0b4138c94e88a781fe06ddeda
+      internalID: -1211534712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_68
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 149
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e8bc091f9ffe948aa52ab5dce9a84e
+      internalID: 361691377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_69
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 174
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8667cb099a45b84fbcd498865dc472c
+      internalID: -1576500870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_70
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 178
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9800d8e5ca3e15e4c9f5f26ea2f3f201
+      internalID: -867031569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_71
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 178
+        width: 213
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88af64027cd5d0f44812c7f340f46203
+      internalID: 1319621823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_72
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 150
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648fcd432d4f5cb41bece3d2cce14761
+      internalID: 1110688309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_73
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 150
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b14c5d6e1cff2f408b311dd6584325a
+      internalID: 913080776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_74
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 158
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8a18b4b88e184da66d3859e7f761d
+      internalID: -778299472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_76
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 154
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b916cd683fa40bf439ca0ff1c983cf58
+      internalID: 1363817855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_77
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 154
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2e1c61bec92f946b8c35b1023edbb5
+      internalID: 1297276241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_78
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 153
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18f57c2f26f32449b2d25551abc74b6
+      internalID: -827228656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_79
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 154
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332e6ff8dc089c04491b8465c415aeb4
+      internalID: 1196022914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_80
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 161
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3a2e0c02cbd6245a1a914e66170d78
+      internalID: 1951419106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e70acf5075345b4587aa5951edacb83
+      internalID: 1071174517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 162
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f43e474c23e834f894cbf4ce168d32
+      internalID: -1593472145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_83
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 142
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb5245b641daf244b1f4696b426aeca
+      internalID: 1244772272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_84
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 150
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b075affc73f2645b1b9f7bad40c9a5
+      internalID: 822816784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_85
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 150
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08c4867a8e35b64686159f2ed6843c8
+      internalID: 1053614405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_86
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 126
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f2f9ad84b380f438f1e232b697debd
+      internalID: 1626707382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_87
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 130
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6d7feb3a9e9a74a9242d810a4c1946
+      internalID: -1458054419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_88
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 130
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7075b1e42e3a9cd458bdab810f1ccf47
+      internalID: 1427482000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_89
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 126
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13e953f39ad7b04298d0c222f7f292d
+      internalID: 1265545496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_90
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 130
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446b4a77a5226df4b9cdc895ea855043
+      internalID: 572578119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_91
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 126
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262105f649b5e044c9f0bdc7372f4d0c
+      internalID: -1554754319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_93
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2320890aeb8dbb4ebf8006b56a558cc
+      internalID: -377105787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_94
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 122
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be5a4e465c08654898396952a2d2f59
+      internalID: 277541170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_95
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 128
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd895961eefac6a479415c2e442d3764
+      internalID: 1882142706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_96
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 128
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d35f8ddb65da347b14f6dfe40db0c1
+      internalID: -713970733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_97
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 126
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa92886b84cfae847a1f49b84ebe1d2f
+      internalID: -1876709236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_98
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 124
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5ca201d143b2641aeec60f246fee68
+      internalID: -1007859131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_99
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 130
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4b5be4ed92f1e44a5484a6fde56ec2
+      internalID: -1335317617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_100
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 130
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277b3c21a1081fc4ea515a5ea4259716
+      internalID: -877676948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_101
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 126
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac46a346c792f594baa5101e685b41ee
+      internalID: 188319023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_102
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 130
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96c529b3c2af6e45ba0c416be80f585
+      internalID: -990503857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_103
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 110
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bec3d47a2b2aca48b5da68f293d5d04
+      internalID: 222673496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_104
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 105
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbee95318a0f7ba4aa7633cf8fedc583
+      internalID: -1097823074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_105
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 114
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a918a3a170569243af4e8719b80ccdf
+      internalID: 544466708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_106
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 110
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee60ad4804d2d1d4dbfe561bdad7de5a
+      internalID: -898753110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_107
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 110
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebe31ceb7f3d1040be66e007ad5d7d0
+      internalID: 652212168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_108
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 106
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc448d1db012294bbcaa43fe806830d
+      internalID: -1055104664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_110
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 110
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736556d5fb4a2ca46ba5a893ce66cdc6
+      internalID: 1593925190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_111
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 114
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6275ac865375778469ee6c3ca5628bbe
+      internalID: -490290513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_112
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 110
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d691dfbd851de7a4c96c1ea09481a3b0
+      internalID: 1919150020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_113
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 110
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c189e68cbc4924a8e72eccafe2a09d
+      internalID: -1961966632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_114
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 117
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ec5de4bff68c246a195cafcf37dff2
+      internalID: 653220080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_115
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 108
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1127b8fb4d90acc4eb249c5f1e6c31be
+      internalID: -425030866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_116
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 109
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ec6853c0eb82448b5e2498373def74
+      internalID: 1887506790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_117
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 108
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab4717e644bce54686206f2a03c8245
+      internalID: -1286870829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_118
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 111
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484fce7c35f36b143bb451c3e49b2bbe
+      internalID: -692193882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_120
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 112
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcea7bd56e2fb8e48b255f82119bb864
+      internalID: -827781672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_121
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 118
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a8dc7e3e1df454091168895b741d58
+      internalID: 1669221893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_122
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 106
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3447d5ffabc8f864eb9021a77d15f1bb
+      internalID: 97639052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_123
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 110
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2444648eaf802c4a933d9f5ee3ff8c3
+      internalID: 1673040928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_124
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 106
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b6026949923a4a8ed11437c7caa9f
+      internalID: -323617296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_125
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 110
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79714ae72817b184e8b0975ea44ec55e
+      internalID: 309143829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_126
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 106
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3523ed90e0ff5234bac0fe6c93989022
+      internalID: 1100977871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad40e77e51aec24b8e137e2cc01422e
+      internalID: -983202959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_129
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 94
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be016505f5ce004e8669ae39c610c89
+      internalID: 22264580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_130
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 104
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1936dfe9cb4ab749918b5ecc66c8792
+      internalID: 781203774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_131
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 98
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568ac1d69e9c1f1449f4e098265cc9c2
+      internalID: 882240878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_132
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 110
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd7b01043b56824bb1496938fae4ea1
+      internalID: -309386090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_133
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 94
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f432347c5ba304fbe2cd070029c034
+      internalID: -1817168196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_134
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 94
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c06bb5c1a0c4e41acb4156643d85df
+      internalID: 477498942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_135
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 90
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d2ac8d44066a647a754f319068fdb3
+      internalID: 1659847090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_136
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 106
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb3af2c5cc653441b320a408d4ed038
+      internalID: 1682933290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_137
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 108
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e223544ff9dd14b4d852c9b3530d9eda
+      internalID: -950663955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_138
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 94
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1ad898e1e1d99429f5e736de38971c
+      internalID: -728024438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_139
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 101
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6e54e46801a004ba4aa6baa39b5608
+      internalID: -328489489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_141
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 97
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c4359e53da1944abaaef3b06e3e8a
+      internalID: 63975321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_142
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 100
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb465da3613e8748b3ffd4efde90708
+      internalID: 315676665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_143
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 98
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baa5d8d27c7fee4492e0157de644ddb
+      internalID: 557718001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_144
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 96
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae935a0823232340bf262b223e35832
+      internalID: -1731085036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_145
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 98
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5a6541e597e744eaa01d69d8801bfa
+      internalID: 258270248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_146
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 98
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bcab34f793492409576b9cb7931b93
+      internalID: 1500958268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_148
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 92
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f828d97f82347064f9f732f0f6a761b4
+      internalID: 2077814111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_149
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 94
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b0f562c9bf2744a9ed367ee7ac81ef
+      internalID: -1066898031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_150
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 94
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4290f5137cb35344fa482dd226bb9985
+      internalID: 1353814426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_151
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 96
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252cab0ff77128e40a26bcd0bae92cd9
+      internalID: 365760662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_152
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 98
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c7535f8e695cf4b931389219b55c0c
+      internalID: -1420812659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_153
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 94
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a944e19a179f64f9164f3fa9235ce4
+      internalID: -1743138248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_154
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 97
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922fa0abb52538c4bab3bd39db47ec51
+      internalID: -1722612988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_156
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 98
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7a32f7566437348b195a9eaca883bc
+      internalID: 706892745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_158
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 90
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db302c21d075c4439d959d58225286d
+      internalID: 1731365215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_159
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 92
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ac93477fdfdd542969ef3859fd9671
+      internalID: 1013236722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_160
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 93
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965291b46e19a6b4687eb9eba161c961
+      internalID: 776384711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_161
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 94
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b079b9dfe25e44fa6907bcb54a8d3e
+      internalID: -587800062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_162
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 97
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b4c134815de6d4ca979ef28029284f
+      internalID: 927438909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_163
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 90
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7f220fc824f8d4381bd045552c0873
+      internalID: 478134809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_164
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 90
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d421dd89bd7899f4b9c94676466fa4b9
+      internalID: 465129657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_165
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 90
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a649a9b47c4dc247996938a1b8d3a26
+      internalID: -580987398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_166
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 88
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f228037a7852db4d88a61a1a98645a3
+      internalID: -1036860544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_167
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 91
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786c274e83005c5488122e4c2313a485
+      internalID: 2001580401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_168
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 93
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6acc3e74c5e78449253010e858b3e9
+      internalID: -1675218844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_169
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 94
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4a0f6eafbae8848b19ac609dc88259
+      internalID: -1500111198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_170
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 86
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1616ae8c0e8e24b43b35c73cc1a525c9
+      internalID: -1775624114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_171
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 86
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abc43dfe9fcae74d8d98d0995f5ad5d
+      internalID: 335562417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_172
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 86
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de64ebc9d2c01b34b8c881efce2b7c78
+      internalID: -921102785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_174
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 90
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6043a0f0c359d4eaffa0f1d3cb3296
+      internalID: 16516709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_175
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 86
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f78368546655054e80355ab23b6a21c
+      internalID: -869882411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_176
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 90
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ea215748e0f9d47a591f53688aeb7d
+      internalID: -780996568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_177
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 86
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ee86f6afe38fb418611b61a69a2101
+      internalID: 831085436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_178
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 86
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e5446c187359548a710600c8a9748e
+      internalID: 1158523993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_179
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 86
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431f038f9132c224abc009020713063b
+      internalID: -2073315657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_180
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 86
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212388eb696ecc14f928331c8aadd74c
+      internalID: 1100837535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_181
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 86
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a77de925d246fc4abb318fa5a727d5e
+      internalID: 578876831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_183
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8290f2a214953f44ca0d2824b4d0253f
+      internalID: -817653490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_184
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 86
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddc92ebcbfb3364ea94481748c9e1a1
+      internalID: 1312167574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_185
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 87
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe096f79cb2a59149b80c7be31c8094e
+      internalID: 164541361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_187
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 87
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b57349067d4b5488e0e6d3d99ce1a7
+      internalID: -1507345776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_188
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 85
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894f99ebe4537b94b993ca6ffd1dab80
+      internalID: 280088830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_189
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 82
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb9cc641031d644ac7174083fbb8a0
+      internalID: -1626067974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_190
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 86
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973a669e441c55349879f587cff98e6c
+      internalID: -1737375512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_191
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 86
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82efe5238c4ca6f4d89f929f92575b74
+      internalID: -1411624384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_192
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 87
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bff1d2036d4a14e94570fdf5dbf47e
+      internalID: -413203296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_193
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 86
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2e0de250f95ba428978979dba7cb4c
+      internalID: 608651072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_194
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 85
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0813e634ac874fa4fb8bfa64e6d60839
+      internalID: -1269097545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_195
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 89
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e000acad76e564e45a64081d545361ab
+      internalID: -453616867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_196
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 87
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c1edf05c13809429839411128d89d4
+      internalID: -1091660439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_197
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 85
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef90837f52efd8499d3b74dd0ad0b64
+      internalID: 814952356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_198
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 85
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eefda89eb86d38449ddf56501b6cc10
+      internalID: -1282925521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_199
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 85
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4430b531bdd76a44a9e70d924840c48
+      internalID: 281418353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_200
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 86
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1000188859636d94693788bcc1d380ab
+      internalID: -312899126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_201
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 84
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e85b086747103c4a86b1debdd2f5a6a
+      internalID: -2060883757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_202
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 84
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd25dcf480e6534498ec786d97b7f32
+      internalID: -2146151218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_203
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 82
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32f05a8a73462f49a14f5de1baf8c70
+      internalID: 1406681468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_204
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 82
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdd44557990fc74fb6e5a2f0f2a6d26
+      internalID: -795215053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_205
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 82
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236ef319372e9964e9150728694d98f0
+      internalID: -1057952919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_36
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 348
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e193cb0add2567c4c9c5a37d6e8c6d9b
+      internalID: 1961185729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_37
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 377
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77e58826c5e7bd428e69177a7c7701b
+      internalID: 1852711380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlyingImpZombieObject_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 436
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab0f899c527e0f4c926b193ed13f06d
+      internalID: -1859976724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FlyingImpZombieObject_23: -108261729
+      FlyingImpZombieObject_188: 280088830
+      FlyingImpZombieObject_104: -1097823074
+      FlyingImpZombieObject_118: -692193882
+      FlyingImpZombieObject_28: 462117277
+      FlyingImpZombieObject_59: -619538671
+      FlyingImpZombieObject_154: -1722612988
+      FlyingImpZombieObject_41: 1517437850
+      FlyingImpZombieObject_102: -990503857
+      FlyingImpZombieObject_85: 1053614405
+      FlyingImpZombieObject_66: -865756826
+      FlyingImpZombieObject_162: 927438909
+      FlyingImpZombieObject_126: 1100977871
+      FlyingImpZombieObject_182: -505543115
+      FlyingImpZombieObject_172: -921102785
+      FlyingImpZombieObject_149: -1066898031
+      FlyingImpZombieObject_52: -587614205
+      FlyingImpZombieObject_90: 572578119
+      FlyingImpZombieObject_95: 1882142706
+      FlyingImpZombieObject_183: -817653490
+      FlyingImpZombieObject_175: -869882411
+      FlyingImpZombieObject_84: 822816784
+      FlyingImpZombieObject_131: 882240878
+      FlyingImpZombieObject_168: -1675218844
+      FlyingImpZombieObject_136: 1682933290
+      FlyingImpZombieObject_198: -1282925521
+      FlyingImpZombieObject_127: -983202959
+      FlyingImpZombieObject_192: -413203296
+      FlyingImpZombieObject_137: -950663955
+      FlyingImpZombieObject_17: -1114785543
+      FlyingImpZombieObject_171: 335562417
+      FlyingImpZombieObject_196: -1091660439
+      FlyingImpZombieObject_65: -565696721
+      FlyingImpZombieObject_152: -1420812659
+      FlyingImpZombieObject_42: 1565853065
+      FlyingImpZombieObject_40: 194079959
+      FlyingImpZombieObject_55: 72419940
+      FlyingImpZombieObject_123: 1673040928
+      FlyingImpZombieObject_78: -827228656
+      FlyingImpZombieObject_193: 608651072
+      FlyingImpZombieObject_199: 281418353
+      FlyingImpZombieObject_26: -1689549961
+      FlyingImpZombieObject_134: 477498942
+      FlyingImpZombieObject_24: -935913353
+      FlyingImpZombieObject_68: 361691377
+      FlyingImpZombieObject_7: -1738625602
+      FlyingImpZombieObject_114: 653220080
+      FlyingImpZombieObject_203: 1406681468
+      FlyingImpZombieObject_159: 1013236722
+      FlyingImpZombieObject_108: -1055104664
+      FlyingImpZombieObject_70: -867031569
+      FlyingImpZombieObject_165: -580987398
+      FlyingImpZombieObject_69: -1576500870
+      FlyingImpZombieObject_74: -778299472
+      FlyingImpZombieObject_89: 1265545496
+      FlyingImpZombieObject_98: -1007859131
+      FlyingImpZombieObject_138: -728024438
+      FlyingImpZombieObject_101: 188319023
+      FlyingImpZombieObject_153: -1743138248
+      FlyingImpZombieObject_181: 578876831
+      FlyingImpZombieObject_4: -1484685349
+      FlyingImpZombieObject_62: 2130857407
+      FlyingImpZombieObject_195: -453616867
+      FlyingImpZombieObject_160: 776384711
+      FlyingImpZombieObject_100: -877676948
+      FlyingImpZombieObject_75: 244629688
+      FlyingImpZombieObject_99: -1335317617
+      FlyingImpZombieObject_25: -623220841
+      FlyingImpZombieObject_141: 63975321
+      FlyingImpZombieObject_189: -1626067974
+      FlyingImpZombieObject_191: -1411624384
+      FlyingImpZombieObject_107: 652212168
+      FlyingImpZombieObject_57: -606250797
+      FlyingImpZombieObject_142: 315676665
+      FlyingImpZombieObject_119: -709484758
+      FlyingImpZombieObject_73: 913080776
+      FlyingImpZombieObject_113: -1961966632
+      FlyingImpZombieObject_9: 1379367344
+      FlyingImpZombieObject_178: 1158523993
+      FlyingImpZombieObject_205: -1057952919
+      FlyingImpZombieObject_44: 1067825548
+      FlyingImpZombieObject_1: -1697506721
+      FlyingImpZombieObject_51: 1765418520
+      FlyingImpZombieObject_202: -2146151218
+      FlyingImpZombieObject_143: 557718001
+      FlyingImpZombieObject_112: 1919150020
+      FlyingImpZombieObject_179: -2073315657
+      FlyingImpZombieObject_147: 1902512622
+      FlyingImpZombieObject_150: 1353814426
+      FlyingImpZombieObject_164: 465129657
+      FlyingImpZombieObject_163: 478134809
+      FlyingImpZombieObject_15: -1869820067
+      FlyingImpZombieObject_200: -312899126
+      FlyingImpZombieObject_116: 1887506790
+      FlyingImpZombieObject_121: 1669221893
+      FlyingImpZombieObject_97: -1876709236
+      FlyingImpZombieObject_72: 1110688309
+      FlyingImpZombieObject_77: 1297276241
+      FlyingImpZombieObject_190: -1737375512
+      FlyingImpZombieObject_103: 222673496
+      FlyingImpZombieObject_87: -1458054419
+      FlyingImpZombieObject_129: 22264580
+      FlyingImpZombieObject_5: 216382923
+      FlyingImpZombieObject_110: 1593925190
+      FlyingImpZombieObject_167: 2001580401
+      FlyingImpZombieObject_14: -428887121
+      FlyingImpZombieObject_31: -1093421664
+      FlyingImpZombieObject_166: -1036860544
+      FlyingImpZombieObject_144: -1731085036
+      FlyingImpZombieObject_46: 630787066
+      FlyingImpZombieObject_8: -1504046643
+      FlyingImpZombieObject_36: 1961185729
+      FlyingImpZombieObject_32: -331787577
+      FlyingImpZombieObject_27: -1034242788
+      FlyingImpZombieObject_177: 831085436
+      FlyingImpZombieObject_161: -587800062
+      FlyingImpZombieObject_88: 1427482000
+      FlyingImpZombieObject_155: 132930766
+      FlyingImpZombieObject_16: 1587527776
+      FlyingImpZombieObject_33: -1718599295
+      FlyingImpZombieObject_94: 277541170
+      FlyingImpZombieObject_170: -1775624114
+      FlyingImpZombieObject_53: 1311670746
+      FlyingImpZombieObject_67: -1211534712
+      FlyingImpZombieObject_19: 2130011091
+      FlyingImpZombieObject_96: -713970733
+      FlyingImpZombieObject_130: 781203774
+      FlyingImpZombieObject_132: -309386090
+      FlyingImpZombieObject_54: 493926136
+      FlyingImpZombieObject_180: 1100837535
+      FlyingImpZombieObject_81: 1071174517
+      FlyingImpZombieObject_92: -104874186
+      FlyingImpZombieObject_86: 1626707382
+      FlyingImpZombieObject_82: -1593472145
+      FlyingImpZombieObject_106: -898753110
+      FlyingImpZombieObject_169: -1500111198
+      FlyingImpZombieObject_109: 89946644
+      FlyingImpZombieObject_186: 772142034
+      FlyingImpZombieObject_105: 544466708
+      FlyingImpZombieObject_201: -2060883757
+      FlyingImpZombieObject_83: 1244772272
+      FlyingImpZombieObject_64: -1798787339
+      FlyingImpZombieObject_120: -827781672
+      FlyingImpZombieObject_45: -594484561
+      FlyingImpZombieObject_18: -2054963514
+      FlyingImpZombieObject_39: 349542662
+      FlyingImpZombieObject_13: 1668688487
+      FlyingImpZombieObject_47: -1974953590
+      FlyingImpZombieObject_187: -1507345776
+      FlyingImpZombieObject_58: -224860945
+      FlyingImpZombieObject_34: -298390262
+      FlyingImpZombieObject_93: -377105787
+      FlyingImpZombieObject_56: 787184744
+      FlyingImpZombieObject_43: -950127963
+      FlyingImpZombieObject_38: -1859976724
+      FlyingImpZombieObject_176: -780996568
+      FlyingImpZombieObject_37: 1852711380
+      FlyingImpZombieObject_158: 1731365215
+      FlyingImpZombieObject_185: 164541361
+      FlyingImpZombieObject_12: 1790146800
+      FlyingImpZombieObject_29: -1987849827
+      FlyingImpZombieObject_197: 814952356
+      FlyingImpZombieObject_10: 1624598693
+      FlyingImpZombieObject_21: -1005683379
+      FlyingImpZombieObject_122: 97639052
+      FlyingImpZombieObject_125: 309143829
+      FlyingImpZombieObject_0: -50798597
+      FlyingImpZombieObject_111: -490290513
+      FlyingImpZombieObject_145: 258270248
+      FlyingImpZombieObject_22: 33933787
+      FlyingImpZombieObject_140: 439074741
+      FlyingImpZombieObject_174: 16516709
+      FlyingImpZombieObject_128: 1715427599
+      FlyingImpZombieObject_6: -965964935
+      FlyingImpZombieObject_117: -1286870829
+      FlyingImpZombieObject_61: 216517312
+      FlyingImpZombieObject_76: 1363817855
+      FlyingImpZombieObject_50: -1453168514
+      FlyingImpZombieObject_3: -1645388031
+      FlyingImpZombieObject_20: 1902470203
+      FlyingImpZombieObject_63: 1154504460
+      FlyingImpZombieObject_148: 2077814111
+      FlyingImpZombieObject_139: -328489489
+      FlyingImpZombieObject_124: -323617296
+      FlyingImpZombieObject_135: 1659847090
+      FlyingImpZombieObject_156: 706892745
+      FlyingImpZombieObject_151: 365760662
+      FlyingImpZombieObject_146: 1500958268
+      FlyingImpZombieObject_184: 1312167574
+      FlyingImpZombieObject_204: -795215053
+      FlyingImpZombieObject_91: -1554754319
+      FlyingImpZombieObject_35: 1925401434
+      FlyingImpZombieObject_48: 133342297
+      FlyingImpZombieObject_80: 1951419106
+      FlyingImpZombieObject_30: 1910717264
+      FlyingImpZombieObject_133: -1817168196
+      FlyingImpZombieObject_157: 265601189
+      FlyingImpZombieObject_115: -425030866
+      FlyingImpZombieObject_173: 2057759
+      FlyingImpZombieObject_49: -1333036715
+      FlyingImpZombieObject_2: -204390601
+      FlyingImpZombieObject_11: -1431224142
+      FlyingImpZombieObject_194: -1269097545
+      FlyingImpZombieObject_79: 1196022914
+      FlyingImpZombieObject_60: 1038772950
+      FlyingImpZombieObject_71: 1319621823
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

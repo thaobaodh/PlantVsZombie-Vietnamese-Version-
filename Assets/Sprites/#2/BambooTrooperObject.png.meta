@@ -1,0 +1,4304 @@
+fileFormatVersion: 2
+guid: 5b23b488a706f3642acc1d0cf3ed1355
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BambooTrooperObject_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 213
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db50c33e8bf02146b4b8c9952af7fc6
+      internalID: 1853330517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 764
+        width: 239
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cfe993fdacd9045a2c88722079cdb3
+      internalID: 704786261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 875
+        width: 214
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f28e8ccc2513d469ab35b280f7b0eb
+      internalID: -852142841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_3
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1095
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19c39f566bc63c46b1d6b18f99a13fb
+      internalID: -1700640770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_4
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1030
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7581bd45ceb2cc499c4dee484f885ba
+      internalID: 271004596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_5
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1059
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0549fa1589e751546904f555b63d9f69
+      internalID: -177993715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_6
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 875
+        width: 238
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46764d478b07804ab7cbb351047f103
+      internalID: 1042668087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_7
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 963
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb585d3426d72948a63b7066f1014f5
+      internalID: -596436945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1008
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d96979e0a6e76a42849924c6e27bc89
+      internalID: 1500155476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_9
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 942
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59818a043bab4554c99b18d0247601d5
+      internalID: -425409236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_10
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 904
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb39797b9b35ad40ad3fa4cdc8710f3
+      internalID: 55385779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_11
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 758
+        width: 148
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a894300af1e135459f9051da304ede7
+      internalID: -162260990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_12
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 863
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9eca0043c09df4d836e02e10bd587a
+      internalID: -1948052906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_13
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 845
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55777c270a995f4281d62dfc9f14455
+      internalID: -726468626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_14
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 827
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df261b3547a9aca48aa486d8c7f6a723
+      internalID: -490697199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 792
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb821a1cc2af8e04da8ba9b42cc47522
+      internalID: 605168740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 630
+        width: 238
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b41dd533b6ff0941adfaca941319b45
+      internalID: -1598676123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_17
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 631
+        width: 238
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c04b47304869d4ea2abfd3df9bd2df
+      internalID: -2122748435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_18
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 768
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f427c9e99a7bcf47a1d8dfb09d78f51
+      internalID: -1030589774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_19
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 643
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f724b447d1f3aa747a8f20eef39792b4
+      internalID: -1057998526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 553
+        width: 126
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea82dfa214800140a820a5f09ff0092
+      internalID: 1320957601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_21
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 557
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a670650e83cdd4fac219d54493167a
+      internalID: -275688497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_22
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 557
+        width: 108
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea84a045e7f2324dad8f40b727d6579
+      internalID: -581473440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_23
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 628
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4105e641814b84b86ded6411399000
+      internalID: -2023020224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 557
+        width: 86
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6432bdd55abeae4d8944cc67c5efc5c
+      internalID: -2052512022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 535
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b042dca0442fd244b80003eb2982c4d4
+      internalID: -1924765082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 570
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e791615f8d3bf549be931d3a52619fb
+      internalID: -1522402183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_27
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 603
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9a870d6d85767478e25740effd2b8f
+      internalID: 212762813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_28
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 609
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994d31a2148937b4bb32cbaf052474c5
+      internalID: -1211664493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_29
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 553
+        width: 116
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b0c5c8bdc382845815a7d8b0162bd2
+      internalID: 1343352803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_30
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 606
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5348ed01ca00440b220246a46b24a0
+      internalID: 1456352636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 576
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886e20a7c0b999545a448206fa160acb
+      internalID: -1469899182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_32
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 583
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92225904d2a3d14bb3b425e56d4bc3a
+      internalID: 1730977336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_33
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 560
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee7b475275d21a42b2430d4910f38d1
+      internalID: -1495734497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_34
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 545
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada5fe2cadd962f4899e46f8419571fe
+      internalID: -1433877532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 569
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5169bcb482a73654db4ad7321c447f02
+      internalID: -671776071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_36
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 493
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df59b71eab1e7d46b8f5a09540f7288
+      internalID: 313689365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_37
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 555
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8213062a742646499ce2782c6e6f7ff
+      internalID: 459697249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_38
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 557
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f744dc1fad7cde34e8d7035023256ceb
+      internalID: -49774867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_39
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 523
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbc8eae53bf6c544a4c6fb7455e3e5e
+      internalID: 1550143035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_40
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 530
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b6f95434e01fe46b5bc6c2df16ab73
+      internalID: -525672756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_41
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 477
+        width: 103
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d812a0ad4bd5fd4eaaf609fa834e501
+      internalID: -1694294887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_42
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 481
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb124cf12fb73f14e899a28ca6acb136
+      internalID: 1458496657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_43
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 500
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526fa9ddc9b6faa44b52206e7290e5a3
+      internalID: 1666729390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_44
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 481
+        width: 100
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b0dd7e8f345b843982b9fe50613bb4
+      internalID: 1899050710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_45
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 483
+        width: 106
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df4a7d3c1473da49a764a4f955b01a5
+      internalID: 2024803008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_46
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 492
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b734493c10998478cbd3cf5b691921
+      internalID: 1403437214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 510
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6aeaf7d8af4114d9034bc0614504f6
+      internalID: 30061826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_48
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 488
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74ceadff6eb03a478a23ccc739848e7
+      internalID: 350228124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 449
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56700db6be84394cac701d7cd14bd3b
+      internalID: 1661819961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_50
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 503
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4997658cbb80048a609e2ebc6b5866
+      internalID: 1081695638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 481
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780216358477be04bb6295f7cad95a2e
+      internalID: 1010383088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_52
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 491
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ad66690e34c8f4e95f78280adfa4a0
+      internalID: -443642228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 469
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a73e49350b175b4e8bb07ccdc97f331
+      internalID: 689926281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_54
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 422
+        width: 91
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc42f90a5d57c4841ae9cf2f9b2ed288
+      internalID: -646490755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_55
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 426
+        width: 92
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7878bc5ca5e67e34fae67cd07393f212
+      internalID: -666477427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_56
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 422
+        width: 118
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf16bc3c44bb7bd4db591fa9e873216e
+      internalID: 2021852820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_57
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 421
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418d1ce291e6f364a894141ea6cbcec7
+      internalID: -2084579779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_58
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 424
+        width: 114
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eacd2b24c7c6f42ad2b355313e238c
+      internalID: -569385078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_59
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 456
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf377c50986ebb8429c18487287340c8
+      internalID: 340389182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_61
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 426
+        width: 117
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f4919aae9fa3140bebb4a24e84adfc
+      internalID: 1186818429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_62
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 465
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08743625327b0c0458136fc37951819f
+      internalID: -1620361011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 395
+        width: 113
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db025bf3bd7f53b4992e08afed2d4c9a
+      internalID: 1627027769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_64
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 417
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65925589753bf6e4cb6778b7986aad69
+      internalID: -886369348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_66
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 412
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c8c373cc448a040853091197ad808f
+      internalID: 310821784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_67
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 437
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f975a4c9762e045801a03024208e9e
+      internalID: -1410346544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_68
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 440
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dbfab43803eda44a0eba2eafb69e9a
+      internalID: -1088221861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_69
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 397
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3008c46d50cdea4488da04d2feee87c
+      internalID: -1239182793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_71
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 368
+        width: 111
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11af7cd3bbb3f794388e2b9d9b181901
+      internalID: 817176944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_72
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 369
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18943b2f96f3d9f4c92a4024ba587cf9
+      internalID: 1334294595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_73
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 395
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3becf7328be5fef41a0cfa7a9d72c001
+      internalID: -335328125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_74
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 369
+        width: 102
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9872100553d6eb1468e14260e9ad0bee
+      internalID: -701628272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_75
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 344
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba4872c135fd04488bbf4c2cd24b013
+      internalID: 1604728347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_76
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 371
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bb8bec0504ab54e8d191341907c6fb
+      internalID: -1335150387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_77
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 365
+        width: 89
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1af4f0b55c15354794bdf1c5bba0759
+      internalID: -73612380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_78
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 344
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d1963dedee48d4997d904e1ecccf43
+      internalID: 1278021701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_79
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 343
+        width: 107
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a5cfcdcab24d347a8d3fe697a179c3
+      internalID: 1763094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 307
+        width: 88
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96d5a1c2cc3e264fa39e2eac52c1eb8
+      internalID: -1822678196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_82
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 348
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b86aa742fef0e54f91777306a75288c
+      internalID: 1798069823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_83
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 316
+        width: 108
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e812f18012eddc439684b729a126c92
+      internalID: 729028843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_84
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 303
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298942e5051aba449a305a8266ef778d
+      internalID: 998298233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 116
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fd584c5f459a841afebac49a7b60c6
+      internalID: -1864662806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_87
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 294
+        width: 121
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7a43c16269eaa4fbe1556103f92147
+      internalID: 1747678760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_88
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 322
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac2adeee64721548837bebd33b9c08c
+      internalID: 1488911323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_89
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 277
+        width: 117
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e501b17c5b0bb4042b04deab0e7e3ba6
+      internalID: 1848558017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_90
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 278
+        width: 117
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bbc4d3a758a44438bdfffc07a99c14
+      internalID: -13340205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_92
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 293
+        width: 119
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5757b7afdfefe488ae52d9205e66dd
+      internalID: -1599682820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_93
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 242
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd56b422cf5b1349b905f453b7d6554
+      internalID: -2001296902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_95
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 283
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443f04ae1e70dcc44a3e1a6788ac93e8
+      internalID: 915525433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 112
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d86b2988edec44c8400a16232cfd19
+      internalID: 111708165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_98
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 246
+        width: 116
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f481530fd47334bad0e4982b924b84
+      internalID: -1970192163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_99
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 245
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa2e89d70509bc4db8b3af7c6c6a1cd
+      internalID: 533844561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_100
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 230
+        width: 110
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f965dd02824e48d44882fd02429eab70
+      internalID: -143275365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_102
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 245
+        width: 114
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837a9201e10877e4f960498478d2cd0d
+      internalID: 755897178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_103
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 247
+        width: 116
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b10324fba8cc334ba74b51f722e168e
+      internalID: 1340367362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_104
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 234
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52078a08ea756414a984493619278329
+      internalID: -842390828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 188
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8481dc4ef3fb9b14fbf0801a21d2afd7
+      internalID: 1687258006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_106
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 201
+        width: 103
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6c8534abd927648b42ed07e94d7cd3
+      internalID: -644460476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_108
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 182
+        width: 114
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3efc6b73ace01459c32af6cbe4f124
+      internalID: -1431802756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_109
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 160
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59036a3a6b77244fb8f8164fb56c62b
+      internalID: 96589997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_111
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 198
+        width: 114
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcbe7efc083c7d4ca47c92bdec32228
+      internalID: 225759345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_112
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 198
+        width: 116
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490a53e7c8ee8354db3e46feee46b832
+      internalID: -1073977665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_113
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 133
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7427f8303f2bb4590f54eb9ee6ba13
+      internalID: -1613672476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_114
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 135
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7724798c68d476b4f86d660647c394db
+      internalID: -238796262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_116
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 143
+        width: 92
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81fa8aae0dfa1046abde8a4832ac519
+      internalID: -1652026678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_117
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 141
+        width: 90
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0387de1d57eb69c478064a0ab9864a5e
+      internalID: 1044335381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_118
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 135
+        width: 65
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab87efe714445504f8b634632001fc23
+      internalID: -385938502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_119
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 164
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6f24a26d26b524e8e0f6c5e52698c8
+      internalID: -1066510994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_120
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 143
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08826e79de6197f4d852b0c9af8d07c3
+      internalID: 1993103438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_121
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 152
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed4d6dc5655c2d45954b96ef498bf16
+      internalID: 28388225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_122
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 133
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d41237276bbec24fbab4c41c6a1e053
+      internalID: -1329332767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_123
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 156
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0116db2cdef6674abe282c39c0c5942
+      internalID: 786998321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_124
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 76
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0b00a7961f9904f93695b30dccb66b
+      internalID: -98870373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_125
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 100
+        width: 88
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e649b501a4c7c4aa33b1c72868ddde
+      internalID: 170679900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_126
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 117
+        width: 92
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4514b8feaf8b249b29f45885af9fa4
+      internalID: -135266931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_127
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 100
+        width: 85
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3822c95d39a46f9499308f3141fe1453
+      internalID: -541522675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_128
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 102
+        width: 86
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585407ffa8d94914e84ed40135d5b62c
+      internalID: 773306782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_129
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 134
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e13d4556ee7714eb6c6e0dba249007
+      internalID: 838031186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_130
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 113
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d01fe048c3ac1b449e8b86793a281b9
+      internalID: -784345403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_131
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 78
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d317eb650e5724b9935aae6f9f42d3
+      internalID: -1049740039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_132
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 86
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28410eb5495ecc74f9d11df97f044cea
+      internalID: -1376747678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_133
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 70
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221890ddc9517d44489134bb20a2b256
+      internalID: -693078688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_134
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 93
+        width: 81
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145d4be883a1d5f4d9a6cbbc7e9ed719
+      internalID: -1643437413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_135
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 72
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5237daf91948894e9442b3e21c030ca
+      internalID: -1156771788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_137
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 80
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2391cee844868418aa554e2a7b585d
+      internalID: 1749171158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_138
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 70
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e168f0f0790a4344b4a60309fcf547f
+      internalID: 625480720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_139
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 69
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cc034caf9afa240bde53c2aaf1186c
+      internalID: -1279862499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_140
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 41
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1deaf42a8000b4190ac9187e938c88
+      internalID: 319475339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_141
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 19
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8470509b0ac89c4fbb85e5a57c10bb1
+      internalID: -565171017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_142
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 75
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd33f467a16ba4e4886b3d0185ac4bb4
+      internalID: -1123073818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_143
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 57
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330c0bf6b0c51974ea664c8ccf1c6015
+      internalID: -862314202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_144
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 56
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c6092d33c9ee649875de535c5e1538
+      internalID: 1086786262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_145
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 55
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0214ae5021bc5834eb51ec3800305b74
+      internalID: 433333284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_146
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 55
+        width: 122
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a1069ed171cb441a08d3442f8afb8a
+      internalID: -1115007056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_147
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 59
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569c9c51ea6e1f04d83d83c2eb70cb3c
+      internalID: 305937352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_148
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 43
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11ef17ae535977439783e833dc4627c
+      internalID: -1772376516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_149
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 35
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b9504c466bea54882c33b2cc3ed543
+      internalID: 1454178317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_150
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 53
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378cd431103002540b92e8dfc5fa84be
+      internalID: 653334346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_151
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 39
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a60ddf0df67afe4a96e57d750364585
+      internalID: 1445063786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_152
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 27
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d858438e1b20c489f5d97fa174b323
+      internalID: -415412546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_153
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 25
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75813085b27e7a48936bd0ae7eb9cd3
+      internalID: -1531717095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_154
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 45
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461b91ed3f50b5f43bb12d08d3d6d254
+      internalID: -672650283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_156
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 37
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a93c7255a0f84747a132e81435882d1
+      internalID: -1705314813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_157
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 37
+        width: 61
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5d58de1c55a1a4f978488e80c74b09
+      internalID: 1744307103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_158
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 22
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f09f914c9b50443b35dde6a2772d3f
+      internalID: -174753289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_159
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17816fb8d9d04b947a96053e9953331c
+      internalID: 798449090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_160
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e148a06888c3e4040b89ae9480e01e1c
+      internalID: -891716026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_162
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 5
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77f1dd5b3f1c6e4ebe6fa48bccfa041
+      internalID: -1342467521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_163
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6883c4c558dce6546bd7191375683b5d
+      internalID: 2102736754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_164
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 12
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199721a39d36e3a4188486837ba23f69
+      internalID: 748211718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_165
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 20
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d59c7ba815034489490fe854eaf12
+      internalID: 1204161344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_166
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 19
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbac151da376804499f76564636477a
+      internalID: 959013027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_167
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 25
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0a7ad2570e42f4698169f42c24206a
+      internalID: 20158441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_168
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 4
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881e72b24e10f524ab7b6e5ebc7e982d
+      internalID: -631530971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_169
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 13
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9b017028ff247488ea40d589de5f99
+      internalID: 1165212420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_170
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 27
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33251be6f973b9a4cb149942841220af
+      internalID: -920660468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_171
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 27
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c700de15e97d2ac48b866bd2400093b3
+      internalID: 1001772014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_172
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 23
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33e5edcd282f14408856e4a0baae4c8
+      internalID: 1763139065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_173
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d306a5dd05fbc4489b1e1b5c5d97baa
+      internalID: -579512101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_174
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 15
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b6b10813d02cf40ae664c0987a07de
+      internalID: -2106268454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_175
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 0
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916107b4ac66d924db00f85466ab0b92
+      internalID: -793961344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_176
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6dd602bc03b6740a9769a851725ac0
+      internalID: 1776886459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_177
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 8
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca382322373d37f408a1f3d48a43e476
+      internalID: -1557967729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_179
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 6
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c93d84353f3ce9418a16f1bc2096d2c
+      internalID: -1427851364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_180
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 7
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8fe34c3e442db4faa672f33dd9a337
+      internalID: -1022164165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_181
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 10
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fec173617bfe3c45bbdb5f70fc7ad70
+      internalID: 630833997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_182
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 0
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dead3398f045e74385753f760310642
+      internalID: 1307066383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_183
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5742c92265b6f884e835713e8075c4ed
+      internalID: 393923577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_184
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 9
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d31bd1a4ea07640a473b06a6847af8
+      internalID: -238136975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_185
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66fae164ec789644a3f5b7f804d8405
+      internalID: 1176916382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_60
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 348
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa262c92665bd44989613721b057a1b
+      internalID: -1955209557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_65
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 13
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3732c08a17b60af45a67874ff154e431
+      internalID: -616277168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_70
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 229
+        width: 108
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1188720e19e149446b208deca28f3a85
+      internalID: 1913976008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_80
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 180
+        width: 115
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f0abb5e86d9ce4691f6f8c57acb32d
+      internalID: -1938654228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_86
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 182
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24646cfd707a8f047858b653c639244b
+      internalID: 60593098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_91
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 924
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae941a1c5e1a754e90129c08b82f485
+      internalID: 2035599964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_94
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 884
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040047aecf61e224c88ee5b21cc59eeb
+      internalID: -1612022088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_97
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 865
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a69790c04cb784899a473c7814e2c1
+      internalID: 1399637878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_101
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 846
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b969c7d61d22974382aa187fc0b3dcc
+      internalID: -82923236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_107
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 808
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23d9ec182dab0a42b08b18170293b34
+      internalID: 3580937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_110
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 747
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42ea6a02d9b6de41a85ff5dfe8824ae
+      internalID: 774414209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_115
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 726
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b833486b30446e845a88c515db3f7b0b
+      internalID: -1441694166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_136
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 707
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e113e7bee89ba4c4c82f6aa973c65eee
+      internalID: -1847343538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_155
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 686
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3e91cee78bd92469404d1fc20bade2
+      internalID: -1844119976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_161
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 665
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1c75374e6487a4b9eab158c3a578e3
+      internalID: 1007397495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_178
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 593
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32938726563cda942bbcf91b27ceed38
+      internalID: -2001608165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_186
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 580
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319047e1c288cb14bbf9723d2384725e
+      internalID: 1831073382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_187
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 985
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0e83a76ccfa26428b9fe8b494eae3d
+      internalID: -102786548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooTrooperObject_188
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 221
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60883c38587b69441815f5aaa592095c
+      internalID: 1344312492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BambooTrooperObject_141: -565171017
+      BambooTrooperObject_153: -1531717095
+      BambooTrooperObject_148: -1772376516
+      BambooTrooperObject_154: -672650283
+      BambooTrooperObject_120: 1993103438
+      BambooTrooperObject_3: -1700640770
+      BambooTrooperObject_110: 774414209
+      BambooTrooperObject_118: -385938502
+      BambooTrooperObject_35: -671776071
+      BambooTrooperObject_74: -701628272
+      BambooTrooperObject_109: 96589997
+      BambooTrooperObject_116: -1652026678
+      BambooTrooperObject_183: 393923577
+      BambooTrooperObject_104: -842390828
+      BambooTrooperObject_127: -541522675
+      BambooTrooperObject_130: -784345403
+      BambooTrooperObject_44: 1899050710
+      BambooTrooperObject_13: -726468626
+      BambooTrooperObject_156: -1705314813
+      BambooTrooperObject_151: 1445063786
+      BambooTrooperObject_23: -2023020224
+      BambooTrooperObject_178: -2001608165
+      BambooTrooperObject_8: 1500155476
+      BambooTrooperObject_29: 1343352803
+      BambooTrooperObject_83: 729028843
+      BambooTrooperObject_94: -1612022088
+      BambooTrooperObject_33: -1495734497
+      BambooTrooperObject_72: 1334294595
+      BambooTrooperObject_25: -1924765082
+      BambooTrooperObject_14: -490697199
+      BambooTrooperObject_157: 1744307103
+      BambooTrooperObject_41: -1694294887
+      BambooTrooperObject_43: 1666729390
+      BambooTrooperObject_111: 225759345
+      BambooTrooperObject_102: 755897178
+      BambooTrooperObject_173: -579512101
+      BambooTrooperObject_158: -174753289
+      BambooTrooperObject_162: -1342467521
+      BambooTrooperObject_115: -1441694166
+      BambooTrooperObject_90: -13340205
+      BambooTrooperObject_80: -1938654228
+      BambooTrooperObject_149: 1454178317
+      BambooTrooperObject_12: -1948052906
+      BambooTrooperObject_5: -177993715
+      BambooTrooperObject_16: -1598676123
+      BambooTrooperObject_79: 1763094
+      BambooTrooperObject_124: -98870373
+      BambooTrooperObject_10: 55385779
+      BambooTrooperObject_7: -596436945
+      BambooTrooperObject_134: -1643437413
+      BambooTrooperObject_1: 704786261
+      BambooTrooperObject_160: -891716026
+      BambooTrooperObject_138: 625480720
+      BambooTrooperObject_100: -143275365
+      BambooTrooperObject_101: -82923236
+      BambooTrooperObject_86: 60593098
+      BambooTrooperObject_47: 30061826
+      BambooTrooperObject_182: 1307066383
+      BambooTrooperObject_140: 319475339
+      BambooTrooperObject_147: 305937352
+      BambooTrooperObject_6: 1042668087
+      BambooTrooperObject_34: -1433877532
+      BambooTrooperObject_45: 2024803008
+      BambooTrooperObject_28: -1211664493
+      BambooTrooperObject_36: 313689365
+      BambooTrooperObject_60: -1955209557
+      BambooTrooperObject_97: 1399637878
+      BambooTrooperObject_24: -2052512022
+      BambooTrooperObject_132: -1376747678
+      BambooTrooperObject_70: 1913976008
+      BambooTrooperObject_21: -275688497
+      BambooTrooperObject_176: 1776886459
+      BambooTrooperObject_75: 1604728347
+      BambooTrooperObject_37: 459697249
+      BambooTrooperObject_168: -631530971
+      BambooTrooperObject_42: 1458496657
+      BambooTrooperObject_15: 605168740
+      BambooTrooperObject_145: 433333284
+      BambooTrooperObject_174: -2106268454
+      BambooTrooperObject_108: -1431802756
+      BambooTrooperObject_136: -1847343538
+      BambooTrooperObject_159: 798449090
+      BambooTrooperObject_144: 1086786262
+      BambooTrooperObject_22: -581473440
+      BambooTrooperObject_137: 1749171158
+      BambooTrooperObject_0: 1853330517
+      BambooTrooperObject_39: 1550143035
+      BambooTrooperObject_78: 1278021701
+      BambooTrooperObject_93: -2001296902
+      BambooTrooperObject_165: 1204161344
+      BambooTrooperObject_187: -102786548
+      BambooTrooperObject_58: -569385078
+      BambooTrooperObject_103: 1340367362
+      BambooTrooperObject_76: -1335150387
+      BambooTrooperObject_84: 998298233
+      BambooTrooperObject_170: -920660468
+      BambooTrooperObject_169: 1165212420
+      BambooTrooperObject_64: -886369348
+      BambooTrooperObject_30: 1456352636
+      BambooTrooperObject_87: 1747678760
+      BambooTrooperObject_9: -425409236
+      BambooTrooperObject_91: 2035599964
+      BambooTrooperObject_152: -415412546
+      BambooTrooperObject_32: 1730977336
+      BambooTrooperObject_175: -793961344
+      BambooTrooperObject_180: -1022164165
+      BambooTrooperObject_155: -1844119976
+      BambooTrooperObject_119: -1066510994
+      BambooTrooperObject_66: 310821784
+      BambooTrooperObject_185: 1176916382
+      BambooTrooperObject_69: -1239182793
+      BambooTrooperObject_40: -525672756
+      BambooTrooperObject_31: -1469899182
+      BambooTrooperObject_135: -1156771788
+      BambooTrooperObject_59: 340389182
+      BambooTrooperObject_57: -2084579779
+      BambooTrooperObject_88: 1488911323
+      BambooTrooperObject_142: -1123073818
+      BambooTrooperObject_125: 170679900
+      BambooTrooperObject_113: -1613672476
+      BambooTrooperObject_4: 271004596
+      BambooTrooperObject_121: 28388225
+      BambooTrooperObject_143: -862314202
+      BambooTrooperObject_150: 653334346
+      BambooTrooperObject_184: -238136975
+      BambooTrooperObject_161: 1007397495
+      BambooTrooperObject_181: 630833997
+      BambooTrooperObject_95: 915525433
+      BambooTrooperObject_98: -1970192163
+      BambooTrooperObject_117: 1044335381
+      BambooTrooperObject_164: 748211718
+      BambooTrooperObject_63: 1627027769
+      BambooTrooperObject_17: -2122748435
+      BambooTrooperObject_2: -852142841
+      BambooTrooperObject_131: -1049740039
+      BambooTrooperObject_129: 838031186
+      BambooTrooperObject_133: -693078688
+      BambooTrooperObject_68: -1088221861
+      BambooTrooperObject_112: -1073977665
+      BambooTrooperObject_128: 773306782
+      BambooTrooperObject_163: 2102736754
+      BambooTrooperObject_18: -1030589774
+      BambooTrooperObject_105: 1687258006
+      BambooTrooperObject_186: 1831073382
+      BambooTrooperObject_188: 1344312492
+      BambooTrooperObject_71: 817176944
+      BambooTrooperObject_73: -335328125
+      BambooTrooperObject_96: 111708165
+      BambooTrooperObject_38: -49774867
+      BambooTrooperObject_123: 786998321
+      BambooTrooperObject_85: -1864662806
+      BambooTrooperObject_179: -1427851364
+      BambooTrooperObject_166: 959013027
+      BambooTrooperObject_167: 20158441
+      BambooTrooperObject_54: -646490755
+      BambooTrooperObject_77: -73612380
+      BambooTrooperObject_49: 1661819961
+      BambooTrooperObject_51: 1010383088
+      BambooTrooperObject_81: -1822678196
+      BambooTrooperObject_11: -162260990
+      BambooTrooperObject_172: 1763139065
+      BambooTrooperObject_114: -238796262
+      BambooTrooperObject_55: -666477427
+      BambooTrooperObject_107: 3580937
+      BambooTrooperObject_67: -1410346544
+      BambooTrooperObject_61: 1186818429
+      BambooTrooperObject_65: -616277168
+      BambooTrooperObject_99: 533844561
+      BambooTrooperObject_177: -1557967729
+      BambooTrooperObject_106: -644460476
+      BambooTrooperObject_20: 1320957601
+      BambooTrooperObject_19: -1057998526
+      BambooTrooperObject_56: 2021852820
+      BambooTrooperObject_82: 1798069823
+      BambooTrooperObject_122: -1329332767
+      BambooTrooperObject_48: 350228124
+      BambooTrooperObject_46: 1403437214
+      BambooTrooperObject_89: 1848558017
+      BambooTrooperObject_92: -1599682820
+      BambooTrooperObject_171: 1001772014
+      BambooTrooperObject_26: -1522402183
+      BambooTrooperObject_27: 212762813
+      BambooTrooperObject_53: 689926281
+      BambooTrooperObject_139: -1279862499
+      BambooTrooperObject_62: -1620361011
+      BambooTrooperObject_50: 1081695638
+      BambooTrooperObject_126: -135266931
+      BambooTrooperObject_52: -443642228
+      BambooTrooperObject_146: -1115007056
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

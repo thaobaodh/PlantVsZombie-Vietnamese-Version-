@@ -1,0 +1,3050 @@
+fileFormatVersion: 2
+guid: ee022c6ce614e0a46aa0c67ecbdd7346
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TigerToolObject_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 641
+        width: 440
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078aa73f6d3e629469ee17d76dc5a4ac
+      internalID: -1953375346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_1
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 798
+        width: 251
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a47d28fe72d98498e927a837be28de
+      internalID: -1249280413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_2
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 813
+        width: 136
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eded4d6d6f36b4889e599971fe3cfb
+      internalID: 1910366888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_3
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 946
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c70476be71b534180fb2ccd66f63a9
+      internalID: 387046222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_4
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 917
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852a3ab5a0731604a8f8df4b1d074ffe
+      internalID: 1125763473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_5
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 893
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406484460cc994847b69ac491ddb303f
+      internalID: 47355622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_6
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 866
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6d78544f419b147bc06aca2cd2b20c
+      internalID: -1830033657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_7
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 841
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d28450b05dc2248ac03207e73e7e19
+      internalID: -1698545941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_8
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 818
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f179f525547bff40a433f584d946914
+      internalID: -2003032164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_9
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 781
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488544ed29f34e541a78dfe04ad1bd10
+      internalID: -1628242649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_10
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 779
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4328102f235b99a49bf738cb9950242c
+      internalID: -198199838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_11
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 779
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2722c8c02fd5614ea154b07c7afdcd6
+      internalID: 111064131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_12
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 782
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cd11a5f4ac3a149aa56f27d9251bdd
+      internalID: -2069323313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_13
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 776
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4956ee5a835f13418f99279950dcf9a
+      internalID: 1263231664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_14
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 784
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef21cf193c48bb446b972500716a4509
+      internalID: 1422540924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_15
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 791
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bb4cb7de4ce134db3823d077184658
+      internalID: -451950432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_16
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 607
+        width: 214
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9f79c56f2f5a347a93c6a0d8f5693f
+      internalID: 660791205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_17
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 623
+        width: 184
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffe89f7899c2dd4bafac1089527f928
+      internalID: 27037503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 465
+        width: 154
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db032c2775eb07246ba39e6c87bdd712
+      internalID: 2130413368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 467
+        width: 95
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34cd7d7adfe91d4994b9bc99e61e49a
+      internalID: -1141996747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 512
+        width: 131
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232980c4a56b81042b3d2716a9cef37f
+      internalID: 1976454176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_21
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 553
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ad891574d8c754682e7088cf182e6d
+      internalID: -1517542519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_22
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 428
+        width: 212
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f79c7b9658239d41915f5de6a856669
+      internalID: 1096060159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_23
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 463
+        width: 163
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddff7908889b05a4c8a22bc5d25a5c9b
+      internalID: 907241744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_24
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 564
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3532164fb5ba3814e9a41a2738386326
+      internalID: 862248313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_25
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 519
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5fd089c22afb041a4f311d393fd30c
+      internalID: -1616858311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_26
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 502
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8039b8e9cbc80cc42a39a8446edab5b6
+      internalID: 283376584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_27
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 533
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492ac99ca12a0e2498253aaaa22c957c
+      internalID: 1023495145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 502
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1224ea9f8238e54087cf4039bc1fc0b
+      internalID: 1225748962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_29
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 359
+        width: 75
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a770692836e1454189a5253d2ffd943
+      internalID: 1988195344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_30
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 393
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fc64c4d3ee4b54798dcc1baab6bd2e
+      internalID: 1439432113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_31
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 471
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71fa471d47340744bdb2ba0f2a4c009
+      internalID: -1947249680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 370
+        width: 109
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f806dce7d7efc4386b156b2531489b
+      internalID: 83550945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 358
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3300ee03ddf3a848b30241a596fa8ed
+      internalID: -551003004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_34
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 442
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516d86e4fe95bcb45992b710db0d7334
+      internalID: 249328490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 344
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad0c608a6e61d84da9099f3735f1f51
+      internalID: 965537161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_36
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 366
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6018b068fa87bdc4aa1b1edf2bd45abb
+      internalID: -1217193815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_37
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 363
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa71658b328c134ca2610581a46f521
+      internalID: 440410773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_38
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 417
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de0bb59ea8b8fb4dbe73e3c175e670e
+      internalID: 1648031064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_39
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 337
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c982a75e0b9c7f74ab5a8d4372e4a70f
+      internalID: -1944318151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_40
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 346
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fa9f358848bc648ae0a5c4b2ca0af5
+      internalID: 1311844519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_41
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 395
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed839d0a250667a4fafeac6c77811dc1
+      internalID: 742838616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_42
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 394
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22418977fd1e734a91c0bde91029bee
+      internalID: -1199838894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_43
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 294
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3567355c75706bd4fbb72d1b96366106
+      internalID: 1198357434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_44
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 356
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4859d2a274d1bf442b6d68bb6fba85ce
+      internalID: -429581993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_45
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 252
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a780bd4cc1f41a3408479f5ecb823f97
+      internalID: -485544862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 294
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba241f2c498af0b41936630a48b790e7
+      internalID: -1910908398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_47
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 278
+        width: 91
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70eb1011a557b24d883006b76c67683
+      internalID: -2001418119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_48
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 262
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261391bfcc7110345b93606966b92163
+      internalID: -638426263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_49
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 262
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a89f703339e3644c9424102e578ca7e
+      internalID: 858583257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_50
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 294
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573f4a5f404eec4f86351e5353ca480
+      internalID: 1602088685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_51
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 268
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbf249fe982cec47a8bd2e4a6bd4e10
+      internalID: -1944552078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_52
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 306
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d438f143c3949aa4d8a7ee06914eb69d
+      internalID: -19925323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_53
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 289
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe1b884c73669a4aaa1f10f95ed0236
+      internalID: -1865197544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_54
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 279
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e020b4b892eb57a4b8d0f9f7983e7771
+      internalID: 1338542257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_55
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 293
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f482178ad63c9349a1aafc2376fa21a
+      internalID: -380592809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_56
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 271
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bdb5a0ffcdaab469a317b01ad7a5ec
+      internalID: -1280328821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_57
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 290
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bc8f0dd9b59964093731f24f791152
+      internalID: 1621671215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_58
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 226
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b86269afb339d43b08fdfaa6b70b49
+      internalID: -882188608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_59
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 274
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8eac5478a69f14a819a7f87c6ab9bf
+      internalID: -1808696727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_60
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 219
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96898936735921489439077f9bb6703
+      internalID: 98629315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_61
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 215
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb5728bc0cb75742967b680a04d5632
+      internalID: 435144650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 205
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b5cdd138e098643af50e948c7a1f96
+      internalID: 107823844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_63
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 254
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ecbf28661e93540ba01d7273624160
+      internalID: 1767965930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_64
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 206
+        width: 91
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33f77c304c7b5049a6568b10e65596d
+      internalID: 2064661543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_65
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 227
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4548137ea082464490275530a4164fb
+      internalID: 1679421593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_66
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 206
+        width: 116
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbe6da4044d97945a48b84734bdb7ab
+      internalID: 949301167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_67
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 206
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d01978669c154caa20f88ae471c7a
+      internalID: 431494668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_68
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 196
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c28da821d5c024cad0be46d6bebada
+      internalID: -1706641674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_69
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 223
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a836d66e03aa943b6fb47b0e399759
+      internalID: -870841042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_70
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 190
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88422a69637bc4848a9142627d4aee22
+      internalID: -1639740991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_71
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 188
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895b991318e2c9e40bc3f4c1c869b1c4
+      internalID: -1470396707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_72
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 204
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e47fb21e85d4245b0e948bb0074f0f
+      internalID: 1036566645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 206
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a64fa0b95c5394ebfaf3b42e6c82ed
+      internalID: -1883557798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_74
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 210
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabb2780f57828b45ac4f2408f1facf3
+      internalID: -428606924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_75
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 163
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e19530a5b0a70499411ca9b884ac9f
+      internalID: -910367078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_76
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 143
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8d5afdc3a811440907108113b8ffb6
+      internalID: -928969877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_77
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 190
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a314f9b53996b874db5acf7d5d00f124
+      internalID: 358993477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_78
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 149
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440ed0c0fa198a04596934d785197ec6
+      internalID: 1891228122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_79
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 179
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdac55884d9b9b458b9ed3083ed2ccd
+      internalID: 2076265610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_80
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 171
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e42a63302a88c4aae04b1eb082b421
+      internalID: -275225311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_81
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 161
+        width: 75
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8fc8d32f2ecf64dbece0aa8ac155ee
+      internalID: -1036777626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_82
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 168
+        width: 79
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6420b8b510248b4293ff8e5049447b9
+      internalID: 154120539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_83
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 152
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06382937e9b1f034fbc61390c354d72c
+      internalID: 268654265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_84
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 137
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084613ab1b761a04dafc829469f3c7bb
+      internalID: 1094685830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_85
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 149
+        width: 68
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003a16ae5733bfb42a649d58e2f6a445
+      internalID: 1911223577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_86
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 122
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77ae63012cb8b64ca866851c4e90dae
+      internalID: 991961858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_87
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 106
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de8cb60159b75e44a6261c52c17dab6
+      internalID: 854261660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_88
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 129
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32314b8b111c674ab3fd3c22e3baafd
+      internalID: 1882520936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_89
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 127
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099da790842c6dc4996bebd55ea305c6
+      internalID: 635854920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_90
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 110
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47dbb4e8509e7d429a6ef8a7e9277e2
+      internalID: -1808681276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_91
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 121
+        width: 92
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8735719feab2104eb915b5fe0a370f7
+      internalID: -10487227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_92
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 139
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7551b3a272c4e354ab04d6e1ec6ed39d
+      internalID: 1617798496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_93
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 110
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07409934aeec2c41b50a58894bf6194
+      internalID: 440752726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_94
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 138
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe0e7dd0dbfd9c41ade67fdd74f7725
+      internalID: 1388651111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_95
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 153
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb87b0720b74107458dc4ce30ccd0bec
+      internalID: -1264830726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_96
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 74
+        width: 184
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9542fe0cb937c714bb31237faf17902c
+      internalID: 1047338979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_97
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 141
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a17388fe0e3f02459d4fecbe8e120d6
+      internalID: -680688998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_98
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 114
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a82e0111f80994aaf5843600ad8650
+      internalID: -1424861055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_99
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 126
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a19b7841d5e3d4686c1ce818235031
+      internalID: 1832391649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_100
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 88
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62039d4f13804744ea2f81a6bd449817
+      internalID: 1226271234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_101
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 47
+        width: 289
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debbcc04eb32f6a4dbfd3f283659e985
+      internalID: -1658487011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 54
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a129fffb42c1be441a8a109bd79a0ead
+      internalID: 1148300846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_103
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 69
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3527a6b0f8563294ea5183514c0be14b
+      internalID: -1303428550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_104
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 86
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32522dfbad5d194a9cfa18c5a443e58
+      internalID: 1175744690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_105
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 47
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386a171a8d1ec5e4286822ad3ff1fe33
+      internalID: 2031429966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_106
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 85
+        width: 93
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5515a192a5b50c47b067122248c9767
+      internalID: -912707623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_107
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 53
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5880c08e078104887603bcea769dc7
+      internalID: 2019350646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_108
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 62
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f63a9b80deffd44bb538e471c4d423
+      internalID: -1942554271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_109
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 65
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabbbab4951356c4d8401cc110cddcbe
+      internalID: -1494771144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_110
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 49
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82b277686f56624b9e5e76affd8672f
+      internalID: 1153189851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_111
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 72
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19d639f59032664799a979ba716f47a
+      internalID: 804004464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_112
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 59
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc4071209194e246a6aface6014de2d
+      internalID: -907059138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_113
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 56
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8c71e95b5d2a04e8e4a2e3ffe64f98
+      internalID: 95927741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_114
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 40
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7b020bd549c744fbb2a86b7c4ab2d8
+      internalID: -1075168489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_115
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 65
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed83ef47ba853c84596a0e63dddcbeaa
+      internalID: -1022212687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_116
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 25
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95db9d76a742f4a438da3b114e31d9e2
+      internalID: -355883948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_117
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ac57b3bb673cb41a1314b1c99836b3
+      internalID: -550171147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_118
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 26
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33de466f79a19884eb86bb138fd14bf5
+      internalID: 1888392670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_119
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 29
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911e8279346184946aea474d9239945d
+      internalID: -1391963039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_120
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 26
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a125dbf34e1ba48a71b4cdff768bb3
+      internalID: -302336088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_121
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 23
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52d149f9937a2f4ead1c3f0fcc100ec
+      internalID: -1648733959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_122
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 26
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a21e4221c36644dafe6b4765adfdbe
+      internalID: -1793612968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_123
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 25
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee7ecd02de3b30428c69bb7ee04a9d3
+      internalID: 826302828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_124
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 26
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071de54fa10f8548a24209d7a3bced4
+      internalID: -1206934936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_125
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 26
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1674ac7855a10a45a89e1ee146cade8
+      internalID: 1180759878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_126
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 23
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c5a5876c61f3146a76e31ba408696c
+      internalID: -797380696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_127
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 26
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c945ca805bc51724d8657467c60ee0dc
+      internalID: -1789253756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_128
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 26
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d716de4d9eb7bf4ea40bf50fc17b512
+      internalID: 1161786265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_129
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 22
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae11a144f837464ea56b4f0c4f52fbb
+      internalID: 102407734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_130
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 25
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96022528fd1cfe84991d3c9837e51444
+      internalID: -1454228820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigerToolObject_131
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 26
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed0e99070dee01408f767dcbe8ce0cf
+      internalID: 1381606604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TigerToolObject_51: -1944552078
+      TigerToolObject_105: 2031429966
+      TigerToolObject_94: 1388651111
+      TigerToolObject_45: -485544862
+      TigerToolObject_34: 249328490
+      TigerToolObject_54: 1338542257
+      TigerToolObject_97: -680688998
+      TigerToolObject_36: -1217193815
+      TigerToolObject_61: 435144650
+      TigerToolObject_65: 1679421593
+      TigerToolObject_118: 1888392670
+      TigerToolObject_39: -1944318151
+      TigerToolObject_71: -1470396707
+      TigerToolObject_84: 1094685830
+      TigerToolObject_120: -302336088
+      TigerToolObject_7: -1698545941
+      TigerToolObject_111: 804004464
+      TigerToolObject_3: 387046222
+      TigerToolObject_10: -198199838
+      TigerToolObject_4: 1125763473
+      TigerToolObject_73: -1883557798
+      TigerToolObject_41: 742838616
+      TigerToolObject_116: -355883948
+      TigerToolObject_110: 1153189851
+      TigerToolObject_22: 1096060159
+      TigerToolObject_60: 98629315
+      TigerToolObject_127: -1789253756
+      TigerToolObject_56: -1280328821
+      TigerToolObject_85: 1911223577
+      TigerToolObject_8: -2003032164
+      TigerToolObject_64: 2064661543
+      TigerToolObject_107: 2019350646
+      TigerToolObject_52: -19925323
+      TigerToolObject_30: 1439432113
+      TigerToolObject_44: -429581993
+      TigerToolObject_102: 1148300846
+      TigerToolObject_19: -1141996747
+      TigerToolObject_50: 1602088685
+      TigerToolObject_86: 991961858
+      TigerToolObject_100: 1226271234
+      TigerToolObject_15: -451950432
+      TigerToolObject_32: 83550945
+      TigerToolObject_115: -1022212687
+      TigerToolObject_63: 1767965930
+      TigerToolObject_96: 1047338979
+      TigerToolObject_20: 1976454176
+      TigerToolObject_75: -910367078
+      TigerToolObject_17: 27037503
+      TigerToolObject_131: 1381606604
+      TigerToolObject_72: 1036566645
+      TigerToolObject_79: 2076265610
+      TigerToolObject_59: -1808696727
+      TigerToolObject_0: -1953375346
+      TigerToolObject_87: 854261660
+      TigerToolObject_112: -907059138
+      TigerToolObject_16: 660791205
+      TigerToolObject_109: -1494771144
+      TigerToolObject_123: 826302828
+      TigerToolObject_13: 1263231664
+      TigerToolObject_69: -870841042
+      TigerToolObject_83: 268654265
+      TigerToolObject_74: -428606924
+      TigerToolObject_76: -928969877
+      TigerToolObject_14: 1422540924
+      TigerToolObject_62: 107823844
+      TigerToolObject_81: -1036777626
+      TigerToolObject_121: -1648733959
+      TigerToolObject_88: 1882520936
+      TigerToolObject_33: -551003004
+      TigerToolObject_93: 440752726
+      TigerToolObject_126: -797380696
+      TigerToolObject_92: 1617798496
+      TigerToolObject_47: -2001418119
+      TigerToolObject_28: 1225748962
+      TigerToolObject_21: -1517542519
+      TigerToolObject_46: -1910908398
+      TigerToolObject_27: 1023495145
+      TigerToolObject_122: -1793612968
+      TigerToolObject_101: -1658487011
+      TigerToolObject_49: 858583257
+      TigerToolObject_35: 965537161
+      TigerToolObject_113: 95927741
+      TigerToolObject_103: -1303428550
+      TigerToolObject_1: -1249280413
+      TigerToolObject_117: -550171147
+      TigerToolObject_31: -1947249680
+      TigerToolObject_89: 635854920
+      TigerToolObject_66: 949301167
+      TigerToolObject_124: -1206934936
+      TigerToolObject_11: 111064131
+      TigerToolObject_25: -1616858311
+      TigerToolObject_2: 1910366888
+      TigerToolObject_70: -1639740991
+      TigerToolObject_108: -1942554271
+      TigerToolObject_5: 47355622
+      TigerToolObject_104: 1175744690
+      TigerToolObject_26: 283376584
+      TigerToolObject_68: -1706641674
+      TigerToolObject_128: 1161786265
+      TigerToolObject_38: 1648031064
+      TigerToolObject_9: -1628242649
+      TigerToolObject_58: -882188608
+      TigerToolObject_37: 440410773
+      TigerToolObject_114: -1075168489
+      TigerToolObject_67: 431494668
+      TigerToolObject_23: 907241744
+      TigerToolObject_40: 1311844519
+      TigerToolObject_80: -275225311
+      TigerToolObject_6: -1830033657
+      TigerToolObject_18: 2130413368
+      TigerToolObject_82: 154120539
+      TigerToolObject_48: -638426263
+      TigerToolObject_99: 1832391649
+      TigerToolObject_78: 1891228122
+      TigerToolObject_43: 1198357434
+      TigerToolObject_91: -10487227
+      TigerToolObject_24: 862248313
+      TigerToolObject_98: -1424861055
+      TigerToolObject_130: -1454228820
+      TigerToolObject_90: -1808681276
+      TigerToolObject_57: 1621671215
+      TigerToolObject_125: 1180759878
+      TigerToolObject_42: -1199838894
+      TigerToolObject_106: -912707623
+      TigerToolObject_29: 1988195344
+      TigerToolObject_53: -1865197544
+      TigerToolObject_129: 102407734
+      TigerToolObject_12: -2069323313
+      TigerToolObject_55: -380592809
+      TigerToolObject_77: 358993477
+      TigerToolObject_119: -1391963039
+      TigerToolObject_95: -1264830726
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

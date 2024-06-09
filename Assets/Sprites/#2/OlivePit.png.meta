@@ -1,0 +1,3072 @@
+fileFormatVersion: 2
+guid: 85fe4b6fc26c0b946b430a87e41467b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OlivePit_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 412
+        width: 321
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8499ee4c222ab9a448ebe95df934e6f3
+      internalID: -1937124783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 548
+        width: 210
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eae4e5b5a89af542b93f16653ae18fa
+      internalID: 952139643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 637
+        width: 256
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab24a0c41f9e9342a564c0866fc5d72
+      internalID: -494669936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_3
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 609
+        width: 142
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca5eb5515c74a48b037d841f6b5ea8
+      internalID: -1870261380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_4
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 721
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2f75b11f5458c48a93139dae0e422e
+      internalID: -2128230300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_5
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 689
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b0a9c24a0def944960b1f56c8fe8bb
+      internalID: 1303633780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_6
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 652
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c68a16da0925e42b29ea99a133ec18
+      internalID: -1096872417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_7
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 616
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563e69e0e263b9c45a193d33786973f6
+      internalID: -1479342167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_8
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 502
+        width: 141
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cb030e69bc51244a543b60774fffb4
+      internalID: 2058850519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_9
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 588
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902a38a144135b648a02c082391bafdb
+      internalID: -1995174974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_10
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 488
+        width: 252
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37fa89cb4c8469479caf3263e000398
+      internalID: -156585985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 555
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27bafebae4a91c448cb0c0bbe939455
+      internalID: 548249721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 458
+        width: 186
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e86b478725824b41aa48517295b59cc
+      internalID: -380550113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_13
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 528
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e2f548dc9c25e4ea5f0c449d09ef68
+      internalID: 721956285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_14
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 516
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30641310855704748a6485fa4f54504d
+      internalID: -2145479061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_15
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 520
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491eebe4f10d7c3428994002a992a6b8
+      internalID: -1529125853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_16
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 497
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df36d56553af2b459f0d29b33f2f06b
+      internalID: 966489499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 500
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e28d3e38ba49504ebf45775717d36ab
+      internalID: -2055591795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_18
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 486
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1042fa91aed702c44a4dcb6c10559d54
+      internalID: 177295890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_19
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 396
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59251e8b2693aa141a7856a80c557488
+      internalID: -2052373570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_20
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 422
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ca98c4aec5e7e4fa67e9289b0081ca
+      internalID: 681577019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 325
+        width: 129
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bbaecaba844ea4fb46c35c4bf400ea
+      internalID: 957022876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 260
+        width: 82
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf65192ed4585a2489194f0fa7fe1c1a
+      internalID: 1362292048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 282
+        width: 77
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28f86e14d4a95541aa0f44a9e08cce3
+      internalID: 1476363578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_24
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 350
+        width: 91
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0749b79ead04b7b45be27568e490b833
+      internalID: -151561947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_25
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 360
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6924660d3be8d45962d49a7539c1c3
+      internalID: -661673949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 353
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b32e5b2cb65c5f48b2f24a438d4fc6c
+      internalID: 377563762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_27
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 336
+        width: 75
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc72674a57aed3548b60d8d15e0ad8ee
+      internalID: -357763477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_28
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 350
+        width: 96
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65871e5afac2465418412a8a1448024b
+      internalID: 1786613581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_29
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 379
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dc70d298d903e4a8acff840805e9d0
+      internalID: 1138243694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_30
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 351
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: face77f95c895d24eabf884cf690fafa
+      internalID: 1445452207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_31
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 257
+        width: 105
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a184371d3341e4dadfcca4e52c1a77
+      internalID: 1902418210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_32
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 294
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f092bef2fbda7419cbb4a358bf8283
+      internalID: 1214767532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_33
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 256
+        width: 117
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45c675e994ba0c429aa30c102d98770
+      internalID: -1417532448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_34
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 303
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df72d8a569cc5f8469e2f9c78f9e48eb
+      internalID: 28877033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_35
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 328
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2d3a6b455ad604da54cc86d5017c9e
+      internalID: 1537905853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_36
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 228
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aef471fdf9edb4ca56636b7a620b75
+      internalID: -574759444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_37
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 333
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde1068a96061447b1c39123ad735df
+      internalID: -743700942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 264
+        width: 138
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1035e3ef2ff75be43955e2606143a24d
+      internalID: -1652546826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_39
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 268
+        width: 73
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa3a237213e0f34a92c406b4a859cbc
+      internalID: 709496835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_40
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 258
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7148d5472dd6a43abe1ecd56bced7a
+      internalID: -716962570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_41
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 223
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae9d71fc790d924794e7761b294d19c
+      internalID: -389052303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_42
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 246
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670ff0d96454ecf48bbcd3d3fc7642db
+      internalID: 351885743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_43
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 267
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7fe0415ea071742862f874796b2e25
+      internalID: 256153867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_44
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 258
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5722f653925558a4d9eb7998b9ce6051
+      internalID: -907822150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 198
+        width: 150
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f2528c9a5364a469ce38102d3f72f7
+      internalID: -48315221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_46
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 169
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea6a7c63f38c28459670e6197031980
+      internalID: 1262512539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_47
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 168
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2180ba2e8f26a48bc048bfba2d5dab
+      internalID: -469252998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_48
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 182
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1553a054921eb85488b9e64433a70228
+      internalID: 436399503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_49
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 235
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb971e63da594641ac9be30f217decf
+      internalID: 495840895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_50
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 167
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665cdd5704d964b41b01b1759be07a74
+      internalID: -733114686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_51
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 242
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0aa3b5066afcb4c92b78c273a05918
+      internalID: -2077135490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_52
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 237
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b03e01bc873bab4facb6e89d2321727
+      internalID: -2035933409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_53
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 175
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95309d710011afc42ab9363828dc158c
+      internalID: -1062836219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_54
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 245
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055f0d0ced800944595ec6d1e9ab43d4
+      internalID: 186555289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_55
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 237
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b428b586070dbf4b87936a93921f1f2
+      internalID: -1103016393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_56
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 231
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b7fd7f832c02f4cb7b973328269da3
+      internalID: 1043176178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_57
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 201
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dd203955bf9294f9968e4e9cfe3b60
+      internalID: -1609348295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_58
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 168
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92d2acb94c322d4494264bf332e71f8
+      internalID: 480180476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_59
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 211
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ea3d7a612e5bc4d9a68e4ed0189220
+      internalID: -2094766810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_60
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 147
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed7964d6f20a04b9737e16fca8a177
+      internalID: 1350856095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_61
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 199
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8eed49d287f204caff02b410fe31eb
+      internalID: 2051681615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_62
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 172
+        width: 132
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbcbcf683a2c0042bba4fd491231b80
+      internalID: 131316642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_63
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 204
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0bdfb7edc02d645aa816165b0bbadc
+      internalID: 1945849333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_64
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 216
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d4cf0b81cfbd742a48784931145941
+      internalID: -1253936718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_65
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 207
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa046234f5621a41934eb7fd181cb9f
+      internalID: 1633161766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 150
+        width: 138
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0935dc5e447d05e4d9637090a40803ea
+      internalID: -1965064433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_67
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 191
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51e619ea87fc9d4d8c7545057a261b6
+      internalID: -1647799822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_68
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 176
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed48457d1dfea6f45b9c0ecf84d3afff
+      internalID: -1879707570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_69
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 181
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaebe44434736a4aa4449c3dc7e719c
+      internalID: 718914456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_70
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 172
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08392f801193d654caa648210e0c25ab
+      internalID: -794274339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_71
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 171
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478c28d6454f00a42a2c23ddca92cf86
+      internalID: -1773709946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_72
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 178
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4886f4e98920361429685ee87b66b4e5
+      internalID: -512178335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_73
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 177
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fde16a4f6d98f4fbc01b62f130906d
+      internalID: -141713388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_74
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 166
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003ce89b3de4d03468314b35c55ecc1f
+      internalID: -266080223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 122
+        width: 122
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c465d92752d230a40846185551530fef
+      internalID: 390377204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_76
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 122
+        width: 122
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238946f7c0419c74581199fd18e8d41a
+      internalID: 1356432334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_77
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 120
+        width: 111
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641c7f2889c701b479fbb8de40d1175a
+      internalID: 750869873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_78
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 149
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676700408f955e549abc0b13bd8ed2fe
+      internalID: -1290959904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_79
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 129
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64737e938828134fbc4e24847e76989
+      internalID: 1238940712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_80
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 150
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eda91c328f648429b463071f2bcb6b
+      internalID: 507633944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_81
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 123
+        width: 102
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6823f02cce76b4b847576a65f47d35
+      internalID: 1663695761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_82
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 85
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f946870c84e6d4c97549d943739847
+      internalID: 734456226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_83
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 90
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0884aa61bb2e5e74ebd683e93c52586e
+      internalID: -103786354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_84
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 80
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad02eb8d86a24ca49a62e87a47bc1c17
+      internalID: -808178645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_85
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 77
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfb71de050c4714c8082315058d411d
+      internalID: -417242799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_86
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 105
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d4c314278af234e838edc0d73f3612
+      internalID: -1608949237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_87
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 117
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df20391e0c94a8342a135d604fcc252b
+      internalID: -1060133937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_88
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 96
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13074a19247d5194eae71aed84ea0a46
+      internalID: 424799025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_89
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 91
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dcfc72e95581e42b7c94148c5cd4c7
+      internalID: 527482367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 90
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e517bf407eb0db4f8e048a50cf98a8f
+      internalID: 368226731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 86
+        width: 104
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fa6ae4c7258034295d6035f4dd56b8
+      internalID: 1606194660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_92
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 60
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf55dde7cf7f30499280e0537016b13
+      internalID: -825090319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_93
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 81
+        width: 83
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078c52fa127df1845a206ce38b327582
+      internalID: 1746760096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_94
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 66
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0586e605e6125914fbfc9f27a630d209
+      internalID: 1467677935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_95
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 55
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b6843b3cf12da47ae5cd92cc02ed10
+      internalID: 1735676885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_96
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 102
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62be8d58db363f846ae2db220fae3fd3
+      internalID: 1174469805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_97
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 44
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14817acba3a057f41809001ab19c76b9
+      internalID: -658655719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_98
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 60
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffdf1a01f1958b499f8833738674e90
+      internalID: -483765830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_99
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 72
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efc07e88d2d80e4889986cedf94b7ba
+      internalID: -440444446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_100
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 80
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca61f98ba0c83d848b3ff3a586202365
+      internalID: 582306470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_101
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 77
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1fb307893e4c942b1b76f6f9e678e2
+      internalID: 348946097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_102
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 36
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a4fc65006379a41b75c20170199ee5
+      internalID: -1910020578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_103
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 56
+        width: 95
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0fd9ef718ccc745a26ff40d4619701
+      internalID: 1106978635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_104
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 42
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050223c13844fcc4c9902165ebcf21c9
+      internalID: -186961071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 34
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab28b914596e5f347a296831c604c5b4
+      internalID: 954544512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_106
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 45
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99f0204285f2094c8801683c3891db5
+      internalID: -1362455186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_107
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 51
+        width: 87
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5752794b656d6ad4591dfe81be8b216d
+      internalID: -1389853955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_108
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b09f8648a4d84dab07157d9c0f97f
+      internalID: 83625809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_109
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 33
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715bb3bebcc1ade4db4d2039dcc4a8e8
+      internalID: -1735355148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_110
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 57
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0bc6be4594f6d449cf4e5fa8de61f6
+      internalID: -536223727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_111
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 28
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcb07615292c9c4bb1984cf9f3fe0b5
+      internalID: -1590233018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_112
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 32
+        width: 95
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd81f5247b1e80942bba9965f5c42121
+      internalID: 1837216107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_113
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 37
+        width: 124
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be0959397bc7fa43863d12341c842d8
+      internalID: 720080389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_114
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 31
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0523941a5e9841e4fa67e76b9bf2f833
+      internalID: 786110079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_115
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 44
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca52d5cd8c739f1409a17b3d809f2fdf
+      internalID: -89436692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_116
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 27
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0b97666c3b2994caf05289c3370806
+      internalID: -810429216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_117
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 42
+        width: 95
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00f384703433394e8c6b6c307f3cd73
+      internalID: 820277444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_118
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 28
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8739d4eb05507f4f96ec21ab5773ff2
+      internalID: -1385691115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_119
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 28
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4714c686314f0e142a65144c3cdff1d5
+      internalID: 770034390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_120
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 38
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a30d836d2ba0a44f956d754bbd5d2fc
+      internalID: -235941534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_121
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 8
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ad96140d5048742b365c88a25ed91f
+      internalID: 931313965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_122
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 13
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2b7ec452da87a4aa33b9e4c0b7289d
+      internalID: -1662572590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_123
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 6
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31525768afc7fa4888d0abf4236b485
+      internalID: -1371099262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_124
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 15
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4b80a1b0fce624ebd88dcf602efdac
+      internalID: 2034086448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_125
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3affcf9e0f7d86d45b457b0d1c2a5237
+      internalID: -649065433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_126
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 15
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3470e211ce27bdb419bb3ff1000b15d5
+      internalID: -74688762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_127
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 6
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdeb2eb2845dd948a6cbcd3d8a57767
+      internalID: 2105615555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_128
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 4
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbea2197522d784c87fe1218bccfc1f
+      internalID: 345785460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_129
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 17
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95330efa175325a40acf6bb3a15ad862
+      internalID: -1791124114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_130
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 9
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51c17a30bfceb34f8197eabb354a8da
+      internalID: 564989194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_131
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 7
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4c303a9807a4743a91f665c483bab4
+      internalID: -93501213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OlivePit_132
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 8
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7b8bd6c56bd264d9ff57861e397d7b
+      internalID: 586425858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OlivePit_23: 1476363578
+      OlivePit_31: 1902418210
+      OlivePit_52: -2035933409
+      OlivePit_87: -1060133937
+      OlivePit_58: 480180476
+      OlivePit_74: -266080223
+      OlivePit_107: -1389853955
+      OlivePit_98: -483765830
+      OlivePit_41: -389052303
+      OlivePit_29: 1138243694
+      OlivePit_56: 1043176178
+      OlivePit_93: 1746760096
+      OlivePit_0: -1937124783
+      OlivePit_105: 954544512
+      OlivePit_20: 681577019
+      OlivePit_117: 820277444
+      OlivePit_67: -1647799822
+      OlivePit_130: 564989194
+      OlivePit_91: 1606194660
+      OlivePit_38: -1652546826
+      OlivePit_61: 2051681615
+      OlivePit_81: 1663695761
+      OlivePit_100: 582306470
+      OlivePit_78: -1290959904
+      OlivePit_26: 377563762
+      OlivePit_85: -417242799
+      OlivePit_71: -1773709946
+      OlivePit_129: -1791124114
+      OlivePit_123: -1371099262
+      OlivePit_50: -733114686
+      OlivePit_37: -743700942
+      OlivePit_24: -151561947
+      OlivePit_76: 1356432334
+      OlivePit_125: -649065433
+      OlivePit_3: -1870261380
+      OlivePit_113: 720080389
+      OlivePit_8: 2058850519
+      OlivePit_12: -380550113
+      OlivePit_11: 548249721
+      OlivePit_131: -93501213
+      OlivePit_68: -1879707570
+      OlivePit_96: 1174469805
+      OlivePit_86: -1608949237
+      OlivePit_115: -89436692
+      OlivePit_70: -794274339
+      OlivePit_55: -1103016393
+      OlivePit_48: 436399503
+      OlivePit_65: 1633161766
+      OlivePit_83: -103786354
+      OlivePit_90: 368226731
+      OlivePit_103: 1106978635
+      OlivePit_80: 507633944
+      OlivePit_106: -1362455186
+      OlivePit_34: 28877033
+      OlivePit_35: 1537905853
+      OlivePit_128: 345785460
+      OlivePit_120: -235941534
+      OlivePit_7: -1479342167
+      OlivePit_62: 131316642
+      OlivePit_92: -825090319
+      OlivePit_112: 1837216107
+      OlivePit_5: 1303633780
+      OlivePit_9: -1995174974
+      OlivePit_104: -186961071
+      OlivePit_88: 424799025
+      OlivePit_95: 1735676885
+      OlivePit_1: 952139643
+      OlivePit_126: -74688762
+      OlivePit_97: -658655719
+      OlivePit_94: 1467677935
+      OlivePit_59: -2094766810
+      OlivePit_69: 718914456
+      OlivePit_4: -2128230300
+      OlivePit_42: 351885743
+      OlivePit_14: -2145479061
+      OlivePit_75: 390377204
+      OlivePit_64: -1253936718
+      OlivePit_54: 186555289
+      OlivePit_101: 348946097
+      OlivePit_45: -48315221
+      OlivePit_40: -716962570
+      OlivePit_57: -1609348295
+      OlivePit_60: 1350856095
+      OlivePit_102: -1910020578
+      OlivePit_73: -141713388
+      OlivePit_122: -1662572590
+      OlivePit_119: 770034390
+      OlivePit_43: 256153867
+      OlivePit_108: 83625809
+      OlivePit_17: -2055591795
+      OlivePit_10: -156585985
+      OlivePit_32: 1214767532
+      OlivePit_47: -469252998
+      OlivePit_89: 527482367
+      OlivePit_6: -1096872417
+      OlivePit_111: -1590233018
+      OlivePit_53: -1062836219
+      OlivePit_77: 750869873
+      OlivePit_82: 734456226
+      OlivePit_99: -440444446
+      OlivePit_28: 1786613581
+      OlivePit_39: 709496835
+      OlivePit_121: 931313965
+      OlivePit_2: -494669936
+      OlivePit_127: 2105615555
+      OlivePit_132: 586425858
+      OlivePit_18: 177295890
+      OlivePit_110: -536223727
+      OlivePit_118: -1385691115
+      OlivePit_84: -808178645
+      OlivePit_21: 957022876
+      OlivePit_16: 966489499
+      OlivePit_46: 1262512539
+      OlivePit_25: -661673949
+      OlivePit_66: -1965064433
+      OlivePit_22: 1362292048
+      OlivePit_36: -574759444
+      OlivePit_33: -1417532448
+      OlivePit_72: -512178335
+      OlivePit_44: -907822150
+      OlivePit_49: 495840895
+      OlivePit_63: 1945849333
+      OlivePit_19: -2052373570
+      OlivePit_109: -1735355148
+      OlivePit_51: -2077135490
+      OlivePit_27: -357763477
+      OlivePit_114: 786110079
+      OlivePit_116: -810429216
+      OlivePit_13: 721956285
+      OlivePit_15: -1529125853
+      OlivePit_30: 1445452207
+      OlivePit_79: 1238940712
+      OlivePit_124: 2034086448
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

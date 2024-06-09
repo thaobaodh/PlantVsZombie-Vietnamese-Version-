@@ -1,0 +1,2469 @@
+fileFormatVersion: 2
+guid: e17674cdccff8264a9eb82c442487c58
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HanBronzeZombie_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 908
+        width: 365
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ecd009248b7c5488cf85ed1f925b8b
+      internalID: 1255239689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_1
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 957
+        width: 323
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1b30277f620fe429ff5b2b0bf3eee3
+      internalID: -626612051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1252
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb6f31204433fc48bb94b03a703a2a2
+      internalID: 1102160776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_3
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1231
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1f9f01db5897b4491ecf88126bf3fd
+      internalID: -1166596211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_4
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1211
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617b7c6ad6b1d2043879f630123e868a
+      internalID: -60383003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1191
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b419d9c6c788a6447a0c9158b85d1e6b
+      internalID: 71614843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_6
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 931
+        width: 227
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6235d3f7eeae5f843afcd5e0809f108d
+      internalID: -399493681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1164
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740bb994060b19549bce705bf4a4c010
+      internalID: -1688753407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1179
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17ac369e1ed1fe41bb49c4bc59f4bad
+      internalID: -360901803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_9
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1166
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4350df2cd70c10640ba9230f0d0485f8
+      internalID: 2020744673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1145
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d6014ca9bb9c9438fcddb618d2f26a
+      internalID: -1193301916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1124
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3754d61aefb9b4cb18993f69a26fda
+      internalID: 764361276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1105
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef76828057f79e84eab14881f88aa877
+      internalID: -444692598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1088
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68722ca5e105ed4a9abeecb6bede409
+      internalID: -1724458401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_14
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1094
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ff07f01b1e006418f5e7b0e8700e71
+      internalID: -162536949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_15
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1072
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c5ae87089412048a4e81bc2857b00b
+      internalID: -1533534501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_16
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1075
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef06caf0fffe754e93c9c1381790920
+      internalID: -433768439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1057
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014838412cb2d454aa1faf37f43911fa
+      internalID: 747687183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_18
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1064
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6701ee3775ceb14e972c6635dd9fed1
+      internalID: -1172482666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_19
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1053
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57f0bc510684b94ca5bcf14d56e0835
+      internalID: 812878358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1042
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea5ac35819639d4e876c8ffaf374064
+      internalID: 1582395469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_21
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1026
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc89d3c475d61674eb479dab7339df12
+      internalID: -1359916017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1012
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fcdc5bfd62f4d4e903dff0e38af664
+      internalID: 1583738491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 641
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1c5492ccb4dac45a85da041783f290
+      internalID: 1468499725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 819
+        width: 96
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a9866176b6fb74aa97622c05f96a39
+      internalID: 1994097532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_25
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 663
+        width: 300
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bee8bac8f0c8d40a2012810ec111d5
+      internalID: -1514424520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 627
+        width: 266
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf78666de8182f74893123a16decc769
+      internalID: 144904695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_27
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 867
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2925c915d4cc25b42a0226855b5eead6
+      internalID: 498178352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_28
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 838
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bbc0839d0e50147a41df2909a3bd03
+      internalID: -848638631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_29
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 835
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c8da3eef53b0d469bcb6dbdbefd06c
+      internalID: 473968279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 732
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cce7194c3bac04caa0625787758a3b
+      internalID: 1885327241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_31
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 803
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2eb3628acf708479ccd99acea8fe32
+      internalID: -203782343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_32
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 808
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d6b4957a386114d923c107ce33863f
+      internalID: -399303904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_33
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 744
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7a54ef9604af64aa2283151ee7cad1
+      internalID: -2049706573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_34
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 781
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3186d73cbb1b5dd4aa3010ab64abcc0c
+      internalID: -804348360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_35
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 668
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b121ceac48ca2b64c8cb53de69ec37d1
+      internalID: 1715986785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_36
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 694
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c366a0a41f77044fb4f36b8aaeb19f4
+      internalID: 103146527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_37
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 631
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dddd52deb9afcb439dc12703efc8910
+      internalID: -226564953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_38
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 659
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9804322425fe84c40935829823f2e5d9
+      internalID: -1345496227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 256
+        width: 47
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aa8d731399d944f826b09055ce5931
+      internalID: 482376577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_40
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 627
+        width: 107
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef5ff7c77c10a749b9e7c0677ed0edc
+      internalID: -1196686337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_41
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 634
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b18cd7cd2509240ae47964498b6d53
+      internalID: 939921883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 552
+        width: 202
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7983000e2aba4e5449b9eda4c9053952
+      internalID: -546195855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_43
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 614
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b5d0fa198695143a601c4bbda2bfb4
+      internalID: -1716052541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_44
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 573
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c531d5cb3de00fd4194160ec9f8625db
+      internalID: 468015619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_45
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 585
+        width: 58
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed147f32feb30449ba4ee2478271dfc
+      internalID: -17075374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_46
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 521
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3838f44d05adecb45b5a871704ff861a
+      internalID: 1942224486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 585
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c378a937245dd6d43881fa8b834f53f1
+      internalID: 65539657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_48
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 594
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6901c8a14aa75f74382da952f0cec6d3
+      internalID: -578523086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 513
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb6594cbff942c489e7b8facc1e55c7
+      internalID: -143905186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_51
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 526
+        width: 72
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a621551be99312e419f4671077c0086a
+      internalID: 133306958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_52
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 526
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839d7a2147516946b2beca84a380304
+      internalID: 1471626139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 535
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4508a0ae6601bd43bd75476846dd85f
+      internalID: -1406280704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_54
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 469
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15dd0d05759465489a0e4f0b08d20e3
+      internalID: -935644660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_57
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 503
+        width: 72
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275447a84fb1a5547923ae04afb5de9e
+      internalID: -481306233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 516
+        width: 168
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5261134f2257e654dbfe0c05bc0a4926
+      internalID: 668901721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_62
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 330
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2f1fc9c1af850498c5319bdaa97609
+      internalID: 1228820257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_63
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 370
+        width: 236
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c346c245e3c554ca25a7ba1b6181d7
+      internalID: 41400703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_64
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 322
+        width: 163
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a07851da0de1a41be4ce7a5464133b
+      internalID: 1558436716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_65
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 466
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41442691c8037b5499ac5b10f19d7d17
+      internalID: 1169342242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_67
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 393
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec6e28430813c0428c0c5e41094a71f
+      internalID: -350724234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_69
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 413
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c7d7c8ede2474f97fee03ab91f1f3
+      internalID: 114152436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_72
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 360
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11a4d374d5ce634bb1001d16056ee4d
+      internalID: -173545182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_73
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 278
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522a7ba83ed86534098a832770c54704
+      internalID: 233879173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_74
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 234
+        width: 132
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70080387e4060ca49a5dc8668c452186
+      internalID: 1709170064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_76
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 229
+        width: 145
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3136054b2ee05d948904cc394cc974b8
+      internalID: -1497950799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_77
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 325
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec2e1edc9280434290de40a20e0bc03
+      internalID: -1139037752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_78
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 329
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4444f519dd60c41499564f0414567b8e
+      internalID: -798098339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_79
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 324
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3a96aa4de3bf143b23ca3a0710476a
+      internalID: 2103900310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_80
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 179
+        width: 128
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81afa091e651ca42b24a65cc1c54382
+      internalID: 159822765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_81
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 277
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b788aeefb15acb4d8a960707febe095
+      internalID: -1802666468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_82
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 182
+        width: 119
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb34aad5c69acca4b8e3ced26374c18a
+      internalID: 750536398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_83
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 184
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56c3453a25cfdd4c8833f8c95ddd0d4
+      internalID: 1637816384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_84
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 229
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426517d5b77ca9945802cf7a2df800bb
+      internalID: -883120516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_86
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 231
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60632ae020c4824891ddf2728cec517
+      internalID: 425662891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_87
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 134
+        width: 126
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5215623112eb1804a90d9e624284018b
+      internalID: 607279414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_88
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 108
+        width: 122
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ff60a86c6cd2642bd456751efcfb5f
+      internalID: -833271575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_89
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 187
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cc4a3a4ad892c429961a4187f954c1
+      internalID: -753806391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_90
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 195
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c32fb00dda592f4ba523f821d6cc714
+      internalID: 574204155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_91
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 109
+        width: 38
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef200d2e48b9e4e9daa3c1cf1b1ddf
+      internalID: 1634336983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_92
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 184
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd7e9393ac3e304f96d934279003d9c
+      internalID: 3992427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_93
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 185
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c41660260614b42981e54509a7dc9c
+      internalID: 411321205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_94
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 185
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0077172e193bc24aa0b8806be803353
+      internalID: 1145344480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_95
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 98
+        width: 107
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabd3eedc4755cf47a276083b91d999e
+      internalID: 1292884458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_96
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 130
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491da2a9e71aeb54f846dfd23de571ed
+      internalID: -189076918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_97
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 134
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfedabaa3800d84fbca5a0ca917ad6e
+      internalID: 1890576287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_98
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 117
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f547cd93e7a64428174af52d56e602
+      internalID: 157112266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_99
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 116
+        width: 224
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5540c8b7201754f89edb13a6a6ac03
+      internalID: 594847140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_100
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 87
+        width: 125
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f14ad83bce688f47bbf046cc8abfd63
+      internalID: -1318200135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_101
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 147
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7877b1149d36a64d83a730480d099bd
+      internalID: 1574517686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 55
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4493ffc70084fe54d81b49de79ff69cc
+      internalID: 19787074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_104
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 114
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70ed04bb35401f4395069ba59fa17cb
+      internalID: -201742025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_105
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 29
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c01f7556eac174aa78185850a3d180
+      internalID: -1839570943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_106
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce4a13eb5fae8f448cd2ff469ed2a27
+      internalID: 654409993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_107
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 55
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c769187e4df3d447b029a873ab23441
+      internalID: -119877196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_108
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 36
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05719da270ba3d4db4e3e7bf89f8b77
+      internalID: -1309145137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_109
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 34
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdccf404540cae409a28ddf4a026ed9
+      internalID: 857714627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_110
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 80
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d057bab5321a55f4a91ee881ce894332
+      internalID: -1983797292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_111
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 65
+        width: 166
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6011c60268c714f9cd1088996c28e8
+      internalID: 374611560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_112
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 90
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c95033c540d644cae14976d0240498
+      internalID: -1598533278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_113
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 27
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a4da49732bbbd43a6947a9179058f7
+      internalID: -114598748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_114
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 32
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22b4b8957dc40a49a6a16f748d15b81
+      internalID: 774221278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_115
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 10
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6f4641156b9eb408abf4820e929d0e
+      internalID: 800961733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_116
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 3
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81f75e1aea748347896ecc5a495297e
+      internalID: 353747104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HanBronzeZombie_117
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 49
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce467977a7cefb4da9f8c2fe3c76743
+      internalID: 816859167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HanBronzeZombie_6: -399493681
+      HanBronzeZombie_3: -1166596211
+      HanBronzeZombie_79: 2103900310
+      HanBronzeZombie_34: -804348360
+      HanBronzeZombie_117: 816859167
+      HanBronzeZombie_45: -17075374
+      HanBronzeZombie_87: 607279414
+      HanBronzeZombie_107: -119877196
+      HanBronzeZombie_114: 774221278
+      HanBronzeZombie_65: 1169342242
+      HanBronzeZombie_91: 1634336983
+      HanBronzeZombie_46: 1942224486
+      HanBronzeZombie_53: -1406280704
+      HanBronzeZombie_83: 1637816384
+      HanBronzeZombie_52: 1471626139
+      HanBronzeZombie_71: -1028316348
+      HanBronzeZombie_24: 1994097532
+      HanBronzeZombie_18: -1172482666
+      HanBronzeZombie_19: 812878358
+      HanBronzeZombie_22: 1583738491
+      HanBronzeZombie_7: -1688753407
+      HanBronzeZombie_44: 468015619
+      HanBronzeZombie_2: 1102160776
+      HanBronzeZombie_66: 1645667795
+      HanBronzeZombie_101: 1574517686
+      HanBronzeZombie_15: -1533534501
+      HanBronzeZombie_74: 1709170064
+      HanBronzeZombie_16: -433768439
+      HanBronzeZombie_113: -114598748
+      HanBronzeZombie_86: 425662891
+      HanBronzeZombie_38: -1345496227
+      HanBronzeZombie_116: 353747104
+      HanBronzeZombie_41: 939921883
+      HanBronzeZombie_59: -1573085606
+      HanBronzeZombie_14: -162536949
+      HanBronzeZombie_1: -626612051
+      HanBronzeZombie_85: -1824311758
+      HanBronzeZombie_43: -1716052541
+      HanBronzeZombie_11: 764361276
+      HanBronzeZombie_20: 1582395469
+      HanBronzeZombie_106: 654409993
+      HanBronzeZombie_8: -360901803
+      HanBronzeZombie_27: 498178352
+      HanBronzeZombie_90: 574204155
+      HanBronzeZombie_49: -408344264
+      HanBronzeZombie_77: -1139037752
+      HanBronzeZombie_102: 19787074
+      HanBronzeZombie_115: 800961733
+      HanBronzeZombie_40: -1196686337
+      HanBronzeZombie_17: 747687183
+      HanBronzeZombie_23: 1468499725
+      HanBronzeZombie_32: -399303904
+      HanBronzeZombie_97: 1890576287
+      HanBronzeZombie_108: -1309145137
+      HanBronzeZombie_98: 157112266
+      HanBronzeZombie_9: 2020744673
+      HanBronzeZombie_110: -1983797292
+      HanBronzeZombie_109: 857714627
+      HanBronzeZombie_51: 133306958
+      HanBronzeZombie_72: -173545182
+      HanBronzeZombie_88: -833271575
+      HanBronzeZombie_95: 1292884458
+      HanBronzeZombie_92: 3992427
+      HanBronzeZombie_67: -350724234
+      HanBronzeZombie_10: -1193301916
+      HanBronzeZombie_31: -203782343
+      HanBronzeZombie_81: -1802666468
+      HanBronzeZombie_111: 374611560
+      HanBronzeZombie_36: 103146527
+      HanBronzeZombie_39: 482376577
+      HanBronzeZombie_96: -189076918
+      HanBronzeZombie_47: 65539657
+      HanBronzeZombie_25: -1514424520
+      HanBronzeZombie_28: -848638631
+      HanBronzeZombie_103: -817622968
+      HanBronzeZombie_69: 114152436
+      HanBronzeZombie_112: -1598533278
+      HanBronzeZombie_29: 473968279
+      HanBronzeZombie_70: -589610085
+      HanBronzeZombie_89: -753806391
+      HanBronzeZombie_21: -1359916017
+      HanBronzeZombie_42: -546195855
+      HanBronzeZombie_84: -883120516
+      HanBronzeZombie_30: 1885327241
+      HanBronzeZombie_63: 41400703
+      HanBronzeZombie_100: -1318200135
+      HanBronzeZombie_105: -1839570943
+      HanBronzeZombie_4: -60383003
+      HanBronzeZombie_37: -226564953
+      HanBronzeZombie_5: 71614843
+      HanBronzeZombie_50: -143905186
+      HanBronzeZombie_61: 662198834
+      HanBronzeZombie_76: -1497950799
+      HanBronzeZombie_62: 1228820257
+      HanBronzeZombie_73: 233879173
+      HanBronzeZombie_54: -935644660
+      HanBronzeZombie_94: 1145344480
+      HanBronzeZombie_99: 594847140
+      HanBronzeZombie_104: -201742025
+      HanBronzeZombie_13: -1724458401
+      HanBronzeZombie_0: 1255239689
+      HanBronzeZombie_35: 1715986785
+      HanBronzeZombie_64: 1558436716
+      HanBronzeZombie_12: -444692598
+      HanBronzeZombie_26: 144904695
+      HanBronzeZombie_82: 750536398
+      HanBronzeZombie_48: -578523086
+      HanBronzeZombie_57: -481306233
+      HanBronzeZombie_55: 1481813576
+      HanBronzeZombie_33: -2049706573
+      HanBronzeZombie_60: -583096946
+      HanBronzeZombie_56: -346635908
+      HanBronzeZombie_68: -710280452
+      HanBronzeZombie_93: 411321205
+      HanBronzeZombie_78: -798098339
+      HanBronzeZombie_80: 159822765
+      HanBronzeZombie_58: 668901721
+      HanBronzeZombie_75: -1723002410
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

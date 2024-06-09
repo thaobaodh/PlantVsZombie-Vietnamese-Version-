@@ -1,0 +1,3908 @@
+fileFormatVersion: 2
+guid: 0112184ca4d059d4cbda78238a86bad2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arbiter-X-Object_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 549
+        width: 497
+        height: 440
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e2d4c8799f01c458de1e8a9d2a44c0
+      internalID: -970277722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_1
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 660
+        width: 367
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da68b5a10ed95d44f9c6ce41b1136926
+      internalID: 1186401817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_2
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 953
+        width: 93
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc7409fa8560ee42857ebf70680e944
+      internalID: 2038598775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_3
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 970
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6be00d482ff3f94aaf5087c0f327c32
+      internalID: 59764139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_4
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 849
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f69e84b22244ab469e88c0d13dfc1a2
+      internalID: -88625213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_5
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 950
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd40e18f0a4173e449f0f447bf25c8ee
+      internalID: -105736602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_6
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 941
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b215f4620575aaf4baa6ec7e9ca806c9
+      internalID: -421488335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_7
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 924
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14b2674b2a15894394ad9f22f39ddef
+      internalID: 71535767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_8
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 904
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab1a92f53690014889e6bbf1b3d780c
+      internalID: 593781185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_9
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 881
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b3c457e8f964141b173ae758121b16
+      internalID: -1746438604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_10
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 860
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7ecf4eb788cf46b872e535658b581
+      internalID: -559548394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_11
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 852
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ea4b96a0206eb47ad1328965b7ed3a
+      internalID: -390063818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_12
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 844
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b15393afba80849a94fad85b8454a0
+      internalID: -235951747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_13
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 782
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0f92927881e444ca0c2256ce8c5647
+      internalID: 2066934130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_14
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 795
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6722f17fe8704d9685697298e1117
+      internalID: 525647773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_15
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 794
+        width: 9
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a0618a4541d343bfb8dc83fa5b2f3
+      internalID: 2920414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_16
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 716
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a206b821babd5242bc65cd3faf2b9b7
+      internalID: -383463540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_17
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 749
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12838caccceb611419673b63b33faa4c
+      internalID: 1908509815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_18
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 706
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ac4367116023f4080e0b7423274425
+      internalID: -2111109854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_19
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 667
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a860d606e1fd641b5957d1d290c4c4
+      internalID: 1829737708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_20
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 650
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d1c7fc181f6184ca482675bcfb3472
+      internalID: -640055584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_21
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 612
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f041e495a83a964459b3ed8268925335
+      internalID: 604929062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_22
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 396
+        width: 263
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c7cc6b9bf4167488b3673eb9e48a35
+      internalID: -1247059156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_23
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 414
+        width: 90
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4acfcf612512047baa8d32b241563d
+      internalID: -388031000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_24
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 613
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42649a255d45b1143bbce0527a5cf815
+      internalID: 1227043969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_25
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 619
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba1fbb6f9dc511458f72931597d9635
+      internalID: -175617484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_26
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 616
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c80650cbd77d841aaa93ed53e7c7ea
+      internalID: 651735189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_27
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 572
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450761344321400448c4d68bf574d463
+      internalID: -1174299909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_28
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 583
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f33eb97d58003d4ea3d70dc6773a407
+      internalID: -1267156664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_29
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 571
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7edde260badd441b8dd1d7c1ce4ad5
+      internalID: 1388327216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_30
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 559
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ac58b058a79ed4cb5d908cfc6c48f8
+      internalID: 957543246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 151
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a866b6c5999ccc429f47c3a08ff7c8a
+      internalID: -1894121406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 407
+        width: 149
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a86a9306ac5c549a330506df91a194
+      internalID: 494736728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_33
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 416
+        width: 96
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a27b9f70fd4e348895395046bfc44d
+      internalID: -1286016803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_34
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 486
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe79d4e3941fbee469ef5abb8c51d462
+      internalID: 1288109612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_35
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 526
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5ba3cf48f921c4889302068c9279fb
+      internalID: 598560967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_36
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 527
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dd33c41f92f124eab3c6de0f9d0e1f
+      internalID: 884325869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_37
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 519
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2b21b7f124c3f45ac5d7289b355c69
+      internalID: -796690619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_38
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 461
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ec7fdd407dce64e8874d609f3cf3a4
+      internalID: -1492621952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_39
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 476
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4b35c0a7a1d624c945790a12fda09c
+      internalID: 2010243655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_40
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 471
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33b2d40e43b850479ccf27b97691f3d
+      internalID: -1448982358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_41
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 471
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26ddc3480f9c28438b27bc73f4966d3
+      internalID: -1777250466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_42
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 453
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523f45278249d224f90d54a4957a10dc
+      internalID: -1812635653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_43
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 454
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0267abe3c3c07ac459d94007a13474ee
+      internalID: -325918785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_44
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 397
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ce899c3dbb0024ca64f6d3e63486aa
+      internalID: 123423975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_45
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 336
+        width: 8
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403f06cbb791fd54b8b2a0203a0cd21d
+      internalID: 1515572683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 396
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e6ef5530ad5fe4d9ae5e353b21c5e4
+      internalID: -1471569002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_47
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 397
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52858930e59173b46aab29da30b903b7
+      internalID: -498512750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_48
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 401
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be47a5cf7e1829f42a2b850fac1ab064
+      internalID: -898495992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_49
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 426
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3a5d69167acbc4ba2cda730c6dcdca
+      internalID: 181566141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_50
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 393
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44de97dd71917b44a2f4d61e64eac45
+      internalID: 996280372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_51
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 393
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0648687472b70754e96da2cac6b31faf
+      internalID: 83213229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_52
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 385
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbc127338d09464095d728faab7efe1
+      internalID: -1833538165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_53
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 385
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffde07cf4af8d2d449312d74ece34a3c
+      internalID: -237469507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_54
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 385
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd8fc7d3bcf3e042b274bbee67b435e
+      internalID: 1196747808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_55
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 385
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cf17646df858149bf83d6a02b10ba9
+      internalID: -58370772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_56
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 336
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96a87438713f224486d5038a2de0fcf
+      internalID: -2057198550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_57
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 385
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f53d8b24ea705c488696c539e2c773d
+      internalID: -497863139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_58
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 375
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d9255618f07ad4baf0c601f04e364e
+      internalID: 1359358456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_59
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 369
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d2113b81bf48747a62c88a9806a568
+      internalID: 435188385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_60
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 374
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af6c5d046e2fe34cb285f2d5bc92a38
+      internalID: 825994424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_61
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 392
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31a0b65573b63d41b78e2a53cd74019
+      internalID: -807802937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_62
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 381
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc14814773af94441ae964eae0f546e6
+      internalID: -1342394888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_63
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 374
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800fdb2b515488d48a8ebe878da488d4
+      internalID: 1676849125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_64
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 392
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fabb3d99158894da1ee74dc63da15e
+      internalID: 972145115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_65
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 361
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67d3df2a062fac4a9347e2ee32f72d5
+      internalID: 164643988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_66
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 364
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0168d5d0c0dea0e42bb2e9a59ed1cda7
+      internalID: -682007057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_67
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 376
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf668b2e5ec53d94e87582295594cda4
+      internalID: -497258358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_68
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 385
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817e378c8f32efe4a99694bf3cf838e6
+      internalID: -1358774447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_69
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 360
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660108d489ce08242bda884e7c0b2c73
+      internalID: -121622821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_70
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 359
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fc6e3956814d74d81afced0bc39008
+      internalID: -1184022903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_71
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 385
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a03a59466637b4393637ca3af6cda9
+      internalID: 1878567807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_72
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 352
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2107a1d0730544fab9a057b331c1ad
+      internalID: 1839352754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_73
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 377
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402f6d9283279cd4ca6d4e2fc5cbe7a6
+      internalID: 1096949804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_74
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 364
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5b96bbb8dd7bd43b3b756367f71eef
+      internalID: 687326343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_75
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 365
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc652a8a9dfd87b40aa8d0044666d4ae
+      internalID: 971909742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_76
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 365
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c773deb9dd7357d4eb596d374e903926
+      internalID: 465712995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_77
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 366
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51439637d50c8934ea90c299e52c63fc
+      internalID: -982524396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_78
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 367
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b93defafc216eb4bbd5170788a408c7
+      internalID: -233235770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_79
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 364
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8142d4ea9af34a46bceac337ca3d4da
+      internalID: 2037328208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_80
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 368
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0fd0a751e607a4d92e5bea4b0370a6
+      internalID: -463082880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_81
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 368
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08ae1e451867a746836cd8ef916efb6
+      internalID: -1879030681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_82
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 364
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6f9c829b0ffb54893f099fe33b74a4
+      internalID: 395434383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_83
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 374
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffad626ec1445646b88e99f9eb3e3ba
+      internalID: -288328700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_84
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 364
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd569ddee21461a4f9a5dfc2079f7dfb
+      internalID: -1344530348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_85
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 350
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b24667da730b14bb86c36e58696bd2
+      internalID: 227456994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_86
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 356
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8471f7ad3100894479dfd56e2d1b6860
+      internalID: -1679858022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_87
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 365
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfc4dd33452bc64ea2a91e13c6fbf8d
+      internalID: 1096889306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_88
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 357
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de5d51e5414a8948b01180905878760
+      internalID: -567900785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_89
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 349
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d16156ee745ad4499241daa168738b
+      internalID: 1979911923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_90
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 368
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e95de3c12ff2749b8d30125d7e5282
+      internalID: 1047592523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_91
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 336
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deee9b7354ff8e945a056123ea147eae
+      internalID: 477882763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_92
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 361
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788d7e9c77f6e1b4b8a1f81253f427f1
+      internalID: 1609952510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_93
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 359
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082807f56a5def7408d9827d0fbae60f
+      internalID: -1910176922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_94
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 343
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d59318460a96c145ace83d123dbd132
+      internalID: -1934809779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_95
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 334
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8421831334235384686312b7a078c95b
+      internalID: 845673823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_96
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 350
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db60727f3975eb54eadc9a4f21f17cc9
+      internalID: -1595811154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_97
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 337
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c786508bbe1f2346a41f333d1df2f4a
+      internalID: 1217865688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_98
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 344
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf1cd57dbf7b2546829e053bcc0b719
+      internalID: -691165025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_99
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 350
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717d8b7d87f0da545a4240ec64217854
+      internalID: 140017708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_100
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 335
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e6a6e305b8201478aed7be96a7f223
+      internalID: -1106924643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_101
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 333
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3f75f8dd07f544ba77d3985675f845
+      internalID: 122754748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_102
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 345
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eee1700cc2c7442b9ca9671a9de454
+      internalID: -79394827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_103
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 343
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda522d645fde9f47a39a5e9a886d03b
+      internalID: -1180770887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_104
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 333
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975a78c7c36f83941a4796fac2a21849
+      internalID: 433900216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_105
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 346
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344d8648452f31f49ad2a0be498f37e4
+      internalID: 1014682546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_106
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 344
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc1e559f0ddcde42b7ceadad77138c0
+      internalID: -2042099457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_107
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 333
+        width: 95
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbed5d61deaf9d4fa2696907ba5f55d
+      internalID: -1416654028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_108
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 347
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa1ee6d2629906468a2094ed3aa3e18
+      internalID: -135941888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_109
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 351
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0ee0de7adb000469172ccaedf812b7
+      internalID: -1252662506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_110
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 339
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d63a233bdd1814497b2c6680720d3d
+      internalID: -1552557140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_111
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 345
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5a65c93f91a724aaca273e3732000b
+      internalID: 1168680338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_112
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 344
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9db617feba82a644b56ea81d0766a28
+      internalID: 2039439112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_113
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 334
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789eec33cca41ed40b5b073b54d15764
+      internalID: -516146662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_114
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 344
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badb0d2331c93544eb5c331ccc5c147b
+      internalID: 1085466566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_115
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 344
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765dde21488bced4faef325ba17cd330
+      internalID: 1514336630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_116
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 338
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779991222cb4d19459c3829d5863bb95
+      internalID: 135190949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_117
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 336
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da05876ab6f106a459bee80dd2b88666
+      internalID: -966708274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_118
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 336
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff4d7b60a247ec4e9582cb81547564c
+      internalID: 192913794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_119
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 334
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8dcc8eb11d5af49992dd149d602cbe
+      internalID: 829476860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_120
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 340
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d23a867664f24a8e336814521299a
+      internalID: -405392081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_121
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 339
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db0cdd8fbc92024f9a6cc0e888ae18a
+      internalID: -254233085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_122
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 342
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f758d4cbc2d8a0d48a7962fca8ba7120
+      internalID: -1787611339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_123
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 337
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea47f6fd46fe845ae6744d1ed93bbf
+      internalID: 1889819003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_124
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 336
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca44ef8d4fe864846aa9eab862f3b528
+      internalID: -246879856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6080cc6d337968943b4727bcad44158d
+      internalID: 1347340216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_126
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 328
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5eaf5f60dfd0c4690c012f0baa1a55
+      internalID: -1191776202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_127
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 328
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79ff4093d645764090289134eb1c104
+      internalID: 396051726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_128
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 333
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a03aa965083d1439a8d8f5da386947
+      internalID: -138186307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_129
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 334
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0159d10b90d2af1478f25ba7449d75c4
+      internalID: 156429150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_130
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 336
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07efed40beb09f44b7246c47e9662e3
+      internalID: 1798294460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_131
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 335
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf25a58ca727a148bcec6eec29fe6b3
+      internalID: 1218241951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_132
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 333
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf23ebe667c348348885df8437fb3bec
+      internalID: -600634774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_133
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 333
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba7c44f1f2f5614db2a2583df74171e
+      internalID: 1961040408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_134
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 337
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59db9cf9f8c53524884033ddbe4d21ab
+      internalID: -1050252835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_135
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 333
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a704bc573a457449e4e4621863c59a
+      internalID: -2111820011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_136
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 336
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e4a2bb72bf244e92f755f9e822023
+      internalID: -1174851131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_137
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 335
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98471fb9cdc3f9d4288058227191257a
+      internalID: 152104252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_138
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 328
+        width: 25
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef167435730b76499befdc0e4232314
+      internalID: 1234783085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_139
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 327
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b1aa8395ec54249afc72534fbd0c4d
+      internalID: -1636613103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_140
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 328
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc377fbd80a9bb4ab7cac33e94aad69
+      internalID: 677217720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_141
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 325
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414aa268da0e4a74a9481004534744a6
+      internalID: -330959114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_142
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 330
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fde39f713df4394fbbc713146fdac32
+      internalID: -1106868679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_143
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 296
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d081ebbaa11b8cf48842faeb99ae6c05
+      internalID: 631044106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_144
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 329
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e4ff45c17e7a94bbb30ae95bc37f33
+      internalID: -804880819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_145
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 328
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bdead71a0861a4a947f9286f8eb793
+      internalID: -1289866892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_146
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 314
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c1adbc259f8e942ba9129ed236b5d4
+      internalID: -956019603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_147
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 313
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74fb3c470433cb4ab7743602b465ca1
+      internalID: 252072436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_148
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 313
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9525574ca148a014e89846b2f2b6cb05
+      internalID: -1689984170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_149
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 313
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f755775f691dd1439a2cc360929210b
+      internalID: -1320230872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_150
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 318
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b51e3cb71c85e64b93fc2f084bb4839
+      internalID: 1084193648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_151
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 314
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893cd64d651566d4bb35fb9d87d530cc
+      internalID: -204536271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_152
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 314
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8583a17f71526479b8b9502cdd294d
+      internalID: 257284929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_153
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 291
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20af4e6f4ab91441857cc3c200b3f8f
+      internalID: -16270474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_154
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 291
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e99b7ad7e064444185e2a7fbd18e61b
+      internalID: -584197998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_155
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 292
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c7475dbe782b249bfa8b065dfc4524
+      internalID: -991695355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_156
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 297
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3958aae223e1fd45832a0c7b17d9ebd
+      internalID: 1623618915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_157
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 284
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142cb81971a8c284f8aee15c4d4b11e5
+      internalID: -572429395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_158
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 283
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43126121254a9fd4491e49259f958dd2
+      internalID: -678483941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_159
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 284
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619514736ba838346a5a0ae7e3639c3d
+      internalID: -1519634072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_160
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 283
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0890f9185c172ff47ada47ede188eea6
+      internalID: -1722054288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_161
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 285
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715f04b490f13a14e8e85e74e1a43a7c
+      internalID: 70156602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_162
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 283
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1797aebbfb597f04ca9bf833e8d7c5e4
+      internalID: -2145793232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_163
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 900
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d1c282d623d6541b7f95bea0359963
+      internalID: 541198244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_164
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 662
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513a574ed087815458c42f749ad500c9
+      internalID: 168335228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_165
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 632
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0910eea31c06e44a9433c165ed2f3a
+      internalID: -2031340909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_166
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 468
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c9b4908fef515428f48d47c61d23de
+      internalID: -1816749290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_167
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 444
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c34a80814c6a474ea147d7143c9675b
+      internalID: 539702153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_168
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 435
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad7a6ecba99c1b488a7ff29e46e1ea5
+      internalID: 1121968571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_169
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 417
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a24631bd86159c43a2447eed2d79ad5
+      internalID: 502132857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbiter-X-Object_170
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 401
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bced8c940424f945867ba8baec9ee7d
+      internalID: 516044320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arbiter-X-Object_22: -1247059156
+      Arbiter-X-Object_40: -1448982358
+      Arbiter-X-Object_71: 1878567807
+      Arbiter-X-Object_46: -1471569002
+      Arbiter-X-Object_6: -421488335
+      Arbiter-X-Object_49: 181566141
+      Arbiter-X-Object_154: -584197998
+      Arbiter-X-Object_92: 1609952510
+      Arbiter-X-Object_152: 257284929
+      Arbiter-X-Object_12: -235951747
+      Arbiter-X-Object_106: -2042099457
+      Arbiter-X-Object_129: 156429150
+      Arbiter-X-Object_41: -1777250466
+      Arbiter-X-Object_19: 1829737708
+      Arbiter-X-Object_18: -2111109854
+      Arbiter-X-Object_136: -1174851131
+      Arbiter-X-Object_88: -567900785
+      Arbiter-X-Object_144: -804880819
+      Arbiter-X-Object_85: 227456994
+      Arbiter-X-Object_28: -1267156664
+      Arbiter-X-Object_36: 884325869
+      Arbiter-X-Object_74: 687326343
+      Arbiter-X-Object_139: -1636613103
+      Arbiter-X-Object_170: 516044320
+      Arbiter-X-Object_81: -1879030681
+      Arbiter-X-Object_1: 1186401817
+      Arbiter-X-Object_32: 494736728
+      Arbiter-X-Object_118: 192913794
+      Arbiter-X-Object_16: -383463540
+      Arbiter-X-Object_124: -246879856
+      Arbiter-X-Object_166: -1816749290
+      Arbiter-X-Object_27: -1174299909
+      Arbiter-X-Object_55: -58370772
+      Arbiter-X-Object_62: -1342394888
+      Arbiter-X-Object_147: 252072436
+      Arbiter-X-Object_23: -388031000
+      Arbiter-X-Object_76: 465712995
+      Arbiter-X-Object_95: 845673823
+      Arbiter-X-Object_70: -1184022903
+      Arbiter-X-Object_68: -1358774447
+      Arbiter-X-Object_127: 396051726
+      Arbiter-X-Object_105: 1014682546
+      Arbiter-X-Object_84: -1344530348
+      Arbiter-X-Object_157: -572429395
+      Arbiter-X-Object_101: 122754748
+      Arbiter-X-Object_69: -121622821
+      Arbiter-X-Object_167: 539702153
+      Arbiter-X-Object_125: 1347340216
+      Arbiter-X-Object_168: 1121968571
+      Arbiter-X-Object_52: -1833538165
+      Arbiter-X-Object_10: -559548394
+      Arbiter-X-Object_86: -1679858022
+      Arbiter-X-Object_66: -682007057
+      Arbiter-X-Object_98: -691165025
+      Arbiter-X-Object_91: 477882763
+      Arbiter-X-Object_38: -1492621952
+      Arbiter-X-Object_7: 71535767
+      Arbiter-X-Object_33: -1286016803
+      Arbiter-X-Object_53: -237469507
+      Arbiter-X-Object_63: 1676849125
+      Arbiter-X-Object_0: -970277722
+      Arbiter-X-Object_128: -138186307
+      Arbiter-X-Object_99: 140017708
+      Arbiter-X-Object_151: -204536271
+      Arbiter-X-Object_131: 1218241951
+      Arbiter-X-Object_149: -1320230872
+      Arbiter-X-Object_134: -1050252835
+      Arbiter-X-Object_39: 2010243655
+      Arbiter-X-Object_159: -1519634072
+      Arbiter-X-Object_103: -1180770887
+      Arbiter-X-Object_82: 395434383
+      Arbiter-X-Object_123: 1889819003
+      Arbiter-X-Object_13: 2066934130
+      Arbiter-X-Object_113: -516146662
+      Arbiter-X-Object_143: 631044106
+      Arbiter-X-Object_79: 2037328208
+      Arbiter-X-Object_108: -135941888
+      Arbiter-X-Object_65: 164643988
+      Arbiter-X-Object_114: 1085466566
+      Arbiter-X-Object_135: -2111820011
+      Arbiter-X-Object_59: 435188385
+      Arbiter-X-Object_20: -640055584
+      Arbiter-X-Object_121: -254233085
+      Arbiter-X-Object_15: 2920414
+      Arbiter-X-Object_44: 123423975
+      Arbiter-X-Object_43: -325918785
+      Arbiter-X-Object_54: 1196747808
+      Arbiter-X-Object_4: -88625213
+      Arbiter-X-Object_78: -233235770
+      Arbiter-X-Object_107: -1416654028
+      Arbiter-X-Object_77: -982524396
+      Arbiter-X-Object_34: 1288109612
+      Arbiter-X-Object_14: 525647773
+      Arbiter-X-Object_122: -1787611339
+      Arbiter-X-Object_11: -390063818
+      Arbiter-X-Object_61: -807802937
+      Arbiter-X-Object_48: -898495992
+      Arbiter-X-Object_164: 168335228
+      Arbiter-X-Object_29: 1388327216
+      Arbiter-X-Object_97: 1217865688
+      Arbiter-X-Object_111: 1168680338
+      Arbiter-X-Object_35: 598560967
+      Arbiter-X-Object_57: -497863139
+      Arbiter-X-Object_116: 135190949
+      Arbiter-X-Object_112: 2039439112
+      Arbiter-X-Object_117: -966708274
+      Arbiter-X-Object_89: 1979911923
+      Arbiter-X-Object_24: 1227043969
+      Arbiter-X-Object_162: -2145793232
+      Arbiter-X-Object_3: 59764139
+      Arbiter-X-Object_160: -1722054288
+      Arbiter-X-Object_165: -2031340909
+      Arbiter-X-Object_2: 2038598775
+      Arbiter-X-Object_169: 502132857
+      Arbiter-X-Object_42: -1812635653
+      Arbiter-X-Object_133: 1961040408
+      Arbiter-X-Object_47: -498512750
+      Arbiter-X-Object_30: 957543246
+      Arbiter-X-Object_87: 1096889306
+      Arbiter-X-Object_140: 677217720
+      Arbiter-X-Object_141: -330959114
+      Arbiter-X-Object_31: -1894121406
+      Arbiter-X-Object_102: -79394827
+      Arbiter-X-Object_146: -956019603
+      Arbiter-X-Object_90: 1047592523
+      Arbiter-X-Object_132: -600634774
+      Arbiter-X-Object_155: -991695355
+      Arbiter-X-Object_56: -2057198550
+      Arbiter-X-Object_104: 433900216
+      Arbiter-X-Object_137: 152104252
+      Arbiter-X-Object_150: 1084193648
+      Arbiter-X-Object_93: -1910176922
+      Arbiter-X-Object_25: -175617484
+      Arbiter-X-Object_161: 70156602
+      Arbiter-X-Object_126: -1191776202
+      Arbiter-X-Object_94: -1934809779
+      Arbiter-X-Object_83: -288328700
+      Arbiter-X-Object_119: 829476860
+      Arbiter-X-Object_37: -796690619
+      Arbiter-X-Object_148: -1689984170
+      Arbiter-X-Object_75: 971909742
+      Arbiter-X-Object_158: -678483941
+      Arbiter-X-Object_80: -463082880
+      Arbiter-X-Object_109: -1252662506
+      Arbiter-X-Object_45: 1515572683
+      Arbiter-X-Object_96: -1595811154
+      Arbiter-X-Object_138: 1234783085
+      Arbiter-X-Object_64: 972145115
+      Arbiter-X-Object_17: 1908509815
+      Arbiter-X-Object_9: -1746438604
+      Arbiter-X-Object_156: 1623618915
+      Arbiter-X-Object_67: -497258358
+      Arbiter-X-Object_8: 593781185
+      Arbiter-X-Object_51: 83213229
+      Arbiter-X-Object_60: 825994424
+      Arbiter-X-Object_115: 1514336630
+      Arbiter-X-Object_142: -1106868679
+      Arbiter-X-Object_73: 1096949804
+      Arbiter-X-Object_153: -16270474
+      Arbiter-X-Object_100: -1106924643
+      Arbiter-X-Object_163: 541198244
+      Arbiter-X-Object_26: 651735189
+      Arbiter-X-Object_21: 604929062
+      Arbiter-X-Object_5: -105736602
+      Arbiter-X-Object_72: 1839352754
+      Arbiter-X-Object_58: 1359358456
+      Arbiter-X-Object_50: 996280372
+      Arbiter-X-Object_120: -405392081
+      Arbiter-X-Object_130: 1798294460
+      Arbiter-X-Object_110: -1552557140
+      Arbiter-X-Object_145: -1289866892
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

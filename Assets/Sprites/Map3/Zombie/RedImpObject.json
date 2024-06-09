@@ -1,0 +1,69 @@
+{ "skeleton": { "images": "C:/Users/ACER/Downloads/GameDevelopment/AnimationLearnProject/Assets/Scenes/RedImp/" },
+"PhotoshopToSpine": { "scale": 1, "padding": 1, "trim": true },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "RightLeg3", "bone": "root", "attachment": "RightLeg3" },
+	{ "name": "RightLeg2", "bone": "root", "attachment": "RightLeg2" },
+	{ "name": "RightLeg1", "bone": "root", "attachment": "RightLeg1" },
+	{ "name": "Skarf", "bone": "root", "attachment": "Skarf" },
+	{ "name": "LeftLeg3", "bone": "root", "attachment": "LeftLeg3" },
+	{ "name": "LeftLeg2", "bone": "root", "attachment": "LeftLeg2" },
+	{ "name": "LeftLeg1", "bone": "root", "attachment": "LeftLeg1" },
+	{ "name": "Spear", "bone": "root", "attachment": "Spear" },
+	{ "name": "RightHand", "bone": "root", "attachment": "RightHand" },
+	{ "name": "Body", "bone": "root", "attachment": "Body" },
+	{ "name": "LeftHand2", "bone": "root", "attachment": "LeftHand2" },
+	{ "name": "LeftHand1", "bone": "root", "attachment": "LeftHand1" },
+	{ "name": "Head2", "bone": "root", "attachment": "Head2" },
+	{ "name": "Jaw", "bone": "root", "attachment": "Jaw" }
+],
+"skins": {
+	"default": {
+		"RightLeg3": {
+			"RightLeg3": { "x": 532.5, "y": -556.5, "width": 45, "height": 33 }
+		},
+		"RightLeg2": {
+			"RightLeg2": { "x": 540, "y": -536, "width": 44, "height": 44 }
+		},
+		"RightLeg1": {
+			"RightLeg1": { "x": 533, "y": -498, "width": 54, "height": 72 }
+		},
+		"Skarf": {
+			"Skarf": { "x": 663.5, "y": -426, "width": 139, "height": 190 }
+		},
+		"LeftLeg3": {
+			"LeftLeg3": { "x": 608, "y": -557, "width": 56, "height": 36 }
+		},
+		"LeftLeg2": {
+			"LeftLeg2": { "x": 613, "y": -533.5, "width": 46, "height": 47 }
+		},
+		"LeftLeg1": {
+			"LeftLeg1": { "x": 617, "y": -492.5, "width": 88, "height": 87 }
+		},
+		"Spear": {
+			"Spear": { "x": 403, "y": -414, "width": 184, "height": 322 }
+		},
+		"RightHand": {
+			"RightHand": { "x": 469, "y": -445, "width": 128, "height": 100 }
+		},
+		"Body": {
+			"Body": { "x": 577, "y": -423.5, "width": 168, "height": 175 }
+		},
+		"LeftHand2": {
+			"LeftHand2": { "x": 683, "y": -434.5, "width": 76, "height": 85 }
+		},
+		"LeftHand1": {
+			"LeftHand1": { "x": 635, "y": -389, "width": 70, "height": 60 }
+		},
+		"Head2": {
+			"Head2": { "x": 519, "y": -268.5, "width": 284, "height": 251 }
+		},
+		"Jaw": {
+			"Jaw": { "x": 519, "y": -363.5, "width": 166, "height": 93 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
