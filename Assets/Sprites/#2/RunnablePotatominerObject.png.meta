@@ -1,0 +1,2257 @@
+fileFormatVersion: 2
+guid: 6fad8147e1eb1344fbd7673f5668fd71
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_0
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 795
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770463b0a57506f42b337855cedd426c
+      internalID: 912019087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_1
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 771
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089fa554c7b704e428b27f336a5ba1dd
+      internalID: 631596112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 544
+        width: 262
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1c3823593ac774998f8b5208e63062
+      internalID: 1959655773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_3
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 588
+        width: 207
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d01e58d7ed0dd48b97506d01b6e3d9
+      internalID: 434447396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_4
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 485
+        width: 106
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e3bff4313b7b341be0d24105f33d79
+      internalID: 1846834573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_5
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 786
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3204a5f896c794ea20fcd17975bca8
+      internalID: 48460186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 551
+        width: 248
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6256787ed1740e847972cb040b86e054
+      internalID: 1747722992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_7
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 765
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7547cc0c83568a4ab4928f2269e981d
+      internalID: -1881211878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_8
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 748
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8578f58ff42222c4eb16a3928160655a
+      internalID: 1967187177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_9
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 723
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1d330311e5dea41b7abb392e49256b
+      internalID: 505686473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_10
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 727
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf13a73ede9d0f4ab1ab73cf8902a8a
+      internalID: -1524256321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_11
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 673
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9cbe64a2ab55c41bb7c151fd7ffc01
+      internalID: 1567436119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_12
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 613
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22da02f784696a14d92a6a972b4efd90
+      internalID: -1556077095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_13
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 652
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc0180201b8a3247ba1701e2c461ce0
+      internalID: -1533335906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_14
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 631
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae42049c92009f488bce2802c0bb2b5
+      internalID: 1132719431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_15
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 612
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9659356f18a172e459946c8e42df2af0
+      internalID: 612398905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_16
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 579
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6886303aa8cfe34ba51b4ff2905e4c7
+      internalID: -1597965264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_17
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 579
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86349b48d4274874b8436f58164454c3
+      internalID: 605314979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 377
+        width: 161
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d91cbf019e0c12488861a862e428715
+      internalID: 1728356172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_19
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 377
+        width: 106
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58d46aa467adc84c84cf42633655968
+      internalID: -2070827161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_20
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 270
+        width: 104
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd629b0f46ccc441bc6e6fd90359e14
+      internalID: 183795443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_21
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 483
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998952d5839e0084591079fa873e2227
+      internalID: 129532580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_22
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 528
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba7ac8cdd65214f85f3b9aa6b6e53a
+      internalID: -1935787973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 364
+        width: 140
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a8478ee405a1944af450f44213d4d2
+      internalID: 1417857174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_26
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 481
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2e4c96866ad3544bf8a2815dd6142a
+      internalID: -581576007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_31
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 370
+        width: 111
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f60f6cb0528da41a7808623a9ad7bd
+      internalID: -938099897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_43
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 228
+        width: 109
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20c7a9629a8cc54b9384bafaa0eb324
+      internalID: -826026045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 248
+        width: 130
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472b95909f31b54469626b427addf6c0
+      internalID: 1192320388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_45
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 268
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdc952b10a4b9040be8dc179c6a190a
+      internalID: -37995730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_46
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 306
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adfd52e6c12fec49a11ab1af5b05c07
+      internalID: 1829854255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_47
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 363
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9a03f7977e4ca44a094bdb23f93a3f
+      internalID: 1450396324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_50
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 349
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245ee83f92613bc47aa81e3666121345
+      internalID: 397546582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 203
+        width: 94
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7bfaa3670e316499b3d85069fc9554
+      internalID: -1296221222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 300
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce594be066bfb1b489e87d15c1aed902
+      internalID: -1847659042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_56
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 191
+        width: 77
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d0a5dfd7126d84dbb5747d470200df
+      internalID: -1108779289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_57
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 299
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87c370ca5dde24458d7f8dbc7d97988
+      internalID: 2024586073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_58
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 258
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363c96d2b82f7d049a56787dd80b2a18
+      internalID: -867235908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_59
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 262
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2d6c787c2ac3f40a0ae53bc6a9489b
+      internalID: 28573981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_60
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 233
+        width: 152
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb85771b869ceb4aa80be3d9e00ebe7
+      internalID: 1177190124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_61
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 262
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c36600d668b2f4a85f6dfcac2dc140
+      internalID: 97241566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 228
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6e9d491edbee24488f799ee202df24
+      internalID: -1209136216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_65
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 242
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c80a9998981fe40903c8fd28e696da
+      internalID: 1367603382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_68
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 199
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8af59261032d442956f5ce74d71fc5
+      internalID: -1035572321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_72
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 235
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1ef56ac04c45544916b89244bd4f28
+      internalID: -1431253614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_77
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 191
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2e1935cd031e54eb327c823d587ecd
+      internalID: 1862411305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_81
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 132
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8441e9aff4dd8fc47878a9e06bd49072
+      internalID: -1891340486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_82
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 199
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f8748fa13420c4bbbedb0d626b42b8
+      internalID: 1425192745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_83
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 197
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f59c97623e7524d8c3fc431b7ef8bb
+      internalID: -2093860982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_85
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 182
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cf29da0799e6b4cb240cc45abf4c64
+      internalID: 545622234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_89
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 177
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993938cdec4028243b35e9b4b726271c
+      internalID: -697560201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_90
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 123
+        width: 157
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ccd014169ec6d45a486a2be45c843c
+      internalID: 1187271932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_91
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 112
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dfaf70ad516f046b9f09cb21cf3b03
+      internalID: -168708521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_93
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 130
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29ee5abebb5f8f4e82290b3f369abd3
+      internalID: 971906312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_94
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 155
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae8bdaa5252aa24fafa89a7ecd57bbe
+      internalID: -1621510742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_96
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 102
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e44fecd1c81b3942ad9de62c6791283
+      internalID: 507175253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_97
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 155
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e47ab47932e714aa48fe822153fac5
+      internalID: -321380999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_99
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 128
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d0827ab51c06c40bff5ea8738e3daa
+      internalID: 2014294403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_100
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 134
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0222610f9d27ec34a9c8fbe3e9f54fdf
+      internalID: 663626285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56548238b58268240a616c3623ee7df5
+      internalID: -1026933800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_106
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 103
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1299b688dea194ab3bc86f0547ca95
+      internalID: -1072092045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_107
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 89
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a4ffede5c8fdd4a897f3dc178e01d0
+      internalID: -1613555868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_108
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 38
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b795f5c11a11364a85e64c0864111bd
+      internalID: -934863683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_109
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 47
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4112fbf80a259d4fbf36e2464f6d60f
+      internalID: -1367653396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_110
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 46
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676f3d17b6843b14a87be596db981a95
+      internalID: -255119902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_112
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 95
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8dce3113c2cfd45899a4769cba886c
+      internalID: 1307942775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_113
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 103
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80115c9259d97f34a88e212909c61c55
+      internalID: 2011764647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_114
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 42
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d78033ec93f6e947b25e62d4da5058b
+      internalID: -443790755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_115
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 59
+        width: 104
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbe193916aab374da0992e8cbb62ce8
+      internalID: 219954688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_116
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 84
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b8d59f16a993146bf2204e3fd53385
+      internalID: -894960699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_117
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 35
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931c2cdfb0e4782428bc0a8433c979e5
+      internalID: 1725388087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_118
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 72
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30121043ec3b5c4789aae4e7a4957ed
+      internalID: -490997579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_119
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 52
+        width: 104
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31c7702120a61a479ccca29039ebdee
+      internalID: -1581692877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_120
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 55
+        width: 93
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeb5db49a3d23f46a8be6e226325bfc
+      internalID: -1657582806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_121
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 46
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a72936c9c70fc84bbfcf7357c6f5de8
+      internalID: 1579564061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 30
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb972912e302ae41b8727b15a0a6a7f
+      internalID: -755986889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_123
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 45
+        width: 78
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff92fe8f442bbc4e857c2ec9af18f48
+      internalID: 1770429738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_124
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 18
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce77390fc72cbf34da8bd47444b0a709
+      internalID: 166612621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_125
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 11
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1bc0fa3ea9b8d459653f4c3cab570f
+      internalID: -1918005297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_126
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 14
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb7f316a4e4bdc4590681c627b5fe75
+      internalID: 178350009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_127
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 30
+        width: 124
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d885c8cc29743f46b028e7bd101b4e2
+      internalID: 1342144084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_128
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 5
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d858103fabc81c846b449159fce1584e
+      internalID: -708781694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_129
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 18
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bac45241a95a8442bfa3c77100ff329
+      internalID: -707170147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_130
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 3
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc50c7dbeb2fa144b2df8af1194912c
+      internalID: 2070654537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_131
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 14
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750cf30def910b14cbb85e580188e81a
+      internalID: -1616161319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_132
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 25
+        width: 82
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c117175f26e2c46831d4ee00f07c46
+      internalID: 308039323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_133
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 24
+        width: 82
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb46fda8cd82154e899e47fd60c4e8f
+      internalID: 226851718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_134
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 23
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591786ed5edb65047a54a3e601011024
+      internalID: 74182775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_135
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 31
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc8ae8b1cb69e449931dc27d89750b7
+      internalID: 582265967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 379
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867a3733adcb1414b9ccbd2eda98d855
+      internalID: 221372944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 129
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6f833e0d975384bad846ff5d098857
+      internalID: -849243106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_27
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 176
+        width: 184
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee9e1876fe8997409ee0f966906b29e
+      internalID: 101001493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_28
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 187
+        width: 186
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e2171748934cd43b3f14857eb766e3
+      internalID: -2047327829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_29
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 95
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c920cf9a105b77243a8676815b34c760
+      internalID: 1095391639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RunnablePotatominerObject_30
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 339
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43beb0894f66f2b4e9a983fdbb65c353
+      internalID: -1526305395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RunnablePotatominerObject_135: 582265967
+      RunnablePotatominerObject_21: 129532580
+      RunnablePotatominerObject_128: -708781694
+      RunnablePotatominerObject_99: 2014294403
+      RunnablePotatominerObject_47: 1450396324
+      RunnablePotatominerObject_42: -662027608
+      RunnablePotatominerObject_40: 944290419
+      RunnablePotatominerObject_16: -1597965264
+      RunnablePotatominerObject_101: -1036227771
+      RunnablePotatominerObject_59: 28573981
+      RunnablePotatominerObject_68: -1035572321
+      RunnablePotatominerObject_9: 505686473
+      RunnablePotatominerObject_41: -187712908
+      RunnablePotatominerObject_14: 1132719431
+      RunnablePotatominerObject_37: 1450207687
+      RunnablePotatominerObject_67: -915231547
+      RunnablePotatominerObject_88: -67647313
+      RunnablePotatominerObject_71: -633053046
+      RunnablePotatominerObject_0: 912019087
+      RunnablePotatominerObject_93: 971906312
+      RunnablePotatominerObject_36: -475601949
+      RunnablePotatominerObject_97: -321380999
+      RunnablePotatominerObject_107: -1613555868
+      RunnablePotatominerObject_118: -490997579
+      RunnablePotatominerObject_117: 1725388087
+      RunnablePotatominerObject_45: -37995730
+      RunnablePotatominerObject_56: -1108779289
+      RunnablePotatominerObject_3: 434447396
+      RunnablePotatominerObject_65: 1367603382
+      RunnablePotatominerObject_96: 507175253
+      RunnablePotatominerObject_109: -1367653396
+      RunnablePotatominerObject_6: 1747722992
+      RunnablePotatominerObject_106: -1072092045
+      RunnablePotatominerObject_38: -1754492677
+      RunnablePotatominerObject_95: 1955004183
+      RunnablePotatominerObject_113: 2011764647
+      RunnablePotatominerObject_121: 1579564061
+      RunnablePotatominerObject_52: -1847659042
+      RunnablePotatominerObject_20: 183795443
+      RunnablePotatominerObject_77: 1862411305
+      RunnablePotatominerObject_79: -1299005308
+      RunnablePotatominerObject_43: -826026045
+      RunnablePotatominerObject_10: -1524256321
+      RunnablePotatominerObject_50: 397546582
+      RunnablePotatominerObject_64: -246748675
+      RunnablePotatominerObject_66: 1839412001
+      RunnablePotatominerObject_81: -1891340486
+      RunnablePotatominerObject_131: -1616161319
+      RunnablePotatominerObject_110: -255119902
+      RunnablePotatominerObject_133: 226851718
+      RunnablePotatominerObject_12: -1556077095
+      RunnablePotatominerObject_132: 308039323
+      RunnablePotatominerObject_33: 986640097
+      RunnablePotatominerObject_126: 178350009
+      RunnablePotatominerObject_89: -697560201
+      RunnablePotatominerObject_112: 1307942775
+      RunnablePotatominerObject_2: 1959655773
+      RunnablePotatominerObject_70: -1112721931
+      RunnablePotatominerObject_19: -2070827161
+      RunnablePotatominerObject_23: 1417857174
+      RunnablePotatominerObject_35: -1009333066
+      RunnablePotatominerObject_32: 422523409
+      RunnablePotatominerObject_75: -499238267
+      RunnablePotatominerObject_130: 2070654537
+      RunnablePotatominerObject_94: -1621510742
+      RunnablePotatominerObject_98: 763206594
+      RunnablePotatominerObject_4: 1846834573
+      RunnablePotatominerObject_8: 1967187177
+      RunnablePotatominerObject_102: 16017344
+      RunnablePotatominerObject_78: -1057563905
+      RunnablePotatominerObject_90: 1187271932
+      RunnablePotatominerObject_105: -1026933800
+      RunnablePotatominerObject_115: 219954688
+      RunnablePotatominerObject_119: -1581692877
+      RunnablePotatominerObject_58: -867235908
+      RunnablePotatominerObject_69: 281582784
+      RunnablePotatominerObject_116: -894960699
+      RunnablePotatominerObject_134: 74182775
+      RunnablePotatominerObject_54: -967074494
+      RunnablePotatominerObject_91: -168708521
+      RunnablePotatominerObject_123: 1770429738
+      RunnablePotatominerObject_7: -1881211878
+      RunnablePotatominerObject_17: 605314979
+      RunnablePotatominerObject_83: -2093860982
+      RunnablePotatominerObject_11: 1567436119
+      RunnablePotatominerObject_114: -443790755
+      RunnablePotatominerObject_18: 1728356172
+      RunnablePotatominerObject_72: -1431253614
+      RunnablePotatominerObject_24: 221372944
+      RunnablePotatominerObject_53: -1052043875
+      RunnablePotatominerObject_100: 663626285
+      RunnablePotatominerObject_124: 166612621
+      RunnablePotatominerObject_26: -581576007
+      RunnablePotatominerObject_82: 1425192745
+      RunnablePotatominerObject_85: 545622234
+      RunnablePotatominerObject_76: 171131255
+      RunnablePotatominerObject_108: -934863683
+      RunnablePotatominerObject_86: -337325514
+      RunnablePotatominerObject_122: -755986889
+      RunnablePotatominerObject_63: -1634069470
+      RunnablePotatominerObject_13: -1533335906
+      RunnablePotatominerObject_55: 152659105
+      RunnablePotatominerObject_104: 1887490117
+      RunnablePotatominerObject_84: 840209923
+      RunnablePotatominerObject_51: -1296221222
+      RunnablePotatominerObject_111: -677256365
+      RunnablePotatominerObject_5: 48460186
+      RunnablePotatominerObject_28: -2047327829
+      RunnablePotatominerObject_31: -938099897
+      RunnablePotatominerObject_87: 1870777666
+      RunnablePotatominerObject_73: 1981953919
+      RunnablePotatominerObject_120: -1657582806
+      RunnablePotatominerObject_57: 2024586073
+      RunnablePotatominerObject_34: 434001559
+      RunnablePotatominerObject_62: -1209136216
+      RunnablePotatominerObject_25: -849243106
+      RunnablePotatominerObject_15: 612398905
+      RunnablePotatominerObject_29: 1095391639
+      RunnablePotatominerObject_1: 631596112
+      RunnablePotatominerObject_80: 1308020164
+      RunnablePotatominerObject_60: 1177190124
+      RunnablePotatominerObject_74: -36226205
+      RunnablePotatominerObject_127: 1342144084
+      RunnablePotatominerObject_49: -1725797126
+      RunnablePotatominerObject_103: -1715151087
+      RunnablePotatominerObject_92: -2044714692
+      RunnablePotatominerObject_136: 13851458
+      RunnablePotatominerObject_22: -1935787973
+      RunnablePotatominerObject_48: 1699415429
+      RunnablePotatominerObject_44: 1192320388
+      RunnablePotatominerObject_27: 101001493
+      RunnablePotatominerObject_46: 1829854255
+      RunnablePotatominerObject_125: -1918005297
+      RunnablePotatominerObject_129: -707170147
+      RunnablePotatominerObject_30: -1526305395
+      RunnablePotatominerObject_39: 1053737298
+      RunnablePotatominerObject_61: 97241566
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

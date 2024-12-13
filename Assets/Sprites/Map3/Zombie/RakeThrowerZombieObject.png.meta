@@ -1,0 +1,1342 @@
+fileFormatVersion: 2
+guid: 1d7e9ee4ee8e2824d923e87267a0e950
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 981
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8b91b3f06ce3b4c865f53cd63aeb98
+      internalID: -1884099661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 986
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cba1e4f758dca843b87b171cff7b339
+      internalID: -1348816446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 983
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12c9066ca8b48b498b54cc8d9abfb8e
+      internalID: 1928456421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 982
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1dbd2859a556b46a4434308a3db71f
+      internalID: -908863828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 986
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b079b77b2586944586f9126e244789b
+      internalID: -954370107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 982
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eea10bc58f50b458e665418a25d399
+      internalID: 1234649897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 983
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b96e416387ce7b4c8a0a7e773af1ca7
+      internalID: 1744607270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_7
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 914
+        width: 210
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ac4318422c9844db7b30156303cbb6
+      internalID: -584021162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 963
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ab77cc8fccc704197e0f2c741ee393
+      internalID: 539526897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 973
+        width: 103
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9b37a2a8e18f843bae17a5e70c88d1
+      internalID: -559100801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 973
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2885558a367d7014685a472e42fdd942
+      internalID: -1691884829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 897
+        width: 238
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dbfc4e7377f564587c0320883c390f
+      internalID: 2083509822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 942
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085376f2dddca4744a3d69bb46de7254
+      internalID: -1599963875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 940
+        width: 162
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4128c6d2c312c584baf156713beeccd5
+      internalID: -99360284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 931
+        width: 168
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53f40b1ac2c9294d83915902e5a7ce5
+      internalID: -1753621723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 902
+        width: 138
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42abf9505dfeb484aaabcf08bb790cfd
+      internalID: -1574241600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 873
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281b1ffd769fc4542b37a674ba7704c1
+      internalID: -227875900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 877
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dd897c6914e1b478b177a9888a4f4b
+      internalID: 477653256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 877
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6f1e0e536c4814aadc01a3e33b14ae
+      internalID: -639344431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 845
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d151e97d1833329499c42a12fe42a1cd
+      internalID: 852324578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_20
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 804
+        width: 209
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b70fe7c3f20e2547bb887a67e6b7624
+      internalID: 1327582753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_21
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 876
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bda00e138e5014c8c38b399f0e7a23
+      internalID: 344924269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 838
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc2b3225e793fe419111502c186ca1a
+      internalID: -1322939827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 841
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6389980764f8a2449c7da0ec598e760
+      internalID: -1446745911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 790
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd85e30df52c7345af9ed0cf8344569
+      internalID: 606787345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cf0c1bdea475e41b22fcd948ddf239
+      internalID: 985174401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 818
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf7f86bf9feaf746993281e6dddba10
+      internalID: 614841839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 797
+        width: 95
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c43c7109ba4f8144b1ddc232f06a2c0
+      internalID: 137230404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_30
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 744
+        width: 211
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4ec76a8174c14688c53a9225c404e
+      internalID: 1399315073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_31
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 832
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00e8d2de419ad845b92dad72e84a460
+      internalID: -158326188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 790
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64ff86c53b090a46a5dbbf88097675f
+      internalID: -1290726230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 799
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e4c99c98465024dbc4a9989c2398d7
+      internalID: -583161519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_34
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 795
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586c298fe099d3a4b81c1032618ca552
+      internalID: -1871137154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_35
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 786
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a439bb5b18d5a488ba4ed481f94b99
+      internalID: -1782520539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 718
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749938004e991d44ab484eba33665c7e
+      internalID: -1585534330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 750
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a21959c520a6c47993d672843f1f41
+      internalID: 503308760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_38
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 755
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15990207cb5bda6438579fc663c5e961
+      internalID: -898203424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_39
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 743
+        width: 236
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d390a9d27b021dc458dc58ed1d040c8f
+      internalID: -362561818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_40
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 778
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97284dee36326ad4dac96897815532c0
+      internalID: 112726239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 720
+        width: 179
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49bf382743ebcd4eb2723ca5cf19fda
+      internalID: -1366820837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_42
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 762
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cdd799b6674714a86a9d0f52c435ed
+      internalID: -348259797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 706
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeb8ad70e65baf48bf19bccbfe79f7e
+      internalID: -183692992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 711
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4eb58bf4d8889942b32619f3781687c
+      internalID: -871675018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 729
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c22120e9cd8d564aa5d42547b9f8528
+      internalID: -1435737782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7954ceb38f7d67a41bcf705936fbdddc
+      internalID: 1765903789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_47
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 681
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24184f8e3c17a6945a599c5c7862e7c1
+      internalID: 561832935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 681
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4084fd06ca1cf44aa9a30d6316d5f37
+      internalID: 1769919804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 683
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c133835cf3ff3409d5f0bdd5c48ce2
+      internalID: -152596624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_50
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 627
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508c37bca644267498b64fabe4e20d5c
+      internalID: -567421408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_51
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 627
+        width: 257
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fab7b6fa9f843746b0d95b7ab3f8128
+      internalID: 659874304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3261495c9c904e245825bb31cc29c7fe
+      internalID: -33316261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_56
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 541
+        width: 158
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a375afff90f390459e4d275decd9b91
+      internalID: -1319563061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_60
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 539
+        width: 179
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9466fd9432f64064498bd2db0b8520ec
+      internalID: -611196750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RakeThrowerZombieObject_53
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 559
+        width: 105
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04df179eb5954814988ad7d3b664218e
+      internalID: 1540733237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RakeThrowerZombieObject_33: -583161519
+      RakeThrowerZombieObject_40: 112726239
+      RakeThrowerZombieObject_34: -1871137154
+      RakeThrowerZombieObject_11: 2083509822
+      RakeThrowerZombieObject_16: -227875900
+      RakeThrowerZombieObject_29: 1787818210
+      RakeThrowerZombieObject_18: -639344431
+      RakeThrowerZombieObject_41: -1366820837
+      RakeThrowerZombieObject_37: 503308760
+      RakeThrowerZombieObject_57: 1136144368
+      RakeThrowerZombieObject_53: 1540733237
+      RakeThrowerZombieObject_27: 137230404
+      RakeThrowerZombieObject_8: 539526897
+      RakeThrowerZombieObject_26: 614841839
+      RakeThrowerZombieObject_7: -584021162
+      RakeThrowerZombieObject_23: -1446745911
+      RakeThrowerZombieObject_35: -1782520539
+      RakeThrowerZombieObject_47: 561832935
+      RakeThrowerZombieObject_25: 985174401
+      RakeThrowerZombieObject_9: -559100801
+      RakeThrowerZombieObject_3: -908863828
+      RakeThrowerZombieObject_21: 344924269
+      RakeThrowerZombieObject_43: -183692992
+      RakeThrowerZombieObject_4: -954370107
+      RakeThrowerZombieObject_15: -1574241600
+      RakeThrowerZombieObject_42: -348259797
+      RakeThrowerZombieObject_59: -432505014
+      RakeThrowerZombieObject_44: -871675018
+      RakeThrowerZombieObject_10: -1691884829
+      RakeThrowerZombieObject_48: 1769919804
+      RakeThrowerZombieObject_0: -1884099661
+      RakeThrowerZombieObject_30: 1399315073
+      RakeThrowerZombieObject_51: 659874304
+      RakeThrowerZombieObject_28: -334463671
+      RakeThrowerZombieObject_55: -1434120710
+      RakeThrowerZombieObject_22: -1322939827
+      RakeThrowerZombieObject_38: -898203424
+      RakeThrowerZombieObject_19: 852324578
+      RakeThrowerZombieObject_60: -611196750
+      RakeThrowerZombieObject_39: -362561818
+      RakeThrowerZombieObject_61: 512217763
+      RakeThrowerZombieObject_45: -1435737782
+      RakeThrowerZombieObject_12: -1599963875
+      RakeThrowerZombieObject_13: -99360284
+      RakeThrowerZombieObject_49: -152596624
+      RakeThrowerZombieObject_6: 1744607270
+      RakeThrowerZombieObject_20: 1327582753
+      RakeThrowerZombieObject_24: 606787345
+      RakeThrowerZombieObject_1: -1348816446
+      RakeThrowerZombieObject_54: -704306570
+      RakeThrowerZombieObject_46: 1765903789
+      RakeThrowerZombieObject_5: 1234649897
+      RakeThrowerZombieObject_56: -1319563061
+      RakeThrowerZombieObject_36: -1585534330
+      RakeThrowerZombieObject_2: 1928456421
+      RakeThrowerZombieObject_32: -1290726230
+      RakeThrowerZombieObject_58: 478754759
+      RakeThrowerZombieObject_52: -33316261
+      RakeThrowerZombieObject_17: 477653256
+      RakeThrowerZombieObject_31: -158326188
+      RakeThrowerZombieObject_14: -1753621723
+      RakeThrowerZombieObject_50: -567421408
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

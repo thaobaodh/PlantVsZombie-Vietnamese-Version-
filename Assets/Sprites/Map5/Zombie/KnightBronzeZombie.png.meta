@@ -1,0 +1,3997 @@
+fileFormatVersion: 2
+guid: 4fefc4128fcba6f4cb127bee59c53b96
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnightBronzeZombie_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1678
+        width: 365
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6883ef01730e2134cb5d02150586a75a
+      internalID: -1589576427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_1
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1754
+        width: 305
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63556bda40c44a8409c33ff45ca6c6bb
+      internalID: -341391169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_2
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2022
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a282f2524a291346ae6a1f927a2f58e
+      internalID: 1164082080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_3
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1988
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66aabb517115b54192ac51ca99573ca
+      internalID: 1301915330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_4
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1696
+        width: 223
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b5d6cc374ea0a4d80d9348dd8e81af
+      internalID: 1708263800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_5
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1927
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cbb63ec4d4ec44bbab102f32bfa49b
+      internalID: -1580948573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_6
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1862
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a46f6af999ec6f4fbdb88e2bd8a56fc
+      internalID: 1732216324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_7
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1839
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8181099810cb124cba6a6c69d3b8fe9
+      internalID: 1134754462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_8
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1810
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336f9256a16a74440a7cf78fc56ebd1f
+      internalID: 2118331945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_9
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1819
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4b7cd9b3086d34ea4a7240c9c4599d
+      internalID: -515935805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_10
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1754
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e779975844ddad4ab1f12366d6a3a11
+      internalID: -417734692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_11
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1574
+        width: 219
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58308f39015d54345aec6ad80bcbf2e6
+      internalID: -2047823512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_12
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1486
+        width: 67
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6c6af8296176d4a89a6c1f76295125
+      internalID: 580867048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_13
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1722
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54432db3a8b7ee84a921c42102113df3
+      internalID: -836229967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_14
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1666
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945410ce3e9f4ad4ca20a3de6a83ec4b
+      internalID: 624660588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_15
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1689
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c0d4073f530fa47b388369a73c2783
+      internalID: -124371582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_16
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1667
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a17c97f8304f64584f3ca1170bb2f2
+      internalID: -306073535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_17
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1694
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50369947111104940a167602128546c0
+      internalID: -1802684847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1670
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e570aba34d3994fa1cb2402a4c7035
+      internalID: -1256053510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1614
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcae56ff6c014f144bea83e2065f86b2
+      internalID: 799470929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_20
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1656
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b594dc6e517567c43838d4d6703b241f
+      internalID: -489653366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_21
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1658
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2554235d37b1a4aae981635c450869
+      internalID: -1680334749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1590
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cbc6dedd9aaee40bd8495abb14e1ab
+      internalID: 1440978232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_23
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1634
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eca3278e1dccca4daffa602ea1d1d39
+      internalID: -1263827507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_24
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1640
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d93e025aae9aa47bfaaea73af84adb
+      internalID: -467225025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_25
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1623
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d971a7c0800e71448ba52ab8fc96178d
+      internalID: 2028157070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_26
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1614
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba48ac274a3b4b49983f5abcf165c73
+      internalID: 1234425762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_27
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1618
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e44c0e61ad46e840bcb879f9581ab91
+      internalID: 1547241001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_28
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1618
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21da09d299e4c74d9081b4ac29b5df8
+      internalID: -541471976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_29
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1591
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b430171ae2cc9d440a211aad4f87b483
+      internalID: -772682723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1560
+        width: 89
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e582c72daf38663458a7be2ef1e30de5
+      internalID: 1906187114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_31
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1594
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc853747b75b7f4aadb863823afff72
+      internalID: 1060564903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_32
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1610
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817012d1961d7e14aa49c0a51d2ee284
+      internalID: 131852698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_33
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1590
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8307b3413d3620409481a16b46b3626
+      internalID: -1020111344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1546
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e31d809eea01414db96fed5b50a687b
+      internalID: 1267272684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_35
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1574
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3a628fe1b6ee4488da9ba31e8e424f
+      internalID: -504754873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_36
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1570
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa39bccf85b8ea4184a9789b1463def
+      internalID: 1298151561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_37
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1570
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c3e13b07641954a9c9689cefe923a1
+      internalID: 1062889972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_38
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1558
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069bad437f3a5a24d86698af7ea563c9
+      internalID: 15051529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_39
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1530
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5824a0f8d13f42b4da4c0e1d511b92ba
+      internalID: -2113149032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_40
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1530
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff9e3f83c4f3a94fa2fa32fdb4ada2c
+      internalID: 254227265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_41
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1538
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5281136b62cefe744b97aa4a4d1df66f
+      internalID: 681297079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_42
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1552
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0d8415783852e478b47be2b396a881
+      internalID: -671809236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_43
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1554
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2093b07ae474d3246b279166f0fdd562
+      internalID: 1101200709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_44
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1534
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3597118321ade2947a3ec68bc9f1458c
+      internalID: 448026130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_45
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1538
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921658fde6a9e6f4296f9f5b36e3e668
+      internalID: 703497002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_46
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1546
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45b409b05ade2e47859432f4cd628a7
+      internalID: -1346433637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_47
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1528
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9a7ccab2ac7f241a181b28ac4eb0d3
+      internalID: -1869726854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_48
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1527
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0d80ff0666b5c42904c631d308ce60
+      internalID: 1496042758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_49
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1531
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8c277414d5ea342a60751e6f840fa4
+      internalID: -816763491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_50
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1489
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9cb3619ec15044eb8b6a414f4ef582
+      internalID: 1973269157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_51
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1516
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed74f2ab9b0a92143a5e6d918f776ca7
+      internalID: 1235012200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_52
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1498
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddecf77989f4be74091cf4eeb7f55033
+      internalID: 1376312162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_53
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1470
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3271dea9dc4972d48a8875a7ef0d6c4f
+      internalID: 669702748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_54
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1490
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c228a42ce5562148a3722fa8d045794
+      internalID: 239870883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_55
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1506
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5408b008922f463458d46014055186df
+      internalID: -1445214727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_56
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1498
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4845d12ddf162af4f9918562e56f1de4
+      internalID: -2051791620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_57
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1478
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5955df554f39f498ba08fc68359caf
+      internalID: 1905252147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_58
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1492
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa9feb0d0e8534eaeaf42a0bc6536a
+      internalID: -237413183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_59
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1471
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760d1f798f5f8a244ae22eb781651e36
+      internalID: -1094843137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_60
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1457
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c582bbefdc97044b74e40cc2cc7d22
+      internalID: -1334736710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_61
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1426
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe71a7c27cfbc97488e2b9b9392aec0e
+      internalID: 1374524031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_62
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1452
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a610014ea3df47241a4d5eab3e53589c
+      internalID: 2102130022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_63
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1454
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d6ed4ff9d4065429b472a3a4eba02b
+      internalID: -1126660208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1416
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d767dae422c5dc4dbf958def454390b
+      internalID: -1570342381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1407
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409e7b883902f764c8c226e43ac12042
+      internalID: -1225892568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_67
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1405
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff19b36b6959a1468aef438d84246b5
+      internalID: -565911791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_68
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1411
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1070a9c5be4a46849a0539ff1bf2ecc1
+      internalID: 146559210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_69
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1422
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca497bf8e734c54695c6a76899373f6
+      internalID: -2006537152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1406
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9190443278c0a4aaf5dea244e928ee
+      internalID: 1652108935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_71
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1398
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09e5251394a2d4ea0fdf2d482c15db
+      internalID: 806538424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_72
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1370
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0570f8933822e984694d88af83f71df9
+      internalID: 845965653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1391
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd5a467e54ada34aab32630def8ab23
+      internalID: 2056163390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_74
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1386
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e92b01fbcac10418f7772a75067cfe
+      internalID: -2091651529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_75
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1390
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f781dfa8d6822469c09667f9de8815
+      internalID: 390939248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_76
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1382
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f9cf3cb610e9742be276c5001b9d86
+      internalID: 1390746842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_77
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1370
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c61eadb73a3f5e4190ab96b6ef1255d
+      internalID: 7444788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_78
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1394
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139b773449a1bb441b779cc25a1076f1
+      internalID: 1030108081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_79
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1379
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dad75ce9d8bb04083186b8606dc831
+      internalID: -59228177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_80
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1370
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c47886f90f1fd74fa92671918871565
+      internalID: -832517575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1370
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0244e15de21ce07408e207c486d71db2
+      internalID: 220208470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_82
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1359
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29980963a44447a42807074043478bd6
+      internalID: 1445550222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_83
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1368
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fc36104d6aa734486c17b02ab72d8c
+      internalID: 391641872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_84
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1354
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2248c7236ced57840940396355c5dc79
+      internalID: -101065863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_85
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1306
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ce1fafd9100034ba911f2799408e72
+      internalID: -809755051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_86
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1278
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100ba732d86d77844adf2bae5aeec2f3
+      internalID: -930143503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_87
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1252
+        width: 151
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f8771bfaed1464e8601737dd276c9b
+      internalID: 1208239973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1336
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea2b823165270c4cba428fa594b6040
+      internalID: 179335447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_89
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1347
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638b6c94ce934424893952b9c1c2681b
+      internalID: 2094557718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_90
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1314
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5284dc2ac4995ae4bac99c90da21f04f
+      internalID: -1120733609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_91
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1291
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edec393b29afc2741bcaaedd5f69748d
+      internalID: -298687612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_92
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1318
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ac76ee6a378c74b9071fc923ddac2f
+      internalID: -1896903725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_93
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1298
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af97fed64b728984bbb93e50b1044193
+      internalID: -1656838422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_94
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1306
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352c65c22656f5b408f381fa8d7d5a1e
+      internalID: 1609681349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_95
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1298
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638b3161ba70b834fa73b731c15a1c3f
+      internalID: 425421370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_96
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1286
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d578b0e329a2c6d43a8096cd963082b2
+      internalID: -392717195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_97
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1238
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054fa8d424054ff4aba2d4954ee9e632
+      internalID: -1176404300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_98
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1246
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d63bf8484159f48a4570f350638bad
+      internalID: 740741979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_99
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1274
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344eb9782ed189d41ad89019dee71e22
+      internalID: -2025254387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_100
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1234
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cec909170ab6c43813ba4b19e2b19a
+      internalID: -1408528415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_101
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1170
+        width: 203
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf1d63ea7629e642aef27bb0126044a
+      internalID: -61016895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_102
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1238
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54c2b7f7d295884c9cb4640dea9a9b5
+      internalID: 1782806511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_103
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1234
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617fceb3bbd0fb4459c3e45fb34b6a7d
+      internalID: -891040033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_104
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1206
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25684128706869b46bec94e44f4dd892
+      internalID: -520945145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1222
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884c09b3ce31c4448bac86ab1b5618e5
+      internalID: -253020243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_106
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1100
+        width: 244
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb0bbf873b76b84591cd0d7710e431c
+      internalID: -855658619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_107
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1114
+        width: 137
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0923d9adaaa97b448e9938566f24ec7
+      internalID: -84140020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_108
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1198
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9334edbd62bc95341b190251100e3556
+      internalID: 406779743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_109
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1154
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb227effcaaa064287f5489a5695d3d
+      internalID: -433823946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_110
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1084
+        width: 38
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e22d6db371a514cb681bf94cc5654f
+      internalID: 1921790659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_111
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1175
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6ca08826fcfb944b7e12e64359ca8d
+      internalID: 1040380876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_112
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1162
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fd1029f25aa0849abdbfa3fe6b169b
+      internalID: -416319600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1087
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865c562b3f334db41bb7f04335f40dbf
+      internalID: -134383963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_114
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1126
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401ecd7430c106c4fb8a6e22a8422e34
+      internalID: -1236554002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_115
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1151
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03eb0bca661d2740bb21c0413362981
+      internalID: -2087269049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_116
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1116
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f269946170b8148ac8e1194875bac2
+      internalID: -215242169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_117
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1042
+        width: 141
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25b190975e144445aa8deef06f244ec
+      internalID: -168892252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_118
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1118
+        width: 86
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a3ed258cb0d90479585a7bba3b4c0a
+      internalID: -294931278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_119
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1066
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a2efd49612f854b904976b9c3f1195
+      internalID: 1600959925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_120
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1078
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d72fe201001fc846bdcf8108021080a
+      internalID: 2014836684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_121
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 945
+        width: 159
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c156b32af06c1840b34f78943bca464
+      internalID: -453396358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_122
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1010
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce1f300757c54545a4acfb3f47cfb36
+      internalID: -253117063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_123
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1018
+        width: 207
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff60eb43a8e7b54681c251f758cb1d4
+      internalID: 1030076403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_124
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1066
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f4392e3602dc14b83994699f615fc9
+      internalID: 1434588422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_125
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1044
+        width: 73
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71e9fd668e38824e801f0502175d996
+      internalID: -1401534851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_126
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 999
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a0765a8e3aa7047b3211d8f039368d
+      internalID: -532879081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_127
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 906
+        width: 129
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce0c4ee46b7c424da3b6c9ce8ea6938
+      internalID: -1859895722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_128
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 934
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a25fc47d53a8fc4b84beab5e14e26a9
+      internalID: -651143884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_129
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 896
+        width: 151
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35488ffe3dbba504090c1fb549577fc7
+      internalID: 572696352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_130
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 963
+        width: 110
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f32ab5476b5244190418f08e2b161c
+      internalID: 1102163613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_131
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 962
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9d9565a978462449339940b5a828cc
+      internalID: -1563365780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_132
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 902
+        width: 149
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6f53efad7bee146aa57ce9fed8d876
+      internalID: -1144495140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_133
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 851
+        width: 136
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76858fb96039c745943062962d09540
+      internalID: 754284137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_134
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 952
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efebb11daa882249b9387ad19ec1cae
+      internalID: 317106235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_135
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 852
+        width: 210
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c25397ed6f64746b2d7fea4974e02b
+      internalID: -1722930333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_136
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 903
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3344e1b095cb0944286325ce8a931472
+      internalID: 506713420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_137
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 914
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc873767410434b4e8a22b89e30fb9f3
+      internalID: -401590941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_138
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 902
+        width: 69
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f3e16bd77da1744a710b38b9611aad
+      internalID: -1766399477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_139
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 906
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e046cf31cef984d8e562f9e3612244
+      internalID: -1031970123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 766
+        width: 122
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8c1baaaf6fea747b476a405eb16bee
+      internalID: 1371691792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_141
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 857
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd68a326ee41c8640a0afe8718aaa101
+      internalID: -787053901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_142
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 896
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c3ea88936e8ff439c58b332cebd47e
+      internalID: 1794910141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_143
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 812
+        width: 191
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da10f3122f6d6d341abacf53612b1dc0
+      internalID: -886282544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_144
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 870
+        width: 98
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce05a2d48b2615445893515f372324b4
+      internalID: 2101429454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_145
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 858
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9876fd23e39f494aa2ef692a396362c
+      internalID: -2134358238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_146
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 882
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8add9fc6461e6834493550216e586a01
+      internalID: -1742149970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_147
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 762
+        width: 122
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511d6a3a93a7a764ca8597d8dec655f2
+      internalID: 2060533305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_148
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 730
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4df9b0e9c9e4841b4be025470eec16
+      internalID: 141235067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_149
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 728
+        width: 127
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40c8db4108e7734bbc160f3b1c177a3
+      internalID: 1362959671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_150
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 743
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226a726e25db5a5408d37cc35db8bd87
+      internalID: 2037383549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_151
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 746
+        width: 27
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efb5e105d238fc4e86bb1e9ffb0acb9
+      internalID: -1754298083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_152
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 754
+        width: 132
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6199082a678f6934e9930bbb7de2b5bc
+      internalID: 632838665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_153
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 814
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b081ec969e9b984fb09f3ce3d199dcf
+      internalID: 1284263064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_154
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 707
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca7d299ba7636e4498fe83c7b2d8590
+      internalID: 2063319076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_155
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 770
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8aad9d2916b444d8ebcfd818c5968e
+      internalID: -932349781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_156
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 770
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a28cbb907884b408b2e2e93236f2e5
+      internalID: 1058911743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_157
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 770
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4c8a4947830d48a51883c83bc2819
+      internalID: -621798824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 694
+        width: 230
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb067f88753a0245b6c66bf048771c8
+      internalID: 447365981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_159
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 738
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9741faf9b1772d478a5c7185d999350
+      internalID: 414737870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_160
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 662
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488e147dbd92d7b40a5037a65cfcc1c6
+      internalID: 1137460450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_161
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 727
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedea3264fac7134abd8d70cb3477f5f
+      internalID: 2022187665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_162
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 638
+        width: 129
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35c68ee6e277114499add8eab13b0be
+      internalID: -1478185797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_163
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 618
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c66d8f51607484594f1e2727bb3db6
+      internalID: 65374827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_164
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 651
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104490eb1db4d17449718984a69b548c
+      internalID: 764781746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_165
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 652
+        width: 96
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274b356fe5442b54fa96b28d9555c6a2
+      internalID: 1342553078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_166
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 627
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b41dbf0b80d8d741bd7a9509cc1bdfa
+      internalID: 876729200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_167
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 671
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e16483cb136b44c825df3c51a6a9d2
+      internalID: -1447575539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_168
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 670
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467c1fa0f37fefc4a85698a2d57384be
+      internalID: -1742132164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_169
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 650
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53016c95f8d54784c8206c3d7451af80
+      internalID: -1798097563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_170
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 658
+        width: 107
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b77a23a8915d9b41a23a9b57090e22a
+      internalID: 1741133256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_171
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 688
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4bbf5c463640a4191a7ee29c48ca3b
+      internalID: 801666150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_172
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 686
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de5cc4b6a11d0742a7911a157cb2679
+      internalID: -1705552633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_173
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 637
+        width: 171
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cb51d090a46114fb289ba54849fa16
+      internalID: 1424999327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_174
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 582
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d436e2e276ef4cb4cbde11368d74b26d
+      internalID: -653402022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightBronzeZombie_175
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 650
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a9c24ae42bd7949b838622ca18f38c
+      internalID: 1613694674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KnightBronzeZombie_165: 1342553078
+      KnightBronzeZombie_25: 2028157070
+      KnightBronzeZombie_65: -1570342381
+      KnightBronzeZombie_149: 1362959671
+      KnightBronzeZombie_89: 2094557718
+      KnightBronzeZombie_54: 239870883
+      KnightBronzeZombie_128: -651143884
+      KnightBronzeZombie_50: 1973269157
+      KnightBronzeZombie_136: 506713420
+      KnightBronzeZombie_16: -306073535
+      KnightBronzeZombie_48: 1496042758
+      KnightBronzeZombie_5: -1580948573
+      KnightBronzeZombie_107: -84140020
+      KnightBronzeZombie_66: -1225892568
+      KnightBronzeZombie_56: -2051791620
+      KnightBronzeZombie_4: 1708263800
+      KnightBronzeZombie_166: 876729200
+      KnightBronzeZombie_64: 1871282835
+      KnightBronzeZombie_171: 801666150
+      KnightBronzeZombie_10: -417734692
+      KnightBronzeZombie_95: 425421370
+      KnightBronzeZombie_0: -1589576427
+      KnightBronzeZombie_121: -453396358
+      KnightBronzeZombie_167: -1447575539
+      KnightBronzeZombie_134: 317106235
+      KnightBronzeZombie_7: 1134754462
+      KnightBronzeZombie_127: -1859895722
+      KnightBronzeZombie_81: 220208470
+      KnightBronzeZombie_129: 572696352
+      KnightBronzeZombie_157: -621798824
+      KnightBronzeZombie_58: -237413183
+      KnightBronzeZombie_17: -1802684847
+      KnightBronzeZombie_82: 1445550222
+      KnightBronzeZombie_103: -891040033
+      KnightBronzeZombie_138: -1766399477
+      KnightBronzeZombie_11: -2047823512
+      KnightBronzeZombie_14: 624660588
+      KnightBronzeZombie_114: -1236554002
+      KnightBronzeZombie_84: -101065863
+      KnightBronzeZombie_144: 2101429454
+      KnightBronzeZombie_118: -294931278
+      KnightBronzeZombie_151: -1754298083
+      KnightBronzeZombie_154: 2063319076
+      KnightBronzeZombie_63: -1126660208
+      KnightBronzeZombie_73: 2056163390
+      KnightBronzeZombie_153: 1284263064
+      KnightBronzeZombie_29: -772682723
+      KnightBronzeZombie_93: -1656838422
+      KnightBronzeZombie_79: -59228177
+      KnightBronzeZombie_27: 1547241001
+      KnightBronzeZombie_115: -2087269049
+      KnightBronzeZombie_13: -836229967
+      KnightBronzeZombie_26: 1234425762
+      KnightBronzeZombie_28: -541471976
+      KnightBronzeZombie_99: -2025254387
+      KnightBronzeZombie_123: 1030076403
+      KnightBronzeZombie_131: -1563365780
+      KnightBronzeZombie_67: -565911791
+      KnightBronzeZombie_148: 141235067
+      KnightBronzeZombie_53: 669702748
+      KnightBronzeZombie_122: -253117063
+      KnightBronzeZombie_158: 447365981
+      KnightBronzeZombie_70: 1652108935
+      KnightBronzeZombie_145: -2134358238
+      KnightBronzeZombie_175: 1613694674
+      KnightBronzeZombie_19: 799470929
+      KnightBronzeZombie_40: 254227265
+      KnightBronzeZombie_130: 1102163613
+      KnightBronzeZombie_156: 1058911743
+      KnightBronzeZombie_126: -532879081
+      KnightBronzeZombie_52: 1376312162
+      KnightBronzeZombie_160: 1137460450
+      KnightBronzeZombie_135: -1722930333
+      KnightBronzeZombie_143: -886282544
+      KnightBronzeZombie_161: 2022187665
+      KnightBronzeZombie_110: 1921790659
+      KnightBronzeZombie_91: -298687612
+      KnightBronzeZombie_97: -1176404300
+      KnightBronzeZombie_172: -1705552633
+      KnightBronzeZombie_83: 391641872
+      KnightBronzeZombie_39: -2113149032
+      KnightBronzeZombie_117: -168892252
+      KnightBronzeZombie_100: -1408528415
+      KnightBronzeZombie_98: 740741979
+      KnightBronzeZombie_30: 1906187114
+      KnightBronzeZombie_61: 1374524031
+      KnightBronzeZombie_80: -832517575
+      KnightBronzeZombie_120: 2014836684
+      KnightBronzeZombie_15: -124371582
+      KnightBronzeZombie_74: -2091651529
+      KnightBronzeZombie_124: 1434588422
+      KnightBronzeZombie_21: -1680334749
+      KnightBronzeZombie_119: 1600959925
+      KnightBronzeZombie_6: 1732216324
+      KnightBronzeZombie_139: -1031970123
+      KnightBronzeZombie_32: 131852698
+      KnightBronzeZombie_47: -1869726854
+      KnightBronzeZombie_68: 146559210
+      KnightBronzeZombie_18: -1256053510
+      KnightBronzeZombie_102: 1782806511
+      KnightBronzeZombie_55: -1445214727
+      KnightBronzeZombie_1: -341391169
+      KnightBronzeZombie_77: 7444788
+      KnightBronzeZombie_174: -653402022
+      KnightBronzeZombie_49: -816763491
+      KnightBronzeZombie_111: 1040380876
+      KnightBronzeZombie_46: -1346433637
+      KnightBronzeZombie_170: 1741133256
+      KnightBronzeZombie_113: -134383963
+      KnightBronzeZombie_96: -392717195
+      KnightBronzeZombie_20: -489653366
+      KnightBronzeZombie_169: -1798097563
+      KnightBronzeZombie_106: -855658619
+      KnightBronzeZombie_87: 1208239973
+      KnightBronzeZombie_42: -671809236
+      KnightBronzeZombie_2: 1164082080
+      KnightBronzeZombie_75: 390939248
+      KnightBronzeZombie_146: -1742149970
+      KnightBronzeZombie_105: -253020243
+      KnightBronzeZombie_86: -930143503
+      KnightBronzeZombie_3: 1301915330
+      KnightBronzeZombie_60: -1334736710
+      KnightBronzeZombie_140: 1371691792
+      KnightBronzeZombie_147: 2060533305
+      KnightBronzeZombie_37: 1062889972
+      KnightBronzeZombie_104: -520945145
+      KnightBronzeZombie_41: 681297079
+      KnightBronzeZombie_38: 15051529
+      KnightBronzeZombie_9: -515935805
+      KnightBronzeZombie_23: -1263827507
+      KnightBronzeZombie_62: 2102130022
+      KnightBronzeZombie_142: 1794910141
+      KnightBronzeZombie_88: 179335447
+      KnightBronzeZombie_90: -1120733609
+      KnightBronzeZombie_94: 1609681349
+      KnightBronzeZombie_59: -1094843137
+      KnightBronzeZombie_72: 845965653
+      KnightBronzeZombie_132: -1144495140
+      KnightBronzeZombie_101: -61016895
+      KnightBronzeZombie_12: 580867048
+      KnightBronzeZombie_159: 414737870
+      KnightBronzeZombie_51: 1235012200
+      KnightBronzeZombie_92: -1896903725
+      KnightBronzeZombie_43: 1101200709
+      KnightBronzeZombie_36: 1298151561
+      KnightBronzeZombie_168: -1742132164
+      KnightBronzeZombie_173: 1424999327
+      KnightBronzeZombie_164: 764781746
+      KnightBronzeZombie_137: -401590941
+      KnightBronzeZombie_109: -433823946
+      KnightBronzeZombie_152: 632838665
+      KnightBronzeZombie_85: -809755051
+      KnightBronzeZombie_112: -416319600
+      KnightBronzeZombie_35: -504754873
+      KnightBronzeZombie_78: 1030108081
+      KnightBronzeZombie_24: -467225025
+      KnightBronzeZombie_108: 406779743
+      KnightBronzeZombie_155: -932349781
+      KnightBronzeZombie_33: -1020111344
+      KnightBronzeZombie_31: 1060564903
+      KnightBronzeZombie_45: 703497002
+      KnightBronzeZombie_150: 2037383549
+      KnightBronzeZombie_44: 448026130
+      KnightBronzeZombie_71: 806538424
+      KnightBronzeZombie_163: 65374827
+      KnightBronzeZombie_133: 754284137
+      KnightBronzeZombie_76: 1390746842
+      KnightBronzeZombie_125: -1401534851
+      KnightBronzeZombie_57: 1905252147
+      KnightBronzeZombie_116: -215242169
+      KnightBronzeZombie_34: 1267272684
+      KnightBronzeZombie_8: 2118331945
+      KnightBronzeZombie_69: -2006537152
+      KnightBronzeZombie_141: -787053901
+      KnightBronzeZombie_162: -1478185797
+      KnightBronzeZombie_22: 1440978232
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1818 @@
+fileFormatVersion: 2
+guid: 8ab981bc330fe494da9d184662a8098d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 623
+        width: 176
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3bf29df561c8544a6f8379f201af4d
+      internalID: -1513787549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 777
+        width: 257
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6950b043db9b0e741b1f672678d32eac
+      internalID: 1699263993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 771
+        width: 231
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58521bb79b9fe124683709dcb3b9fd86
+      internalID: -430936899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 644
+        width: 121
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd33017a6b9a732459d08931f6f94e99
+      internalID: -617435025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_4
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 923
+        width: 5
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e9a1525fd7eb449a91d9d634901b26
+      internalID: 406237832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_5
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 841
+        width: 156
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46ccf50518649c40807eb9202989bb2
+      internalID: -2064284593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_6
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 681
+        width: 151
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d2a833a8f371044a775b692787eb3c
+      internalID: -821225769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 829
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7357e41aa54544099b1efcc519d3e9
+      internalID: 1983814539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_8
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 770
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41b0fd8e4569d848a79015d8794f83e
+      internalID: -396838308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_9
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 766
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd87623674dd4544ac540f77e1351eb
+      internalID: -1375994032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 741
+        width: 54
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdca680147f7b8a449f7f09407ba8ab4
+      internalID: 1209692556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 682
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e1c9a8b3e2a8f47982e52eba40f134
+      internalID: 841698956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 531
+        width: 187
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20c7c89a42041f4180cb394e9e9cc41
+      internalID: 2111484400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 619
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf93153dbe368f1498953a1030b588b5
+      internalID: -689811350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_14
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 546
+        width: 183
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146d844c17c4e054f96ca745809dc622
+      internalID: -1974015617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_15
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 418
+        width: 199
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c810be42cca7e4d81df43a0828b2c0
+      internalID: -2078155250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_16
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 557
+        width: 111
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d34e8e5e5712f41996add459eb6c7a
+      internalID: 91855786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_17
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 442
+        width: 172
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4488d5313bf6c34dac08bf5d7b7795d
+      internalID: 1240052649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_18
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 562
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d214562e209aa864c8ad6be90e5ed5c9
+      internalID: -1232565497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 373
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0481454e3cdc674ba64f0c932ece311
+      internalID: 1219304681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 522
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2be99cddaa3d304e886ad0f5f785244
+      internalID: -531545976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_21
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 445
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb955e575b90bcb43a715fff60c68140
+      internalID: -142761713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 375
+        width: 218
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a687886bcd1707e44bd74e77ede9de5c
+      internalID: -281773260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 491
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0045cdf10cf6c7439a2b1fec3921540
+      internalID: -59861480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_24
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 454
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb66a0b4fe78ea24d8fde0c1e1d92f0a
+      internalID: 1511994694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_25
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 461
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101d5020f645dfc4cbafadee9b74599e
+      internalID: -425459017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_26
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 438
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a48612f6c5d1b54a997a6fc788f03e1
+      internalID: -1627964884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_27
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 381
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3029fdaf60f8ba94c9156821449aa3cc
+      internalID: -1685602375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_28
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 381
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81738f483eb0b074ca979f9e8da3a015
+      internalID: -354745137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_29
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 420
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29b45265fa2aca49a9d5c55749403dd
+      internalID: 2128926109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 369
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e05500b6add914eb0fa80e9fec7167
+      internalID: 1200697716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_31
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 326
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f694262111e702c40b5e61172ace1bf9
+      internalID: -854657456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_32
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 372
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f892745aa5e2bf428b1a6292c392a39
+      internalID: -1822015412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_33
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 369
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10819fbc6a7b5c74ca03627fe4e460ee
+      internalID: -1068309783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_34
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 369
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed19514cdde3a5f43b81140c16e94292
+      internalID: -309971299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_35
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 369
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d5986135b230640b71cbfff047cd8f
+      internalID: 1915539703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_36
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 347
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490ebe25aa887064c88e689bdb062d18
+      internalID: -1301402961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_37
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 302
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ae4d322c3edf74f973c9d0c43b0d5f
+      internalID: 1260460477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 219
+        width: 139
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dbd80a58c3cde48a928117dc6a90ce
+      internalID: 152722588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_39
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 304
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a15a1d996d8b3a40896888642e809aa
+      internalID: 375579503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_40
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 270
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022f3988b3605644281710e81219f2d6
+      internalID: -964608104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_41
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 282
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7b7abf7f2f28a41be2a864e95f915b
+      internalID: 258096322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_42
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 306
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c518d9e64d7a048adadcc7817547b9
+      internalID: -1427825669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 184
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948d1dfe3c718894cb489b5287d1d2fa
+      internalID: -794756446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 212
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19236c0d757b654ea07d8d524211c28
+      internalID: 1306420629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_45
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 281
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8d47af021e0794d8678fd4d596366d
+      internalID: -1419624526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_46
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 255
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff3b1ec21e0c684b983fead50c7e43a
+      internalID: 462198266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_47
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 271
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd6fc7f53aff724e98491e0469f34c0
+      internalID: 1986752649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_48
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 207
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841081accf075f54ba0f004745f9a58f
+      internalID: -2121820169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_49
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 219
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a9e9ae41613b84ba8bf6fe214a4273
+      internalID: -561065752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_50
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 190
+        width: 95
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f0f80c94c12e14883c144550e7828c
+      internalID: 1976479523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_51
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 210
+        width: 101
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ece44a918b4ff4ea2d29179d5b38e4
+      internalID: -335283392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_52
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 202
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab55313592f79f241a68db643ae54268
+      internalID: 698317061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_53
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 217
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c149ffab86b20a947a0f2048e5472a72
+      internalID: -519843415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_54
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 218
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af23e04a0373383408f8f903ad8c0d9b
+      internalID: 1422591112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_55
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 142
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50c4746555bfe94f92b91a6e2de19f0
+      internalID: -1526608026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_56
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 175
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27962d718d3e6b64ba402c1e3b38cea8
+      internalID: 661016190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_57
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 202
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb48c8ed28465a46aa3eb43ac3f1b50
+      internalID: 241817340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_58
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 167
+        width: 95
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cac2a318dd79a43a9a1c068c1d3082
+      internalID: 1031308918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_59
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 172
+        width: 87
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b99e94a27df1c4eb6fba00e2bfd0cc
+      internalID: -2072181858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_60
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 151
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa998cc6d01e20468ced00952c7129d
+      internalID: -1947042883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_61
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 158
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edde7143aab12dc43bee1cb8d3dc95cd
+      internalID: -1611859266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 134
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a38ee61dc5e1c84ebf361497304ac4e
+      internalID: -1752986222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 122
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2446d14be7c5cd48843222f633a48c2
+      internalID: 529262385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_64
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 114
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00510887b22bed645a381e74f7ad9aa9
+      internalID: 1463897085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_65
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 158
+        width: 86
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86cf79cfe0c4cb4fa760af4877aa33a
+      internalID: -1704410993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_66
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 143
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67353319db8cb6c4abd6d1dec47ce041
+      internalID: 1232418421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_67
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 150
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc35d779ddace744b603935536e3031
+      internalID: -462581878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_68
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 142
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08139c91ed85f984c88eeaa92e82452f
+      internalID: 1724482080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_69
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 145
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2c53f55217ec043afbc9c90abe7b78
+      internalID: 1948441102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_70
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 150
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e1aa59f0fb9ec4eaa8cb7fbcb4f99e
+      internalID: -69575791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_71
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 171
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e47489be640194caf062d42ad8f5a3
+      internalID: -1669598593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 155
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0820a76f0e59f42418b54dbe74594837
+      internalID: -1592080086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_73
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 125
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c8e6aba100ab64f984e4e9076243c6
+      internalID: -78792816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_74
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 119
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798e58015743f6c49b5a6e6d45a7b7c3
+      internalID: -668529497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDemonZombieObject_75
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 143
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e9c8c3577496f40b8fdfe96e2183dc
+      internalID: 1086084883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SkeletonDemonZombieObject_45: -1419624526
+      SkeletonDemonZombieObject_73: -78792816
+      SkeletonDemonZombieObject_32: -1822015412
+      SkeletonDemonZombieObject_10: 1209692556
+      SkeletonDemonZombieObject_27: -1685602375
+      SkeletonDemonZombieObject_48: -2121820169
+      SkeletonDemonZombieObject_40: -964608104
+      SkeletonDemonZombieObject_28: -354745137
+      SkeletonDemonZombieObject_23: -59861480
+      SkeletonDemonZombieObject_36: -1301402961
+      SkeletonDemonZombieObject_64: 1463897085
+      SkeletonDemonZombieObject_39: 375579503
+      SkeletonDemonZombieObject_14: -1974015617
+      SkeletonDemonZombieObject_8: -396838308
+      SkeletonDemonZombieObject_52: 698317061
+      SkeletonDemonZombieObject_54: 1422591112
+      SkeletonDemonZombieObject_69: 1948441102
+      SkeletonDemonZombieObject_53: -519843415
+      SkeletonDemonZombieObject_55: -1526608026
+      SkeletonDemonZombieObject_21: -142761713
+      SkeletonDemonZombieObject_46: 462198266
+      SkeletonDemonZombieObject_7: 1983814539
+      SkeletonDemonZombieObject_20: -531545976
+      SkeletonDemonZombieObject_58: 1031308918
+      SkeletonDemonZombieObject_49: -561065752
+      SkeletonDemonZombieObject_35: 1915539703
+      SkeletonDemonZombieObject_38: 152722588
+      SkeletonDemonZombieObject_6: -821225769
+      SkeletonDemonZombieObject_42: -1427825669
+      SkeletonDemonZombieObject_62: -1752986222
+      SkeletonDemonZombieObject_56: 661016190
+      SkeletonDemonZombieObject_65: -1704410993
+      SkeletonDemonZombieObject_25: -425459017
+      SkeletonDemonZombieObject_67: -462581878
+      SkeletonDemonZombieObject_71: -1669598593
+      SkeletonDemonZombieObject_61: -1611859266
+      SkeletonDemonZombieObject_15: -2078155250
+      SkeletonDemonZombieObject_66: 1232418421
+      SkeletonDemonZombieObject_37: 1260460477
+      SkeletonDemonZombieObject_72: -1592080086
+      SkeletonDemonZombieObject_50: 1976479523
+      SkeletonDemonZombieObject_51: -335283392
+      SkeletonDemonZombieObject_31: -854657456
+      SkeletonDemonZombieObject_43: -794756446
+      SkeletonDemonZombieObject_19: 1219304681
+      SkeletonDemonZombieObject_0: -1513787549
+      SkeletonDemonZombieObject_13: -689811350
+      SkeletonDemonZombieObject_29: 2128926109
+      SkeletonDemonZombieObject_30: 1200697716
+      SkeletonDemonZombieObject_75: 1086084883
+      SkeletonDemonZombieObject_44: 1306420629
+      SkeletonDemonZombieObject_12: 2111484400
+      SkeletonDemonZombieObject_3: -617435025
+      SkeletonDemonZombieObject_74: -668529497
+      SkeletonDemonZombieObject_9: -1375994032
+      SkeletonDemonZombieObject_17: 1240052649
+      SkeletonDemonZombieObject_5: -2064284593
+      SkeletonDemonZombieObject_68: 1724482080
+      SkeletonDemonZombieObject_59: -2072181858
+      SkeletonDemonZombieObject_18: -1232565497
+      SkeletonDemonZombieObject_26: -1627964884
+      SkeletonDemonZombieObject_34: -309971299
+      SkeletonDemonZombieObject_63: 529262385
+      SkeletonDemonZombieObject_11: 841698956
+      SkeletonDemonZombieObject_47: 1986752649
+      SkeletonDemonZombieObject_70: -69575791
+      SkeletonDemonZombieObject_24: 1511994694
+      SkeletonDemonZombieObject_57: 241817340
+      SkeletonDemonZombieObject_4: 406237832
+      SkeletonDemonZombieObject_60: -1947042883
+      SkeletonDemonZombieObject_16: 91855786
+      SkeletonDemonZombieObject_41: 258096322
+      SkeletonDemonZombieObject_2: -430936899
+      SkeletonDemonZombieObject_33: -1068309783
+      SkeletonDemonZombieObject_22: -281773260
+      SkeletonDemonZombieObject_1: 1699263993
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

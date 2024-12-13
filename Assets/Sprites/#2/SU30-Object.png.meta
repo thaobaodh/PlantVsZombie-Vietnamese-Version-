@@ -1,0 +1,2386 @@
+fileFormatVersion: 2
+guid: 01fb4c9a64e68a949ab84c08f7e749e8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SU30-Object_2
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 986
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17d15dcceb27904ead568ef53b8823c
+      internalID: -715401123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 857
+        width: 242
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1036d8242a0e7074f88cf8c6bbd9c6cf
+      internalID: -1220640057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_4
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 865
+        width: 71
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e3db4c9f3ff2b4e945aa5173016605
+      internalID: -45224315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_5
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 974
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0ab2c3aec7aac4eaa9f76b7fa3b0b1
+      internalID: -809862622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_8
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 806
+        width: 167
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf1c22834c0ed14bb53753f5e6b0299
+      internalID: -1360588535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_19
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 716
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109e48705a1d42a4bbda3f16939b65e0
+      internalID: -1333526354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_20
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 655
+        width: 135
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ced41c5dba6c114d8fbe539dffb8ab6
+      internalID: 2136988689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_24
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 678
+        width: 82
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd10d95fc5e65764c80de5ba0a0a8bda
+      internalID: 557099811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 646
+        width: 180
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c767eee52b594c542a5be7b140794abd
+      internalID: 240289136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 590
+        width: 81
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c0bc6ee33dc4a4b9a9c60fba07f716
+      internalID: -531462801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_27
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 679
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6a1cefc0e4b1346b66ac9b4c13a89a
+      internalID: -315469228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_28
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 638
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63a9af1348431c4e8a7689976f15a7a
+      internalID: -784285971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_29
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 650
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e453d2676c43746a6b1f66a764eee2
+      internalID: 1759548463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_30
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 657
+        width: 131
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9913e22845e60547a9758b660f05ffb
+      internalID: 1584367771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_34
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 552
+        width: 115
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f68e2e44c77df64385ed819e2af69b3
+      internalID: -1630823219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_35
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 559
+        width: 125
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a807bb695b6f94db4c9d8e27df0d49
+      internalID: 1530523847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_36
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 595
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81d733bf1cad7b4fa47502b371d96d8
+      internalID: -1166277888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_37
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 560
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af444b285a438a648a4340314230c53f
+      internalID: -1727878781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_38
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 548
+        width: 113
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703830a2f1c2f242988e07ebf907623
+      internalID: -1782464047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_40
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 533
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f986e3da52a2d7548a891c16e4e5a977
+      internalID: -46470960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_41
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 545
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22fe6889adf1a54da7f5e93f4a185da
+      internalID: -1760442552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_42
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 525
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb505c596d23704c8456cc2216101bc
+      internalID: 1958771956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 474
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9cad72f57688647bf8742fd980a628
+      internalID: -1768864018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_45
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 513
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d122ff9db84b12408d3452716739663
+      internalID: -1961505684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 514
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a598c8648b7d954a8001cc3178c4767
+      internalID: -536175559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_47
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 535
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8a34379e086974fbfd963f500921c8
+      internalID: 1495650180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_48
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 473
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b9e362ce4d91343af8d2cb7882e9ed
+      internalID: 312033483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_49
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 478
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c525fe285f6cb47818a12ae498aa74
+      internalID: 1315755225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_50
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 509
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffa8a74b31663940a408772cf67e3b6
+      internalID: -1205249200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 494
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342b8e541d2de134c920d05ae52cb934
+      internalID: 2007805668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_52
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 482
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef762e27791d4d247906b9fdf81b45db
+      internalID: -295528915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_53
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 455
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8243c81cb653261438e4957a3184edeb
+      internalID: -1082818521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 423
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2dbb9434d7c9547b985b287b92e445
+      internalID: 821780521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_55
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 446
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dcad668a4eac040b1994e54738ae50
+      internalID: 1818256621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_56
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 451
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2793da86cc559da4e8bafc9451ca5192
+      internalID: 637341653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_57
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 466
+        width: 77
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dba99c379b9fd4783621f910ebc15a
+      internalID: -1671710994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_58
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 462
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4cceaa2d75efa4d92cf49c5ac4e79e
+      internalID: -1722649372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_59
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 462
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b35a47a0fcd544683be79eae76911e
+      internalID: 1417714062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_60
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 431
+        width: 75
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496cc88c7d309cd4b92a3539480f8273
+      internalID: -2108563784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_61
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 446
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0598ed3ecc4c0e748b33ce1897820b9f
+      internalID: 702463741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_62
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 439
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d921076aece3e444b64c608e71109b0
+      internalID: 1596119224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_63
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 427
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97837ee3b7291844db174b6d57aded48
+      internalID: -1324428470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_64
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 427
+        width: 74
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0679794d199024f9d9e42793f520b1
+      internalID: 1339153476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_65
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 427
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37454a597715b254391c9ff85ad252d0
+      internalID: -126487118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_66
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 435
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e9136a0701bcf41ac5b727c2e61062
+      internalID: -686766488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_67
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 427
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc7b4dabad6fb34f97dd38f952eee60
+      internalID: -1087315723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_68
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 416
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f023fde87709ab479352e0f929bb166
+      internalID: 163817750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_69
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 408
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c66dd83da455ef40952ced8b02afabc
+      internalID: -375366751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_70
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 404
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b4f5fc5875184b86347c03cb0516f
+      internalID: -973049050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_71
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 416
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c7cfe85fb51e14fa1f20a90c47e05b
+      internalID: 1913795279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_72
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 416
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4aeb1a900f74442b39909662902557
+      internalID: -274392986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_73
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 420
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37207a41cefee034db1ed667ee4b21dc
+      internalID: 2051305396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_74
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 385
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a74454af90a89e46ac3d147e6f3d2d2
+      internalID: 1167191610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_75
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 389
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a42a3507b19fa419dd06545117b87c
+      internalID: -999667701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_76
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 385
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992cda1cef3222544be9ac7d0c032931
+      internalID: 1731007375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_77
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 384
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a01f328dafce547956773499b44b22
+      internalID: -2146627651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_78
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 408
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d7957240c508c4c80350d3d3733255
+      internalID: -44866388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 379
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6404045f8fc943a43acd5f1074f56635
+      internalID: 1523391870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_80
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 361
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313c940b0470ead49b85e690cb07a550
+      internalID: 1594964982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_81
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 361
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629be5ac20c99ba4a90bf24a4276d75f
+      internalID: 1901991178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_82
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 338
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10269bb69591fb848a09f2610b2175db
+      internalID: 629392332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_83
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 323
+        width: 28
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a570afc9bc228b047a9f3683577d9a5a
+      internalID: 233374031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_84
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 366
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac2d605c5cca2d4a8de999202c08ed3
+      internalID: -1430789674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_85
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 366
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5e2bddef0179e45a7f5bddcc74264e
+      internalID: -107794564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_86
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 369
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034f89b694876764f8d518ecb8e57515
+      internalID: -31258775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_87
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 378
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31c4cb611a8ce64ab19b949325daaf5
+      internalID: -1243310178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_88
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 373
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c2337435338ce40bd70394dfd4934e
+      internalID: 933474770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_89
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 380
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad49adae73ec32b4ebd4fa0823016ddb
+      internalID: 161183201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_90
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 388
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079eeda134e2e9f4bbb54eaaacb3b043
+      internalID: 929919414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_91
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 381
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddb3b31720afa84ca94c589fad8f590
+      internalID: 247531789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_92
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 384
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3838aaea79c3f4147b6933f77d4ad292
+      internalID: 736336588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_93
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 357
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9b3fc5f6671494c807004edb14876c
+      internalID: 190223915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 341
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bb0163499ce8c48925655f50f8fbf5
+      internalID: -1167555925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_95
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 330
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905f089dc9460ac42883a708f583dfaa
+      internalID: -1062774092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_96
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 330
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36f270277ad0684fb11f4fcabc63faa
+      internalID: -1381781329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_97
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 330
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd94b404b804814f8386f3e5338bca0
+      internalID: -1541954665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_98
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 330
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd894261ede33a48a631c756f41bca5
+      internalID: 1799044045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_99
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 339
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4510b4a035fbc845909f5a63c62b84b
+      internalID: -2060438116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_100
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 345
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94b74049d4fba54c9bb11a4acc88c2e
+      internalID: -1382606010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_101
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 345
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7409992fd814b5b43b4b853f28d0375d
+      internalID: -2036406965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_102
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 345
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf61bdda4b20854a83ac0f1729a32ee
+      internalID: -1245291848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_103
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 341
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f81ecc087007941b691572f28dd142
+      internalID: 1127821365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_104
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 345
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eddc551623cb44292253146922f7d4
+      internalID: -2007878947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_105
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 345
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25338b3d8966060429438c32afca6e8f
+      internalID: -331335870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_106
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 334
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebf72d2c58d79c4e806c1bd243b6edc
+      internalID: 1118094589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_107
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 343
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bf909b2eba2154492bf52680c16293
+      internalID: -360540209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_108
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 355
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425bad06e40781d4780347be21a180c7
+      internalID: 722156483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_109
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 337
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49a4b558824e7340a07a376655cfa51
+      internalID: -1763593128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_110
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 334
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58ac2561aa56244a520123f747fb3d
+      internalID: -1521646805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_111
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 330
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f7e49dffb678f479c47205b25d79d5
+      internalID: 2015167896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_112
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 330
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a0aa0aa6cf61f4c849a2418ddf03e5
+      internalID: -159821383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_113
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 330
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0025bfe9ce6b53438b1b8dac06248c2
+      internalID: -1992236100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_114
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 321
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7be3a336545cc4c918e4799c6d0aa5
+      internalID: 1660365778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_115
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 321
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec4a27c35c4d2442bc2574063803e88
+      internalID: -1319618310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_116
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 318
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393811f49538d5e41b23cc6a8c2c0626
+      internalID: 1390562675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_117
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 326
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1f88e1e8f412747bfdfb3f99c86585
+      internalID: 1256979188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_118
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 326
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90727875bec5314e8e6ec156775e03b
+      internalID: -421208141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_0
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 766
+        width: 173
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e817af1f2b2de14895c2c24fae67e72
+      internalID: -1547322768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 768
+        width: 169
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21b33467a54a634d9d43ba82175b6dc
+      internalID: 394486706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 635
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ed38803eedd3240b81456cb96fe2e7
+      internalID: -1249882204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SU30-Object_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 588
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef8e776d0848bd4ebb8d8a24f8cd9f4
+      internalID: -925144891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SU30-Object_115: -1319618310
+      SU30-Object_21: -315526065
+      SU30-Object_25: 240289136
+      SU30-Object_102: -1245291848
+      SU30-Object_114: 1660365778
+      SU30-Object_8: -1360588535
+      SU30-Object_101: -2036406965
+      SU30-Object_85: -107794564
+      SU30-Object_30: 1584367771
+      SU30-Object_49: 1315755225
+      SU30-Object_9: 2127560729
+      SU30-Object_111: 2015167896
+      SU30-Object_87: -1243310178
+      SU30-Object_93: 190223915
+      SU30-Object_50: -1205249200
+      SU30-Object_92: 736336588
+      SU30-Object_78: -44866388
+      SU30-Object_3: -1220640057
+      SU30-Object_105: -331335870
+      SU30-Object_81: 1901991178
+      SU30-Object_66: -686766488
+      SU30-Object_17: 1318637415
+      SU30-Object_106: 1118094589
+      SU30-Object_75: -999667701
+      SU30-Object_42: 1958771956
+      SU30-Object_44: -1768864018
+      SU30-Object_10: 1230777695
+      SU30-Object_54: 821780521
+      SU30-Object_53: -1082818521
+      SU30-Object_73: 2051305396
+      SU30-Object_107: -360540209
+      SU30-Object_118: -421208141
+      SU30-Object_63: -1324428470
+      SU30-Object_110: -1521646805
+      SU30-Object_77: -2146627651
+      SU30-Object_55: 1818256621
+      SU30-Object_72: -274392986
+      SU30-Object_14: -747907967
+      SU30-Object_41: -1760442552
+      SU30-Object_26: -531462801
+      SU30-Object_91: 247531789
+      SU30-Object_0: -1547322768
+      SU30-Object_40: -46470960
+      SU30-Object_45: -1961505684
+      SU30-Object_6: -1249882204
+      SU30-Object_37: -1727878781
+      SU30-Object_113: -1992236100
+      SU30-Object_29: 1759548463
+      SU30-Object_83: 233374031
+      SU30-Object_65: -126487118
+      SU30-Object_16: 158648115
+      SU30-Object_60: -2108563784
+      SU30-Object_32: 1018176640
+      SU30-Object_36: -1166277888
+      SU30-Object_61: 702463741
+      SU30-Object_70: -973049050
+      SU30-Object_117: 1256979188
+      SU30-Object_80: 1594964982
+      SU30-Object_56: 637341653
+      SU30-Object_76: 1731007375
+      SU30-Object_11: -525903513
+      SU30-Object_13: 1553117760
+      SU30-Object_19: -1333526354
+      SU30-Object_34: -1630823219
+      SU30-Object_116: 1390562675
+      SU30-Object_51: 2007805668
+      SU30-Object_64: 1339153476
+      SU30-Object_58: -1722649372
+      SU30-Object_62: 1596119224
+      SU30-Object_74: 1167191610
+      SU30-Object_88: 933474770
+      SU30-Object_98: 1799044045
+      SU30-Object_68: 163817750
+      SU30-Object_5: -809862622
+      SU30-Object_27: -315469228
+      SU30-Object_7: -925144891
+      SU30-Object_57: -1671710994
+      SU30-Object_28: -784285971
+      SU30-Object_108: 722156483
+      SU30-Object_103: 1127821365
+      SU30-Object_48: 312033483
+      SU30-Object_2: -715401123
+      SU30-Object_20: 2136988689
+      SU30-Object_71: 1913795279
+      SU30-Object_69: -375366751
+      SU30-Object_15: -2097784719
+      SU30-Object_89: 161183201
+      SU30-Object_96: -1381781329
+      SU30-Object_18: -1566963075
+      SU30-Object_22: -48526978
+      SU30-Object_59: 1417714062
+      SU30-Object_100: -1382606010
+      SU30-Object_47: 1495650180
+      SU30-Object_23: -423189927
+      SU30-Object_43: 364693942
+      SU30-Object_104: -2007878947
+      SU30-Object_67: -1087315723
+      SU30-Object_99: -2060438116
+      SU30-Object_12: 1163350763
+      SU30-Object_33: -1402609664
+      SU30-Object_31: -951482019
+      SU30-Object_35: 1530523847
+      SU30-Object_46: -536175559
+      SU30-Object_94: -1167555925
+      SU30-Object_90: 929919414
+      SU30-Object_112: -159821383
+      SU30-Object_52: -295528915
+      SU30-Object_84: -1430789674
+      SU30-Object_38: -1782464047
+      SU30-Object_86: -31258775
+      SU30-Object_24: 557099811
+      SU30-Object_95: -1062774092
+      SU30-Object_97: -1541954665
+      SU30-Object_82: 629392332
+      SU30-Object_39: 1849659526
+      SU30-Object_109: -1763593128
+      SU30-Object_1: 394486706
+      SU30-Object_4: -45224315
+      SU30-Object_79: 1523391870
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

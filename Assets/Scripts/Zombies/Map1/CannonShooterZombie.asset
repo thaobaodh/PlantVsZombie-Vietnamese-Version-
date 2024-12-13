@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3e3897aad074a43917976806a86ad1, type: 3}
+  m_Name: CannonShooterZombie
+  m_EditorClassIdentifier: 
+  zName: CannonShooterZombie
+  health: 100
+  speed: 0.005
+  damage: 5
+  range: 5
+  eatCooldown: 10
+  model: {fileID: 6229579707742816547, guid: 6d837268c22270f4a84bf4d56c837dee, type: 3}
+  tool: {fileID: 0}
+  hitClips:
+  - {fileID: 8300000, guid: f8fe306eefb10a341bdd8cf4ee8a65b6, type: 3}
+  - {fileID: 8300000, guid: ab34f0e2827ac9144b31efbeffc1d4fe, type: 3}
+  - {fileID: 8300000, guid: b9c686fa2a958f247b8f2c8241cd7b22, type: 3}

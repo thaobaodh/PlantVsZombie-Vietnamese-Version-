@@ -1,0 +1,1173 @@
+fileFormatVersion: 2
+guid: 352b19b076e44b441b50dd315254d71b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedImpObjects2_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 976
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa0f99b28df952459239bb0ed713da3
+      internalID: 304563277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 975
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eba20d6f311aa428ba62653c2a356f
+      internalID: 1379485713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 976
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f170cb99a3230478e7b0bd6d45fee0
+      internalID: 1493381654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 990
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f091de32f4c704a8f18b15c3d0cfc9
+      internalID: -106933595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 992
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cac58a05de2fa849aec77a305f42adb
+      internalID: -1930901235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 990
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f1810bb3fc8a0469ce92dddd518930
+      internalID: 1621069096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 990
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64946649ccacac74493f9c813cffcf51
+      internalID: -715894091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 994
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca1092c96067a348acaed1e2637ffc8
+      internalID: 184193575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_8
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 990
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe70f4123262a4ba57dad3b0615102
+      internalID: -1368334221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_11
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 960
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c48e88b55a262b4a8029340457cae2a
+      internalID: -921528906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 954
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aba02622d1fb1c45ba6d382bcfb42c3
+      internalID: 1386226804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_20
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 974
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8bd0a01740e284f8d540207290d3a1
+      internalID: -1882675069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 979
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25be879d5ac14942b1411269ea6822e
+      internalID: 1154381604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 979
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c775249e207c4b43a5b93ce3b9c382a
+      internalID: -116349325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 985
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9800af2120d978f4984df95cc7f24aa6
+      internalID: 2035631974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_26
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 956
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d16ef88f59bbd409d2db2a3c77601d
+      internalID: 1795824060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_27
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 962
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31f37d679d91594fb2d34ca8cf2e173
+      internalID: 888808765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 950
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afab718c4fd0da84c9a71789f32867a5
+      internalID: -199228459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_29
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 954
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d860633a631e84aa8316c6d6c33cf6
+      internalID: -1205650320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 980
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9fdae67b2840144b48f99338653480
+      internalID: 444002006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_33
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 948
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da18d888955bb7747a7c6f4d12d12aa6
+      internalID: 1186017962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 950
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ba050331dd94f469133be41ed5aaf2
+      internalID: -561944463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 952
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67f77793a60f7e4c995fac8f7068255
+      internalID: 2008770914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 958
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c7351d5cb163549ad432fdff8889d2
+      internalID: -378875950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_37
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 950
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48127ca9f16079343bb452dfa96a2b69
+      internalID: -1027040650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_40
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 946
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf4fa878cbcec145b2ed60cf9ceb790
+      internalID: -1185479091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_42
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 814
+        width: 221
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85614f5b1fe375944bb0cc70d7f557ac
+      internalID: -1071195856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_46
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 826
+        width: 221
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65e393f818a24541a75e40372fcc2ba
+      internalID: -1963964319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_47
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 921
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aed415bbe49774487fc6be1e632abf
+      internalID: -1465024907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_48
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 913
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79c2035e78af474b98a83f136383972
+      internalID: 247931881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_49
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 911
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3152078bcfa85ea469d396a431272e6e
+      internalID: -1702033706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_50
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 937
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c855e0aa2632e43bf4be4b7a4ecfb3
+      internalID: 302217315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_51
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 918
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a72c283735bdb04582a2521a4259c75
+      internalID: -934552747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 757
+        width: 219
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa260f7f6d8d354eae7a9b4d8585481
+      internalID: 1058263952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_61
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 871
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4a891891b7dd1478ce8c8f5e67ebe3
+      internalID: -60821654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_62
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 894
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3be1ded0e9ac7489f84e0f711daf6c
+      internalID: -1739808132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_63
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 858
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe215d4d6f9b3a4b936742266b36711
+      internalID: 1036647637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_65
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 874
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1e60d8f5095cc48ba050218f7c8fef
+      internalID: 1709450074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_66
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 874
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ff30c16ada91346b8b1ec2cbf8c335
+      internalID: -232196583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_71
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 673
+        width: 235
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186178a88479f4542966cefd5e0d41d7
+      internalID: 528845074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_73
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 838
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d808d8db60e3664c8e678f4adfb8177
+      internalID: 721656698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_77
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 599
+        width: 234
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc84e40b7fd09a488143969fbf38f3a
+      internalID: -1137469940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_78
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 622
+        width: 232
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f954dbbf204d0d841851ebb0cc204996
+      internalID: -1956963744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 221
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da02ffba83a307741aeffbe88354353a
+      internalID: 1376046548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedImpObjects2_81
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 483
+        width: 232
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae42f3c4cb909004396a86873cccffb7
+      internalID: -658736878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RedImpObjects2_29: -1205650320
+      RedImpObjects2_57: 1058263952
+      RedImpObjects2_78: -1956963744
+      RedImpObjects2_46: -1963964319
+      RedImpObjects2_35: 2008770914
+      RedImpObjects2_50: 302217315
+      RedImpObjects2_62: -1739808132
+      RedImpObjects2_73: 721656698
+      RedImpObjects2_59: 1443291471
+      RedImpObjects2_41: 1592697636
+      RedImpObjects2_64: -428980898
+      RedImpObjects2_60: -1299137926
+      RedImpObjects2_37: -1027040650
+      RedImpObjects2_70: 972998634
+      RedImpObjects2_48: 247931881
+      RedImpObjects2_71: 528845074
+      RedImpObjects2_14: 1386226804
+      RedImpObjects2_56: -134299229
+      RedImpObjects2_75: -160777708
+      RedImpObjects2_45: 1145029533
+      RedImpObjects2_54: 658323169
+      RedImpObjects2_58: -601873395
+      RedImpObjects2_47: -1465024907
+      RedImpObjects2_1: 1379485713
+      RedImpObjects2_38: 1339837137
+      RedImpObjects2_12: -1147255881
+      RedImpObjects2_68: -653766309
+      RedImpObjects2_13: -1399003508
+      RedImpObjects2_80: -1829378260
+      RedImpObjects2_66: -232196583
+      RedImpObjects2_61: -60821654
+      RedImpObjects2_81: -658736878
+      RedImpObjects2_30: 444002006
+      RedImpObjects2_55: 1343056894
+      RedImpObjects2_26: 1795824060
+      RedImpObjects2_53: 1143592747
+      RedImpObjects2_4: -1930901235
+      RedImpObjects2_17: -1116251971
+      RedImpObjects2_67: 1882068203
+      RedImpObjects2_65: 1709450074
+      RedImpObjects2_77: -1137469940
+      RedImpObjects2_39: 539398485
+      RedImpObjects2_51: -934552747
+      RedImpObjects2_19: 2113228747
+      RedImpObjects2_6: -715894091
+      RedImpObjects2_3: -106933595
+      RedImpObjects2_15: 1760605931
+      RedImpObjects2_33: 1186017962
+      RedImpObjects2_44: 1302159738
+      RedImpObjects2_10: -134227847
+      RedImpObjects2_74: -678950209
+      RedImpObjects2_11: -921528906
+      RedImpObjects2_23: 2035631974
+      RedImpObjects2_49: -1702033706
+      RedImpObjects2_42: -1071195856
+      RedImpObjects2_36: -378875950
+      RedImpObjects2_72: 652268400
+      RedImpObjects2_27: 888808765
+      RedImpObjects2_63: 1036647637
+      RedImpObjects2_52: -565151450
+      RedImpObjects2_21: 1154381604
+      RedImpObjects2_0: 304563277
+      RedImpObjects2_69: 449870998
+      RedImpObjects2_16: -1314741268
+      RedImpObjects2_22: -116349325
+      RedImpObjects2_76: -1954137237
+      RedImpObjects2_24: -710952287
+      RedImpObjects2_32: 1284115953
+      RedImpObjects2_5: 1621069096
+      RedImpObjects2_79: 1376046548
+      RedImpObjects2_9: 1234167570
+      RedImpObjects2_25: 91201166
+      RedImpObjects2_28: -199228459
+      RedImpObjects2_20: -1882675069
+      RedImpObjects2_40: -1185479091
+      RedImpObjects2_8: -1368334221
+      RedImpObjects2_34: -561944463
+      RedImpObjects2_7: 184193575
+      RedImpObjects2_43: -1446443580
+      RedImpObjects2_2: 1493381654
+      RedImpObjects2_18: 1987035316
+      RedImpObjects2_31: 890459876
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5529 @@
+fileFormatVersion: 2
+guid: 7d642b7ae704e0041984f129f2c1252d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PilotZombieObject_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1858
+        width: 231
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62afc46e0e1797e40a3ca99c2b27ac2a
+      internalID: 1694300588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_2
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1886
+        width: 269
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3ed03903b44f947b88bb66e31e75f2
+      internalID: 672261584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_3
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1791
+        width: 176
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3269858c90258f2499f4d30e0d5e0f85
+      internalID: 122635507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_4
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1910
+        width: 90
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23423ea49f8e6ee43866befbb6c76693
+      internalID: 1980148143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_5
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2021
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5421a649d15c14799c0184da80b677
+      internalID: 787626733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1762
+        width: 159
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e2710c30446f44c9f1eeb1ff29c539
+      internalID: -1279971614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_7
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1990
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e73e84902cb902468d51186d6c30b73
+      internalID: -289604963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_8
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1967
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb650dadc6aef14f9557392e7ff6b29
+      internalID: 82172820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_9
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1942
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c17928eea0af742bd0f188b98b5c22
+      internalID: 1908587935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_10
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1918
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ba1739f7a8ae64bb186e9b5ee8f909
+      internalID: 1871829922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_11
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1794
+        width: 97
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d295fd91f507aab40afb9ce1f6e9f680
+      internalID: -868835511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_12
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1873
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dc14f2cdd970642b069e326b75a81e
+      internalID: -664818256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_13
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1822
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9431848e05ce15a48b8cfe4c5d345470
+      internalID: -914154224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_14
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1797
+        width: 101
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fcb6bd0a85e6c4e9998ad0c5ca80e7
+      internalID: 1716537856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1736
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035b1ae8ae3cffe4090651363e8d0eef
+      internalID: -1471345479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_17
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1618
+        width: 122
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2201dba1797639b48959b705f812688d
+      internalID: 1705354002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_19
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1792
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00d1f88269fcb344ab4f042a736b457
+      internalID: -891744736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_20
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1788
+        width: 19
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699cf60a7f69ab44f8e25d196a31ff1d
+      internalID: 1381567796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1599
+        width: 143
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b745815c431ffd45bb1cf99e611cada
+      internalID: 1151988497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_22
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1634
+        width: 219
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce20628e25e1dc4cadfc2ba63014596
+      internalID: -805190405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_24
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1737
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4d2d06a2f5000499b38c4a3db843e9
+      internalID: 684699489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1598
+        width: 179
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839922f8cf99aed4fab63d59f04bfb3b
+      internalID: -231603024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_26
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1650
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078517738e96f934da1b000d56f3e268
+      internalID: 1965335604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_27
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1570
+        width: 103
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b0521dc2aa334b95036781390b0ed
+      internalID: -1011349675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_28
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1685
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c239a5e213d0f42b4551c36c8ae4cc
+      internalID: 31025641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_29
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1610
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16104731198d94d45a3d8f9ba2d17e4e
+      internalID: 10018303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_30
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1627
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfffa0992649424faf1ea2a72ad08e5
+      internalID: -1378016034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_31
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1638
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c273e0e3a8f4864284a1ff6bf22fafd
+      internalID: 604727045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_32
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1585
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c414fecf599eb47adc7536774f99e5
+      internalID: 1350392476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_33
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1628
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab52c517be8bd1f4c9b0d68e72dea09d
+      internalID: 1081522338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1606
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4f25492c068249868867702612f17
+      internalID: 1346072243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_35
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1487
+        width: 193
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a718b9e629b336445955d4a64337bf3f
+      internalID: -257160315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_36
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1582
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c52e128e19fa84c83eb6b5e3bc8afb
+      internalID: -255259228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_37
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1584
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4d4b86818771748b39176dd20e02af
+      internalID: -369280421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_38
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1595
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cff81158c7b154e8b21e24c60a23bf
+      internalID: 1592636630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1394
+        width: 123
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c96f1115643e584dbde957dbc89f3b7
+      internalID: 1735734571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_40
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1509
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c3c492cf66a1347b2881d44d11ba8c
+      internalID: 1401377844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_41
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1481
+        width: 190
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575dd7ef440e1224d898271a5c0b69cb
+      internalID: -1265686455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_42
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1554
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791ddfff803e0ed4294dfae57adef52f
+      internalID: 1177042422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_43
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1568
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8deea5ac0b2414d82bbb66ebd878cb
+      internalID: -1330297804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_44
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1558
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee47da8082ec914d8c5ed7fd46d9990
+      internalID: 1413667207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_45
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1560
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9727ad3ffb5c4bb49848501b01ccb931
+      internalID: 121996175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1438
+        width: 175
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3bac30132ee06429d169c5b770623e
+      internalID: -458605628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_47
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1538
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9939235c1962d41429cf581b505321b7
+      internalID: -627376549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_48
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1442
+        width: 175
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c8735fff97c04ca892782542f14f1
+      internalID: -1850496216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_49
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1522
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eb947d3fe0c0d4d909af8fce7fdf6e
+      internalID: 310237907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_50
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1510
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fab1cf1084e3bd4db84ab2c0f4a6128
+      internalID: -1466517009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_51
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1506
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5152453c90eb8044eaa07a72be7a4c4a
+      internalID: -1660091915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_52
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1477
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333c774f9ff5f1b49b68eb8712734b66
+      internalID: -1339656126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_53
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1498
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f694481ce2f43fb4587624bf4d8740bf
+      internalID: 200592232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_54
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1490
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87282e95ef82f7448becc110d470df8
+      internalID: 1340493693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_55
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1473
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc16e8d6ba7fa24e811fee71aaa81d0
+      internalID: 1507098728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_56
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1374
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2611e47c0b7bd943ab8c59518ca2335
+      internalID: 912306556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_57
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1358
+        width: 193
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425dd731029acd947a0b397c48192e13
+      internalID: -2144712477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_58
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1464
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3ce5880a3846149ae6e97bc2896d66
+      internalID: 1752360026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_59
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1359
+        width: 147
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da94b873c3e6f304bb2f34dfc08aa1c7
+      internalID: -352636082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_60
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1448
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce1ef36a1c428745b27062ccac69121
+      internalID: -282665641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_61
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1267
+        width: 89
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0b3c482e236b54caa3c6ccbf37f873
+      internalID: -1016157905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_62
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1398
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2049a73cdc0d9654480c73c2ea7a775e
+      internalID: -261051123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1398
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00eefc9a7b7ac84799c3675998f5501
+      internalID: -160438061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_64
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1330
+        width: 141
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd0ee28f34ab85479db690445e07c05
+      internalID: -1091109176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_65
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1386
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ebb4697278814aabbec72856fa6ab
+      internalID: -1819208232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_66
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1364
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff68c61f4af23549b0583f9b8f04ab8
+      internalID: -1797022312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_67
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1376
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed048fe6fa49a7240b9d9a6d464b7de1
+      internalID: -395166907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_68
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1326
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673b8f5867a4bbd4fb0cdec564b981a7
+      internalID: -1728179027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_69
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1290
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be840d4eaa07f7a458674a3b76a05dc8
+      internalID: -1150806189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_70
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1358
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3431cf58805547944a5943b3ebb94449
+      internalID: 1750537573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_71
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1358
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4d1a4b7603b1642a0c2bb7accb587d
+      internalID: 1538703529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_72
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1361
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc6fdb1f302b9546a862af15d2925a5
+      internalID: -760001379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_73
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1261
+        width: 147
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a317e7be3b68d2f4a888fc4013ee123b
+      internalID: 2087195690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_74
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1222
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3edad8f6f319242a3859a3813a3292
+      internalID: -1959186187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_75
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1255
+        width: 161
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d42112d2357ce844b7a97b39318d810
+      internalID: -1335339318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_76
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1226
+        width: 107
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e3ffcacf5f31440bc6fabfcf83867b
+      internalID: -1945332068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_77
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1338
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f5e840bcc486c40b7471419e65731b
+      internalID: 250169353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_78
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1326
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400e060b0ec41ac4c95a74e0dab73376
+      internalID: 1405874389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_79
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1158
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9414cf964a54d4493ce863db6a4ad2
+      internalID: -699735234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_80
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1173
+        width: 127
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cba19b62573854cb6b2d03b59a8146
+      internalID: 1525745931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_81
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1148
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b6bb92281b7ba4cba56a15954e7788
+      internalID: 300220655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_82
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1214
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e35263b9149e7a43982dda4bb363a37
+      internalID: 507157034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_83
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1170
+        width: 123
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e39fe549869ff640877a9dcb55f5874
+      internalID: -256746908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_84
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1227
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685a062ee56af2343a534ad9c89fa57c
+      internalID: -1910613669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_85
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1190
+        width: 110
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f5b7531d07c8e4d8b5f00dabe84146
+      internalID: -912007306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_86
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1237
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f44be22e513644caf4df99b60c7944
+      internalID: -1548847088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_87
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1218
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff4e11241afed84588ff0225a5381b0
+      internalID: 1020475284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_88
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1195
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b3590220df53a4fa60ffcc70ac9163
+      internalID: -2116845882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_89
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1198
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a557ed1b433f6e941b4e2f355574aa8c
+      internalID: -341164410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_90
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1194
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f634368bc599de4bac2767e54608817
+      internalID: 1803492461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_91
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1207
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a49b97e2b67554c817dbda10a9da54
+      internalID: 1706805007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_92
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1118
+        width: 109
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32249eb7677101d4bb78cd81d95a1daf
+      internalID: 378420243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_93
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1194
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40436581834ba7c489d652b444ad037a
+      internalID: -472502928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_94
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1110
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63979b5cac824b44d82ad5b82a1ee087
+      internalID: -1532924297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_95
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1205
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da96f679dce040d4d825dbf3739a519f
+      internalID: -560244654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_96
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1174
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4dfaa6e95816541abb4d28eeb45171
+      internalID: -2050611862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_97
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1190
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df157a435a681df4fb8e8a866305eaef
+      internalID: -1074805919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_98
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1194
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce39e5e8c90e604429a2674e5bcfe824
+      internalID: 1022776959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_99
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1175
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e219293865ee63a41872d36068aca5ad
+      internalID: -790977653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_100
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1130
+        width: 175
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5ac637301203547805900bdb5d0eec
+      internalID: -1658147117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_101
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1130
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf19eaa7e81cb74883f0368616a90f2
+      internalID: 835623499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1054
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4fe6755e492c849a3da992589d60de
+      internalID: -1009760392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_103
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1064
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287b90a3240a1504f9ae7287b2b4cd76
+      internalID: -1514169200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_104
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1146
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e396003d79793e4da4e969e1519a067
+      internalID: -1466161347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_105
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1146
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6826fc684c3ca4b964800c627b78dd
+      internalID: -1347546483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_106
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1146
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a949a102aa7524c97ee6344a161317
+      internalID: -1096577780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_107
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1070
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fd691b0c8c72b47b7943d4225ed933
+      internalID: -368967578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_108
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1132
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd20720d04c99b74d8291546e6e7c462
+      internalID: 1726447334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_109
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1134
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd075f0c49f99214c8b49cc69fcfae4b
+      internalID: 1403150397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_110
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1122
+        width: 55
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec239805420ad54faac7f5b6d3a0b5c
+      internalID: -210054760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_111
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1128
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4172b5203ab58a41b106a0ebf19230c
+      internalID: 1026258399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_112
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1141
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955ab2e21d936274fa58ca7a58a56847
+      internalID: -805115286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_113
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1072
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee44de5007d21e745b1385b1472650be
+      internalID: -1181574869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_114
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1026
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33297b32c4874b4895a0319beeb7516
+      internalID: -1908122960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_115
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1086
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0dc95ff9423604c8c414cc3443a119
+      internalID: 325045857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_116
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1098
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6367aef17f3baaa4d84c2c4690612608
+      internalID: -327739823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_117
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1056
+        width: 111
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66193b2c3956fd044ae9dcf030f4783e
+      internalID: -787932902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_118
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1110
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c52e0e57cc62a49b8b52aa6a72f06d
+      internalID: 1643377659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_121
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1034
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f970ebd05313d4e85f834ac372b160
+      internalID: -1643158630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_122
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1062
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44d241df36d3c8439739106e86f2756
+      internalID: -2067235062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_124
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1072
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5b75e4c2e3ddf4b80b9e1a00f4de5c
+      internalID: 2137963987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_125
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1082
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecc3b106108691469c7b09fa676b2f4
+      internalID: -1364501037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_133
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1070
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f101125b90bd0949b5acc6e4d270baa
+      internalID: 938238614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_138
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1066
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a856b9c64559d554dbbecd51a0b6c9c6
+      internalID: -501805299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_140
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1050
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5459117cdb23654ebcd7e74ee809752
+      internalID: -619548547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_146
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1053
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e9c17e17d3f534b8051c4ef1654e88
+      internalID: 636180015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_149
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1022
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b1611d9e7a2124b99fe43fb036417a
+      internalID: 416940931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_151
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 950
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a71ffbcaadfec4585b347db14c4ead
+      internalID: 1752935722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_152
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1026
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e93205161ec64948b762059c2aa66f8
+      internalID: -737431350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_156
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1018
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317664d50dcb93840a366c7e8c3dde6a
+      internalID: -301060649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_157
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1018
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71537010e44595c47817cb92e351c82e
+      internalID: -1297220016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_158
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1018
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66a6872d51f4304b945d3e9e711c2dd
+      internalID: 104749942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_159
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1014
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5ae2d32856bee49b34c3a65090b4c7
+      internalID: -839974485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_160
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 982
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156994b14f825e644ae7f0260f02955e
+      internalID: 370895565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_162
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1004
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eb209b55ce6b046b504a0ebbcc0c5a
+      internalID: -733903708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_164
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 983
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6232963a5d040034ca3e13a0fdbf70bf
+      internalID: -1585222168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_165
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 986
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf314f908ddacd429368b7935c89ebd
+      internalID: -425642155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_166
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 918
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4014e65bc4ac8649bf442dbd36c59e4
+      internalID: -79783328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_167
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 951
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08401488fdf7f3449ad8c4675cf9008a
+      internalID: 1482233719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_168
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 951
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ae9606792d18340aaaaf12fd65ed0b
+      internalID: -1598060883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_169
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 958
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c9e355b0378944492aaeef5a286cdd
+      internalID: 1032742863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_170
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 874
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8423844e2f0a084c840fff8bd612892
+      internalID: -301454549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_171
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 902
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3e109e036342a4a86ae8f5fbf31e10
+      internalID: 792806701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_172
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 902
+        width: 75
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377a0e8742cafe148823f429f289594f
+      internalID: -1054401796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_173
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 967
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225f5f780e7b30f45901a9a71da82003
+      internalID: 736076042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_174
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 912
+        width: 111
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e76303a4b8b874c9724adc2f2ef494
+      internalID: 1403893125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_175
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 902
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6aeaa507cf8ab42a6fea0a6fa51cd6
+      internalID: 1049329330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_176
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 938
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38a4d017d83dfa439a7c0e4e828c7cc
+      internalID: -55694891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_177
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 898
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f4ff3cd6093c743b40a99fb16854e4
+      internalID: 277339135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_178
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 876
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e624602a8fe20ab408b6a2c8543b9a19
+      internalID: 607301211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_179
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 878
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962c1724e5a814f4497eac70db35b8cd
+      internalID: 499408994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_180
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 888
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec66ed48935e30499b2a427dd9f141a
+      internalID: 1146811378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_181
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 882
+        width: 92
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943d6d4cc6b37fc47b520c1a8927ff3b
+      internalID: 1544166034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_182
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 870
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a02af53b78dce04197c583e45d15e7a
+      internalID: -598755336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_183
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 910
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8abac4e23812ff4d9a2eefaa6b03e90
+      internalID: -1601783376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_184
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 910
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca2d30e1c9ce5f4f9a5ed5db6b74857
+      internalID: -155520770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_185
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 864
+        width: 97
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2565b4e78fd96f49bb1d1aa6517e736
+      internalID: -431031851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_186
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 826
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91000c9c80709f4994c07e90764d42d
+      internalID: 1715634744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_187
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 846
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a373d9f6fb46b4fae7c93f962553a0
+      internalID: 288774836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_188
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 876
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dfa7decfcbc9144954dc7eee8438dc
+      internalID: -1072633896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_189
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 848
+        width: 91
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9c44cbc7cca3f4ba0823d2f65de495
+      internalID: -714277090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_190
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 878
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c11a0dafc2d0644785339a2151827c0
+      internalID: 206177737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_191
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 877
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea335fd9df38a440aa2661a5ba0aa93
+      internalID: -1625863944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_192
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 878
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3db4b09de936b4c919fe40b51bce02
+      internalID: 1365400304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_193
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 848
+        width: 94
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e09a16c8fc2db14aab033d6612cf13f
+      internalID: -1581067531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_194
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 870
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50948f0abd8d972479e029906701abf9
+      internalID: 1619405815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_195
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 838
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff870eecbbaf8e49999423e037b076f
+      internalID: -955959593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_196
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 849
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fea56562b924ba43abed9018c2355fb
+      internalID: -1936955987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_197
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 862
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7149a1229888054fa2fe9f7ddfed3c4
+      internalID: -721237005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_198
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 826
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d509562a2fce8e46806362dd759faab
+      internalID: -1732049870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_199
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 828
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1569127d5625d9b499ffc8cadc65071b
+      internalID: -93612736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_200
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 829
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb33b6f7881c214f9369f911c14e5e9
+      internalID: 2055737079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_201
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 851
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f00086f6f227b34ea235adb4d50cb00
+      internalID: -2033009775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_202
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 841
+        width: 92
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eedf2da98a97e4b8a91c71dade06f9
+      internalID: -1075769029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_203
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 847
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4578bcf26c2e88f4bbaff945f862421b
+      internalID: -1897584734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_204
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 838
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fec07603962c9e458f46e4c75932e06
+      internalID: -511737110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_205
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 822
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249e058aab42d37438f681e83b4238d0
+      internalID: 2023967156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_206
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 828
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342eea89a0595b84a98f68eaccb201d8
+      internalID: 1181575099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_207
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 850
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bbbcd76cd8e0845a0a45689e8fbecc
+      internalID: 158334515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_208
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 838
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4345a38e53cdcc40838c79f77f54bca
+      internalID: -106693448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_209
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 806
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52a96e685288964996af6c009dd4dc7
+      internalID: -1599279116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_210
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 796
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0fc6caea2c41c4193c67799d59a1a5
+      internalID: -978352487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_211
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 815
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562bd6e33b5ea5145a6b4b8447524945
+      internalID: -1443447817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_212
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 814
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38bba0e0cf69054ab70f028ab3667f5
+      internalID: 703068692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_215
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 785
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0f6baa59984f745b45b9cdf1181c1b
+      internalID: -365490600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_216
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 785
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d28859f0d81454a9b78e19232a377d
+      internalID: -460664793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_217
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 822
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7af6201d8c2ce44bac45ae0bc332887
+      internalID: 775769701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_218
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 789
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335f9cd101b7b4b419ed643decf21996
+      internalID: -775458292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_219
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 786
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef93a8aa33642f4b892295d69ae6620
+      internalID: -914449284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_223
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 789
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cea5d3c39cee2a47914dda50e9f620b
+      internalID: 919312552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_224
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 782
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e180e30311219bf44b8cc54e07c7dd51
+      internalID: -698668829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 70
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c44ec8b3d9ef74f9243f86e8308684
+      internalID: -901063511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_226
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 766
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7d5e7b8cc3fbd46a39a935cc4e3d5c
+      internalID: -662713690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_227
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 774
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae99b22b81b81f4b9ff457203fa90f0
+      internalID: 118822721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_228
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 762
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e601e8271ba41409667fab34287cd5
+      internalID: -1602169925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_229
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 778
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3533969251906409213d1d65435fbf
+      internalID: -464180953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_230
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 766
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653a6e47e7a566e4dbfe9271b82ef021
+      internalID: -105009550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_231
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 790
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1004a3468d233bf488a945fd7a6bf643
+      internalID: -1905754974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_232
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 814
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fb1057604ea8349814b7c79a71f709
+      internalID: -1453112663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_233
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 770
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507b80c74812dd84b9458b62e8094483
+      internalID: -1757766564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_234
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 806
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e110c060abe49984e8d2bba957196f5a
+      internalID: -2023767569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_235
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 780
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137cb2a11c149e345bf4d0bfb780519f
+      internalID: -1659256418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_236
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 762
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047f4e22ec1a5df4aa730eec26cd7679
+      internalID: -139696754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_237
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 789
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40b4eacb7d423d49b297d6e4bea4608
+      internalID: 24783640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_238
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 789
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90786b30630ad8a438f8839431297934
+      internalID: -365857657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_239
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 786
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e9cc79c749a6b4891d5ceaf4222081
+      internalID: 162217952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_240
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 778
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933f999703c60d346be279506c6a9468
+      internalID: -797526659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_241
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 794
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a449f764c2a5244a6b2715195e010f
+      internalID: 1750409474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_242
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 770
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1d398b41e466e41bd0c9e7929d7080
+      internalID: 1197212564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_243
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 766
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75a0e482fc04d64c965f69293a291d6
+      internalID: -1901367506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_244
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 762
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bca743fbc39e174fac49c0b05acd207
+      internalID: 1859767190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_245
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 754
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e7c1857f782dc4aadf98544be77da5
+      internalID: -1751442423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_246
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 746
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee98ac13aa78314e8c6ea2f294ed442
+      internalID: 1363362944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_247
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 754
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce7b549f34222048883b41a2d3d660c
+      internalID: 1620226723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_248
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 774
+        width: 171
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef8a1a72b159d648a8aeaaca7bfbe6c
+      internalID: -1197848582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_249
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 754
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22fc80479000634483ef0a11fcf2437
+      internalID: 1187827115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_250
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 742
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30353dae9fb03b44baf09711995915e
+      internalID: -945644366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_251
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 762
+        width: 4
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b86b027a8aa87846a4797e1bc6e7142
+      internalID: -41617321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_252
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 746
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9bd31713fd2e944b6dc466559d37cc
+      internalID: 1369242274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_253
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 745
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd52647a6ed56e04abc8fd144f05dbf4
+      internalID: 2083796091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_254
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 750
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e614e46b8e9794b8c18af14c720ea7
+      internalID: 402165186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_255
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 750
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cfc57304cc940428bb9a299d4a8166
+      internalID: -669533302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_257
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 754
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef15f1da6ee7194d8f73aa08a4364df
+      internalID: -2124294286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_258
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 750
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772356bedb442d94ba53d963a41b4b38
+      internalID: 455874011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_259
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 752
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37416b45ff70214d88d460f498646c2
+      internalID: -220844772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_260
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 753
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85d811773e2e6a469f50d4f18b4e762
+      internalID: -1203801734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_261
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 758
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d40b57afdf774b8cd297bef22518b
+      internalID: 2094632337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_262
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 742
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5061e82a8b1663b46b922e26d11aa7ed
+      internalID: -218510742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_263
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 742
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a32cf59086bbb408fc2c99ce76121a
+      internalID: 221868516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_264
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 742
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60271928bf8f6446b9a895d7c34abe9
+      internalID: 955902984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_265
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 742
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e578ff56a76514b85394f27c61037f
+      internalID: -550519404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_266
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 742
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404918e0460c8ce4da64feb101757444
+      internalID: -1208325623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_267
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 750
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4bc24db03d0ad4781a95b8cfd8105c
+      internalID: 1487391401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_268
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 749
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebccdb45d3fadd4d8eb5980960f543e
+      internalID: -1205940938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_269
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 746
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6a38ad2a6cece4fb41a3546d64dca1
+      internalID: -1876282918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_270
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 749
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b257dfb8f2937fd41a8669e7fbf23bb6
+      internalID: 414350482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_271
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 750
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09376af21d89a304abccf5e4afac0946
+      internalID: 1897566001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_272
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 746
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7a6626e47d86b45ab44ae240c1c2a5
+      internalID: 962179618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_273
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 754
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f124b0bc3382e304aa798233bd53283f
+      internalID: -201134503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_274
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 758
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bf2b7fa67d01243b590a4bf4d57c64
+      internalID: 1136610755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_275
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 758
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586d0a9d4a9b82047bee3caaa3f422ff
+      internalID: 430273956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_277
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 758
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea93b617faa5fa4388b5b49514de586
+      internalID: 1182629641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_256
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 739
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e5b3d195dbe074bb8d38453f94f27d
+      internalID: -1977479817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_213
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 816
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095b77498e190e447825428130554572
+      internalID: -1174428464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_153
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1011
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3be1977b37b60c4a9811eb2f8629188
+      internalID: -190684408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilotZombieObject_119
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1067
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9668049cbc76842a16c8bad95f6999
+      internalID: 1341473028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PilotZombieObject_103: -1514169200
+      PilotZombieObject_2: 672261584
+      PilotZombieObject_173: 736076042
+      PilotZombieObject_181: 1544166034
+      PilotZombieObject_193: -1581067531
+      PilotZombieObject_61: -1016157905
+      PilotZombieObject_33: 1081522338
+      PilotZombieObject_47: -627376549
+      PilotZombieObject_174: 1403893125
+      PilotZombieObject_80: 1525745931
+      PilotZombieObject_122: -2067235062
+      PilotZombieObject_118: 1643377659
+      PilotZombieObject_227: 118822721
+      PilotZombieObject_232: -1453112663
+      PilotZombieObject_165: -425642155
+      PilotZombieObject_212: 703068692
+      PilotZombieObject_186: 1715634744
+      PilotZombieObject_100: -1658147117
+      PilotZombieObject_38: 1592636630
+      PilotZombieObject_141: 529159833
+      PilotZombieObject_77: 250169353
+      PilotZombieObject_203: -1897584734
+      PilotZombieObject_178: 607301211
+      PilotZombieObject_17: 1705354002
+      PilotZombieObject_209: -1599279116
+      PilotZombieObject_244: 1859767190
+      PilotZombieObject_129: -1680584103
+      PilotZombieObject_258: 455874011
+      PilotZombieObject_210: -978352487
+      PilotZombieObject_56: 912306556
+      PilotZombieObject_228: -1602169925
+      PilotZombieObject_59: -352636082
+      PilotZombieObject_194: 1619405815
+      PilotZombieObject_278: 133291084
+      PilotZombieObject_236: -139696754
+      PilotZombieObject_202: -1075769029
+      PilotZombieObject_253: 2083796091
+      PilotZombieObject_124: 2137963987
+      PilotZombieObject_191: -1625863944
+      PilotZombieObject_198: -1732049870
+      PilotZombieObject_268: -1205940938
+      PilotZombieObject_219: -914449284
+      PilotZombieObject_164: -1585222168
+      PilotZombieObject_169: 1032742863
+      PilotZombieObject_108: 1726447334
+      PilotZombieObject_71: 1538703529
+      PilotZombieObject_149: 416940931
+      PilotZombieObject_128: 686867945
+      PilotZombieObject_199: -93612736
+      PilotZombieObject_11: -868835511
+      PilotZombieObject_196: -1936955987
+      PilotZombieObject_13: -914154224
+      PilotZombieObject_156: -301060649
+      PilotZombieObject_221: -1694739025
+      PilotZombieObject_105: -1347546483
+      PilotZombieObject_111: 1026258399
+      PilotZombieObject_213: -1174428464
+      PilotZombieObject_151: 1752935722
+      PilotZombieObject_92: 378420243
+      PilotZombieObject_142: 1108467834
+      PilotZombieObject_182: -598755336
+      PilotZombieObject_195: -955959593
+      PilotZombieObject_250: -945644366
+      PilotZombieObject_50: -1466517009
+      PilotZombieObject_231: -1905754974
+      PilotZombieObject_57: -2144712477
+      PilotZombieObject_123: 1001974534
+      PilotZombieObject_117: -787932902
+      PilotZombieObject_65: -1819208232
+      PilotZombieObject_154: 2124664475
+      PilotZombieObject_263: 221868516
+      PilotZombieObject_109: 1403150397
+      PilotZombieObject_229: -464180953
+      PilotZombieObject_15: -638768288
+      PilotZombieObject_46: -458605628
+      PilotZombieObject_260: -1203801734
+      PilotZombieObject_162: -733903708
+      PilotZombieObject_81: 300220655
+      PilotZombieObject_239: 162217952
+      PilotZombieObject_64: -1091109176
+      PilotZombieObject_53: 200592232
+      PilotZombieObject_82: 507157034
+      PilotZombieObject_44: 1413667207
+      PilotZombieObject_83: -256746908
+      PilotZombieObject_171: 792806701
+      PilotZombieObject_188: -1072633896
+      PilotZombieObject_220: 2058766137
+      PilotZombieObject_158: 104749942
+      PilotZombieObject_190: 206177737
+      PilotZombieObject_217: 775769701
+      PilotZombieObject_252: 1369242274
+      PilotZombieObject_206: 1181575099
+      PilotZombieObject_200: 2055737079
+      PilotZombieObject_233: -1757766564
+      PilotZombieObject_3: 122635507
+      PilotZombieObject_130: -330949865
+      PilotZombieObject_67: -395166907
+      PilotZombieObject_180: 1146811378
+      PilotZombieObject_101: 835623499
+      PilotZombieObject_211: -1443447817
+      PilotZombieObject_197: -721237005
+      PilotZombieObject_184: -155520770
+      PilotZombieObject_208: -106693448
+      PilotZombieObject_27: -1011349675
+      PilotZombieObject_6: -1279971614
+      PilotZombieObject_120: 616602653
+      PilotZombieObject_102: -1009760392
+      PilotZombieObject_254: 402165186
+      PilotZombieObject_205: 2023967156
+      PilotZombieObject_147: -412397830
+      PilotZombieObject_159: -839974485
+      PilotZombieObject_144: -1821963143
+      PilotZombieObject_223: 919312552
+      PilotZombieObject_9: 1908587935
+      PilotZombieObject_262: -218510742
+      PilotZombieObject_4: 1980148143
+      PilotZombieObject_230: -105009550
+      PilotZombieObject_95: -560244654
+      PilotZombieObject_66: -1797022312
+      PilotZombieObject_238: -365857657
+      PilotZombieObject_140: -619548547
+      PilotZombieObject_216: -460664793
+      PilotZombieObject_84: -1910613669
+      PilotZombieObject_276: -1986999779
+      PilotZombieObject_265: -550519404
+      PilotZombieObject_267: 1487391401
+      PilotZombieObject_68: -1728179027
+      PilotZombieObject_97: -1074805919
+      PilotZombieObject_42: 1177042422
+      PilotZombieObject_150: 1985937876
+      PilotZombieObject_152: -737431350
+      PilotZombieObject_54: 1340493693
+      PilotZombieObject_224: -698668829
+      PilotZombieObject_187: 288774836
+      PilotZombieObject_185: -431031851
+      PilotZombieObject_43: -1330297804
+      PilotZombieObject_104: -1466161347
+      PilotZombieObject_94: -1532924297
+      PilotZombieObject_163: 984332974
+      PilotZombieObject_78: 1405874389
+      PilotZombieObject_40: 1401377844
+      PilotZombieObject_204: -511737110
+      PilotZombieObject_48: -1850496216
+      PilotZombieObject_7: -289604963
+      PilotZombieObject_31: 604727045
+      PilotZombieObject_79: -699735234
+      PilotZombieObject_269: -1876282918
+      PilotZombieObject_148: -1925378719
+      PilotZombieObject_275: 430273956
+      PilotZombieObject_24: 684699489
+      PilotZombieObject_74: -1959186187
+      PilotZombieObject_70: 1750537573
+      PilotZombieObject_167: 1482233719
+      PilotZombieObject_88: -2116845882
+      PilotZombieObject_112: -805115286
+      PilotZombieObject_235: -1659256418
+      PilotZombieObject_89: -341164410
+      PilotZombieObject_51: -1660091915
+      PilotZombieObject_72: -760001379
+      PilotZombieObject_19: -891744736
+      PilotZombieObject_266: -1208325623
+      PilotZombieObject_243: -1901367506
+      PilotZombieObject_23: -870507273
+      PilotZombieObject_126: -994515155
+      PilotZombieObject_8: 82172820
+      PilotZombieObject_155: -1942306608
+      PilotZombieObject_272: 962179618
+      PilotZombieObject_21: 1151988497
+      PilotZombieObject_35: -257160315
+      PilotZombieObject_93: -472502928
+      PilotZombieObject_125: -1364501037
+      PilotZombieObject_214: -1263029134
+      PilotZombieObject_255: -669533302
+      PilotZombieObject_37: -369280421
+      PilotZombieObject_207: 158334515
+      PilotZombieObject_241: 1750409474
+      PilotZombieObject_121: -1643158630
+      PilotZombieObject_257: -2124294286
+      PilotZombieObject_60: -282665641
+      PilotZombieObject_146: 636180015
+      PilotZombieObject_127: 1850524802
+      PilotZombieObject_14: 1716537856
+      PilotZombieObject_113: -1181574869
+      PilotZombieObject_18: 1811611509
+      PilotZombieObject_166: -79783328
+      PilotZombieObject_170: -301454549
+      PilotZombieObject_20: 1381567796
+      PilotZombieObject_168: -1598060883
+      PilotZombieObject_32: 1350392476
+      PilotZombieObject_115: 325045857
+      PilotZombieObject_45: 121996175
+      PilotZombieObject_247: 1620226723
+      PilotZombieObject_225: -901063511
+      PilotZombieObject_69: -1150806189
+      PilotZombieObject_237: 24783640
+      PilotZombieObject_0: 392284503
+      PilotZombieObject_240: -797526659
+      PilotZombieObject_251: -41617321
+      PilotZombieObject_110: -210054760
+      PilotZombieObject_161: -986085066
+      PilotZombieObject_245: -1751442423
+      PilotZombieObject_1: 1694300588
+      PilotZombieObject_172: -1054401796
+      PilotZombieObject_34: 1346072243
+      PilotZombieObject_274: 1136610755
+      PilotZombieObject_136: -1293341029
+      PilotZombieObject_55: 1507098728
+      PilotZombieObject_256: -1977479817
+      PilotZombieObject_114: -1908122960
+      PilotZombieObject_29: 10018303
+      PilotZombieObject_90: 1803492461
+      PilotZombieObject_132: 1302665720
+      PilotZombieObject_75: -1335339318
+      PilotZombieObject_177: 277339135
+      PilotZombieObject_176: -55694891
+      PilotZombieObject_264: 955902984
+      PilotZombieObject_107: -368967578
+      PilotZombieObject_153: -190684408
+      PilotZombieObject_12: -664818256
+      PilotZombieObject_10: 1871829922
+      PilotZombieObject_222: -1447684988
+      PilotZombieObject_116: -327739823
+      PilotZombieObject_215: -365490600
+      PilotZombieObject_133: 938238614
+      PilotZombieObject_52: -1339656126
+      PilotZombieObject_22: -805190405
+      PilotZombieObject_157: -1297220016
+      PilotZombieObject_249: 1187827115
+      PilotZombieObject_85: -912007306
+      PilotZombieObject_91: 1706805007
+      PilotZombieObject_279: -1729506012
+      PilotZombieObject_242: 1197212564
+      PilotZombieObject_25: -231603024
+      PilotZombieObject_49: 310237907
+      PilotZombieObject_86: -1548847088
+      PilotZombieObject_259: -220844772
+      PilotZombieObject_134: -652338300
+      PilotZombieObject_270: 414350482
+      PilotZombieObject_30: -1378016034
+      PilotZombieObject_28: 31025641
+      PilotZombieObject_41: -1265686455
+      PilotZombieObject_189: -714277090
+      PilotZombieObject_179: 499408994
+      PilotZombieObject_119: 1341473028
+      PilotZombieObject_271: 1897566001
+      PilotZombieObject_62: -261051123
+      PilotZombieObject_201: -2033009775
+      PilotZombieObject_36: -255259228
+      PilotZombieObject_139: 809242608
+      PilotZombieObject_16: -1471345479
+      PilotZombieObject_277: 1182629641
+      PilotZombieObject_226: -662713690
+      PilotZombieObject_145: 367066888
+      PilotZombieObject_175: 1049329330
+      PilotZombieObject_192: 1365400304
+      PilotZombieObject_246: 1363362944
+      PilotZombieObject_138: -501805299
+      PilotZombieObject_76: -1945332068
+      PilotZombieObject_160: 370895565
+      PilotZombieObject_26: 1965335604
+      PilotZombieObject_63: -160438061
+      PilotZombieObject_106: -1096577780
+      PilotZombieObject_99: -790977653
+      PilotZombieObject_143: 526730220
+      PilotZombieObject_273: -201134503
+      PilotZombieObject_87: 1020475284
+      PilotZombieObject_96: -2050611862
+      PilotZombieObject_248: -1197848582
+      PilotZombieObject_183: -1601783376
+      PilotZombieObject_137: 73374212
+      PilotZombieObject_261: 2094632337
+      PilotZombieObject_73: 2087195690
+      PilotZombieObject_131: -797340360
+      PilotZombieObject_135: 795641869
+      PilotZombieObject_98: 1022776959
+      PilotZombieObject_58: 1752360026
+      PilotZombieObject_218: -775458292
+      PilotZombieObject_39: 1735734571
+      PilotZombieObject_5: 787626733
+      PilotZombieObject_234: -2023767569
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4480 @@
+fileFormatVersion: 2
+guid: 2e170f27b1e8b2945b0ccacf8e400ec5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BambooBroObject_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1382
+        width: 274
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaa5a799dbc00643bae203f7ffc3a63
+      internalID: -1010422169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1382
+        width: 278
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28341d40eb1a6424193d75923797381a
+      internalID: -523239566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1323
+        width: 169
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7a583de523c294cbe7ad2aa54ccd70
+      internalID: 503566757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_3
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1610
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7496fb264867ef244b7a90a41ad292fd
+      internalID: 484020698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_4
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1446
+        width: 176
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1695605fe9fe7e43b76859e642d7412
+      internalID: 1461577956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_5
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1566
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee68c14e7f5b06f43b284d718bc77c49
+      internalID: -1936801410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_6
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1534
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868830eb724c6674584c4af66b68972a
+      internalID: -1359177512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_7
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1511
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d72fa2b914b174c89856e2ee30f870
+      internalID: -1322722228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_8
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1493
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905bc936f76511f4899da886a4862c56
+      internalID: -1056677480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_9
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1474
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2778115b27fd2014fad1485d765f71c3
+      internalID: 1999748716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_10
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1454
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e19b970608e6446b4fdc99d9d0c35c
+      internalID: -1521339601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_11
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1442
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fbcc93b83f4914884a47d692c5be28
+      internalID: 845069955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_12
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1300
+        width: 160
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1535e7438948a4e8820ecdf128367c
+      internalID: 960887990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_13
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1390
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9dedb270c819d4c9f52facf64bbc88
+      internalID: -534377286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_14
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1319
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e04e6451085e0418e61857ae6cc74d
+      internalID: 1212613750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_15
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1378
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf9b9390a8cb2a408e14ab0a6dfaf0d
+      internalID: 1253335768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_16
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1379
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7e0aa2957579e40b55f8613bc071bf
+      internalID: -1264045391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_17
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1379
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2776845963a816469b30057d06d37cf
+      internalID: -1956259192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_18
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1147
+        width: 229
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3d289e982a1dd4a86f264cea988519
+      internalID: -759627309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_19
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1307
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e59817f982624493568787b06c6ff
+      internalID: 245529460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1362
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a83a648219fb43b51bacf1b761734
+      internalID: 103495863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_21
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1362
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7f58bcfbc2c88449dd8097a5143e0c
+      internalID: 876618124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1131
+        width: 177
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03cfeb6eeb7e654db721863e0b1e7fc
+      internalID: -504476898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_23
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1345
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a0f915d108a534aaf682a33e7f6f77
+      internalID: 1553040908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_24
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1330
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3b553ad5a701340ace71115a51162c
+      internalID: -741235023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1318
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb9f30e0b538c74a9e946bbad5222ba
+      internalID: 1863083208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_26
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1076
+        width: 228
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b734c31e1a8a95843855fad0005d11e1
+      internalID: -992152383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_27
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1231
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b6aacea5693f443a2ff0019a871733
+      internalID: 540890036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_28
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1282
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d1a9fe8d257624cbaa8a24087f34a7
+      internalID: -1881089676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_29
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1245
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ecc7fd8a8f99947af8e3ad1abc86b4
+      internalID: -1434902814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_30
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1217
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca7e45005e46bf4fba96086dc74ebed
+      internalID: -265531568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_31
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1213
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13676f400713f93488ae1cac638e3ae3
+      internalID: 138248987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_32
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1217
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e83e3ade77e5c540adf8554f63ff0ab
+      internalID: 1846635369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_33
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1218
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930e21331fbd3534380e80545b50ce78
+      internalID: 1579492206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_34
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1217
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1eb1fa9ef60934a8d06ed197cf3866
+      internalID: 284966748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_35
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1215
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a295a8b807e834190a9d29bf14dc47
+      internalID: -319837154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908
+        width: 188
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a512f8d69fd6c4d9fcdd44baf7fe7a
+      internalID: -323024622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_37
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1072
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7c263d7a55f6643956d47bde0c1a1f
+      internalID: 714432083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_38
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 958
+        width: 94
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cb170e55d14574784ebe42354222f4
+      internalID: 2122398988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_39
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1099
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e7cea5ac9eea74e95814247390ef19
+      internalID: 2100016022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_40
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1100
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cee71afa5793a940964bf6094fe7334
+      internalID: -1856853060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_41
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1049
+        width: 179
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a237fdf4fb4e5b498164befb983fa4b
+      internalID: -780352867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_42
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1041
+        width: 73
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179b91870e05bfb4dba79eb59d3d65cb
+      internalID: -1094343187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_43
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1076
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf29e4d3e9130934993dff69581aa54d
+      internalID: -274822894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_44
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1035
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2cbb19a90c0ae42a54233b66bf2972
+      internalID: -1700662550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_45
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1060
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d45a21d6fb96824abb915402281f1c8
+      internalID: 1174915410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_46
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1049
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00217a27b3cf7c34b95299bf1bf7d214
+      internalID: 1339257381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_47
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1041
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f732bb7eb340c043bc20a9d7b9cf737
+      internalID: 1221549082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_48
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1005
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9620e5e862d38048b91f1ae49d67ba2
+      internalID: 244133187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_49
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 885
+        width: 130
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9ed43c3e9ab8942b179ab479092510
+      internalID: 2127805654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_50
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1030
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e36ebc7c111a9499d0f2061952ea14
+      internalID: -860071644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_51
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 857
+        width: 71
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9e4c254b2094642b950badf04d4616
+      internalID: -1364185311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_52
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 969
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a9b12f606c91e479b4a2d4f52866b6
+      internalID: 1230940234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_53
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 853
+        width: 70
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62af897177ba94499605c5a2fffed2a
+      internalID: 1250596965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_54
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 794
+        width: 140
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a425781764cbc964d8760debd1dce8e6
+      internalID: -730879368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_55
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 943
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806eeb6deb79fd142922c887f2de7a24
+      internalID: 1526718195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_56
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 962
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4873bdcfda1769418bc8d33c0524a02
+      internalID: 51774472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 723
+        width: 142
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7ebfce12cafdd4a9fd4e7d34bb3380
+      internalID: -1787514906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_58
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 849
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a2c5b2945f1864a96fb94940f58e20
+      internalID: 591820403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_59
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 731
+        width: 146
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6587fb4bec957954580348b3eb0c213e
+      internalID: -1390571025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_60
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 882
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288becaa6fc7a3148b2f95cea4909965
+      internalID: -1874259778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_61
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 899
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab513ec932e4794db5b8584e5af844f
+      internalID: 1330304634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_62
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 878
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14e02a8d92e3f14795a746cca073b8a
+      internalID: -1065521368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_63
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 870
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc066cdc21aeb12499170ece21034ba5
+      internalID: 1116933298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_64
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 837
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d956cf22dc30b1f4385057527b254c72
+      internalID: -1544859828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_65
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 857
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23036b22a75345744a20d457cb4ef8eb
+      internalID: -244035784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_66
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 739
+        width: 70
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bb4bb18cf458a47bf9babfd344d8f8
+      internalID: 866475278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_67
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 860
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d7e23a3162fe54e9b8e16ac0da9c8d
+      internalID: -507493015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_68
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 805
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28590ae17a822b04d8a6dc9fceec662b
+      internalID: -1171572760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_69
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 805
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63afa2856a942f4ca7ec205fd752ce4
+      internalID: 1447071567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_70
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 798
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e5741f2b0e8594083e99e136d184cc
+      internalID: 1342152107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_71
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 821
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4dde304d87c434bbacccd8445c93c8
+      internalID: -1819311377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_72
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 802
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0957b29c9d50e4685cdc5ffdf223ce
+      internalID: -427161846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_73
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 822
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bac7dadc4aa3de4a9bc9c566bc26683
+      internalID: 1358163575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_74
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 705
+        width: 137
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc502cb6911436946befc81788a8c9a4
+      internalID: -262119866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_75
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 802
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458c46b6e723d1145afdc1a306c4fc30
+      internalID: 281129099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_76
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 798
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7375ba857d7fbf24b8f91aef60161473
+      internalID: 1380681661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_77
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 759
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a07fce19c59ae438c8cf3eef74ff17
+      internalID: -1705475404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_78
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 653
+        width: 156
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52582c84a9e74d142bb4678fa23d5dcf
+      internalID: 973928323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_79
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 790
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb6bf90b372b524abd1695114972b04
+      internalID: 1178089613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_80
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 653
+        width: 146
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb6a69a87cccc346aafbd475688b115
+      internalID: -1614365163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_81
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 782
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33bba6a3d14e8f4582acf932e1a1500
+      internalID: -1862971542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_82
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 767
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9437fe45803296c459e7f14ec8673085
+      internalID: 500424464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_83
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 731
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f51e09474ed48544b13ee45f0fc7e59
+      internalID: 2015621019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_84
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 727
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da5b53a8c0a1bb40bf8508065baffe5
+      internalID: 2030518678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_85
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 736
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88cb83b3c60e6d4cb4e7e692e0bb955
+      internalID: -22489948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_86
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 590
+        width: 146
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91759a89bfe1a094d973cd035720471e
+      internalID: -338712694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_87
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 696
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603dbf6f568548346a13fe0f2cac4f11
+      internalID: 1223726647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_88
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 699
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0897f58fe28fe7d4b86a223573a7bef1
+      internalID: -384782322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_89
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 602
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba73733325df17949a278949c9deb89b
+      internalID: 1061088300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_90
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 682
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15735abd8a115fb49ac41f91bc1b5ba1
+      internalID: 1439366003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_91
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 674
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49424b5f3d46862468f845aa8f08e7a5
+      internalID: -1358292495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_92
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 665
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5916a74898a35a3439f1393baa5635d1
+      internalID: 944385285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_93
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 668
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69421e393696bdb4da02856f1ff1c65f
+      internalID: 422871189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_94
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 578
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e480c63487d7949ac9f73fed685393
+      internalID: 356344717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_95
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 580
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53250805727e7e4eab0c408edae2aba
+      internalID: 1187771038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_96
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 657
+        width: 55
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaea733508515e429fb81c1505fa46e
+      internalID: -248463900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_97
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 641
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3476a7e734df3a34ea0837ff0c31898e
+      internalID: 1837839218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_98
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 543
+        width: 110
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febc5492436790040b74d45e197a082a
+      internalID: 385621454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_99
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 490
+        width: 115
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f55817d70cb6145be93243af32a15e
+      internalID: 153722701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_100
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 490
+        width: 114
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3160c75c06f4c8044a09de5c227b111a
+      internalID: 388851041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_101
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 617
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efbcce4951952a489f87ba98b096e10
+      internalID: -1434068039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_102
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 598
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7dacd959a1a354ea775c51af87c210
+      internalID: -299746265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_103
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 413
+        width: 106
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c287128a94eb03647a6e78cacb7535cd
+      internalID: 1542543202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_104
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 402
+        width: 106
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d19a2bdcaf71ec46bf7a3715865473c
+      internalID: 780141250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_105
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 551
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3494c65dafabd1a4aa503655a523c69e
+      internalID: 1391763949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_106
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 547
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8273a00203a452c409d95bac7f134726
+      internalID: -1922089377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_107
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 551
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786e98a41303f0141841730c8a616ef3
+      internalID: 1919508911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_108
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 567
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6cc9a5a64c2be41a82d5e81260f4b7
+      internalID: -983155311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_109
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 570
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b886224b6db7e47a1692b0bd0bd770
+      internalID: 238341358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 466
+        width: 119
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9169fbd4cc25014e8023d9c30464e5e
+      internalID: -768218029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_111
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 551
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbd1d76dd8f0644696b3a22c95554b6
+      internalID: -1315190520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_112
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 550
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3f021a563201a4b980db9ed24fea15
+      internalID: 1557377359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_113
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 526
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2c04953e24af846bffd9273f2aeea0
+      internalID: -1082259883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_114
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 527
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0f0e941f168664fbccd2b2b844dcb0
+      internalID: -1174832855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_115
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 528
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6e24b1b5741674d8605cc8043b7997
+      internalID: 1714700543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_116
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 527
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbbe090c01bc1e42aa63851b8e1c893
+      internalID: -1704339075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_117
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 432
+        width: 114
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984106a4dd1103a4db77672e94453fa6
+      internalID: 1046191224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_118
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 481
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5434213219075d4b83a5a74cbefaad9
+      internalID: -1276558669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_119
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 514
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c038d3957b987a54ab3b28393ae5111e
+      internalID: 1718317874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_120
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 457
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eafd62eaf05f01479f9d60b59be2410
+      internalID: -1340374210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_121
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 473
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0a7da3da9d3ae4f9c6419ba554ede3
+      internalID: -730123468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_122
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 472
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871d43f622ad54d4c9816f58d037cabe
+      internalID: -2051928165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_123
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 358
+        width: 126
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ce11d93dd58634f9bd0b33fffaeb63
+      internalID: 879157710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_124
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 468
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab53dc4f3f51354795068ac01d51d81
+      internalID: 1910436042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_125
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 449
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d4f78fda44314fb911cbed77e98fc
+      internalID: 1414462934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_126
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 447
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948352ad614397041a3cc0a6ec7f9f4e
+      internalID: 1176319840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_127
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 449
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8d3a05a386a1a46be740b54ab63ef4
+      internalID: -430292872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_128
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 453
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d691bc66ab1c74f8f2d5d815f998a8
+      internalID: -2032428616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aafd72f658bf246bf1ee21f32d8a34
+      internalID: -1342020357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_130
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 430
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce52b5f165838c4daf3f29ca0146e2a
+      internalID: -1150896929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_131
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 434
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fe83fc67bd0734282dfa75dc9ce833
+      internalID: -1966546279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_132
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 429
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6852cf2eedb69af43af4e93a487ced51
+      internalID: 210636243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_133
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 241
+        width: 88
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e722d3587364c428a7d8d2a2babc85
+      internalID: 231705007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_134
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 419
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8a8154064818e47b2ce92420d98c3b
+      internalID: -466176318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_135
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 398
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff76b7a394640c441ba501eddc9a1c8b
+      internalID: 766813994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_136
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 402
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23da9ca52554ad740acf541e85e83eaa
+      internalID: 1666556704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_137
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 221
+        width: 79
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e349cc3f43a898a4fb2df505259c6df8
+      internalID: 412468099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_138
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 377
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0483888fbe3fa6943aff3171bc0c6ea1
+      internalID: 704221143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_139
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 370
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecc2cfc522b1df4e9211f66d621f026
+      internalID: -2099871612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_140
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 382
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1489134d9002b544f8ebee89fae23657
+      internalID: -436219632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_141
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 355
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1542490cc2422354ca5a4cf6672bc343
+      internalID: -1049067413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_142
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 284
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c30d47447f9884cbd244d30184fa72
+      internalID: -644238253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_143
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 355
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f600d2e2142a191428fa5003a2713038
+      internalID: -101899470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_144
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 347
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6654a8f16a9e7944978d8634f873a88
+      internalID: 549893859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_145
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 347
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5597559877e4a8e44a9f930dc6e87d6f
+      internalID: 1105434926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_146
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 343
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc67aae695af8be41ba8c61e7789c8f2
+      internalID: -654864697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_147
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 331
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc99f4d082f47894391431a68fb41f9a
+      internalID: 1728865392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_148
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 241
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655943da94cbdb04c8c22e318aff0525
+      internalID: 2043473619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_149
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 331
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a513a5eea1bd419f0fc050d9e2418
+      internalID: 376500520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_150
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 320
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef6e92937fcddb47b8a65eb0d596c1d
+      internalID: 185584297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_151
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 149
+        width: 76
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911b9782a101fd149b315c5303a06caf
+      internalID: 897163602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_152
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 147
+        width: 73
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1d5890db53dc2498ed9f113575e3ea
+      internalID: 1904972216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_153
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 307
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33424c7c68a34ac40b36dab81ef443b2
+      internalID: -161875736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_154
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 206
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907fae4adcced1742bfe1b5c1a7e4a4f
+      internalID: -894725437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_155
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 223
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042065de1fae0c34c83493fe8a9a8b32
+      internalID: 902394389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_156
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 222
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbab9d96f4a15a4799a09d61249ee4b
+      internalID: -1162526061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_157
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 229
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b411e6a638d97b5439a062f9090260ae
+      internalID: 1829178259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_158
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 181
+        width: 109
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86160614b38802447a4b8948490e0c68
+      internalID: 1968830628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_159
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 151
+        width: 78
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88077936bae6d144fbcb4054a17298b7
+      internalID: 1627487330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_160
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 209
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a446dc7564c2e69478496c8dffe16c11
+      internalID: 755376104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_161
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 178
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ecf38660b26e3499519cad77a34b41
+      internalID: -272269116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_162
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 210
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef81fd8380f52e40ae23ba275b76f80
+      internalID: -1401659397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_163
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 203
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad7b66e0496bc64a8b8d3c1b45bba78
+      internalID: 1713148775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_164
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 170
+        width: 143
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a95840cfa075ba4f8b53c0f41657757
+      internalID: -963784997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_165
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 211
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498f6c04697c00744ac9c0c48ccc81e7
+      internalID: 698685758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_166
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 202
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8931671d403584144a59dfd860da1070
+      internalID: 697647630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_167
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 170
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7427a0a7efaa2a49b6019a9b355f993
+      internalID: 106056613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_168
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 158
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5721211b6bd26a4bafe2a72e0ed9f0b
+      internalID: 1191757940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_169
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 174
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d494d8e5f2f5634449246bdbc54d63ac
+      internalID: 1771987214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_170
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 139
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd84474bf601174a941964877577c85
+      internalID: -386060867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_171
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 135
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8f9e174e89f5541a2a1bf7e39ac0a2
+      internalID: 897092668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_172
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 151
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65a89e565a5a974ebb465d01a8b96f3
+      internalID: -1962637150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_173
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 147
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea3cf3c79350a24bbcb522901cd6fca
+      internalID: 916681042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_174
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 151
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4651436212d590468d10870ec7b7d73
+      internalID: 1902951339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_175
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 145
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bf91eedf34d9845ab6f4ed5a45b7de
+      internalID: -2129102219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_176
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 99
+        width: 88
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c3ccd276188a44eab4c8ea1497651f
+      internalID: 2135342784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_177
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 130
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c084dc8227460b4eb8184ab59c2a639
+      internalID: -36893287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_178
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1218c0b2094dc154498b5542f89d730c
+      internalID: -964825562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_179
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 132
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047a77a5648f8b54c85b6520cc8da06b
+      internalID: 1686756886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_180
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 87
+        width: 110
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e1fc2ef51cb07498f6a8ca46470f44
+      internalID: 1012048667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_181
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 127
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3350e40774b5a4e409c9c4f35bc9bc31
+      internalID: 1753230645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_182
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 5
+        width: 70
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600d648e0dc34274783fe2c2ad024018
+      internalID: -956823081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_183
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 17
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68718e2d2694b3e40922a94ad01e2f0b
+      internalID: -675083727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_184
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 108
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf81c7799fc074245b7487d0895bd1a1
+      internalID: -438428116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_185
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 125
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad22269e6baeb04a8f72cddd6bf9ef7
+      internalID: 470945997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_186
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 123
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fd9e0ff6b354743a6dae7285a9b7bb
+      internalID: -1268322338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_187
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 57
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b6dbdc526e4af4a86b04c5837069ab
+      internalID: 1257209228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_188
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 42
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743fa1b5ca9b0cc488eb9f99ce5e6d87
+      internalID: 125536523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_189
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 119
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66763bef6044ffc4da5accbfd4329791
+      internalID: -1101968724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_190
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 114
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eb98fcf18f9744f9706a7c7b83ebd6
+      internalID: -1613193322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_191
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 115
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e6b0bb63dedb841ad4a2fcfc0b6c50
+      internalID: 1367505559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_192
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 100
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5b8ee1bb1ee8d4facdc72b0c68f5e8
+      internalID: -648353061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_193
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 37
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60324fec1a3fb8d4b8f8e2ee5ab4d377
+      internalID: -1078577235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_194
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 29
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880607210c6764d4a84835ca446f02f7
+      internalID: 15725022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_195
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 0
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04989559ee752264796d58c665c4b3c3
+      internalID: -1627717989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BambooBroObject_196
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1039
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a4327629b1db2429b776be535b6162
+      internalID: 353610354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BambooBroObject_22: -504476898
+      BambooBroObject_106: -1922089377
+      BambooBroObject_159: 1627487330
+      BambooBroObject_118: -1276558669
+      BambooBroObject_18: -759627309
+      BambooBroObject_46: 1339257381
+      BambooBroObject_56: 51774472
+      BambooBroObject_82: 500424464
+      BambooBroObject_125: 1414462934
+      BambooBroObject_75: 281129099
+      BambooBroObject_85: -22489948
+      BambooBroObject_20: 103495863
+      BambooBroObject_193: -1078577235
+      BambooBroObject_41: -780352867
+      BambooBroObject_76: 1380681661
+      BambooBroObject_172: -1962637150
+      BambooBroObject_115: 1714700543
+      BambooBroObject_168: 1191757940
+      BambooBroObject_104: 780141250
+      BambooBroObject_80: -1614365163
+      BambooBroObject_109: 238341358
+      BambooBroObject_68: -1171572760
+      BambooBroObject_136: 1666556704
+      BambooBroObject_135: 766813994
+      BambooBroObject_72: -427161846
+      BambooBroObject_181: 1753230645
+      BambooBroObject_187: 1257209228
+      BambooBroObject_63: 1116933298
+      BambooBroObject_78: 973928323
+      BambooBroObject_190: -1613193322
+      BambooBroObject_71: -1819311377
+      BambooBroObject_21: 876618124
+      BambooBroObject_131: -1966546279
+      BambooBroObject_128: -2032428616
+      BambooBroObject_0: -1010422169
+      BambooBroObject_65: -244035784
+      BambooBroObject_151: 897163602
+      BambooBroObject_16: -1264045391
+      BambooBroObject_175: -2129102219
+      BambooBroObject_154: -894725437
+      BambooBroObject_158: 1968830628
+      BambooBroObject_143: -101899470
+      BambooBroObject_9: 1999748716
+      BambooBroObject_34: 284966748
+      BambooBroObject_194: 15725022
+      BambooBroObject_134: -466176318
+      BambooBroObject_113: -1082259883
+      BambooBroObject_173: 916681042
+      BambooBroObject_24: -741235023
+      BambooBroObject_57: -1787514906
+      BambooBroObject_89: 1061088300
+      BambooBroObject_59: -1390571025
+      BambooBroObject_166: 697647630
+      BambooBroObject_42: -1094343187
+      BambooBroObject_7: -1322722228
+      BambooBroObject_87: 1223726647
+      BambooBroObject_97: 1837839218
+      BambooBroObject_92: 944385285
+      BambooBroObject_112: 1557377359
+      BambooBroObject_14: 1212613750
+      BambooBroObject_13: -534377286
+      BambooBroObject_165: 698685758
+      BambooBroObject_171: 897092668
+      BambooBroObject_55: 1526718195
+      BambooBroObject_1: -523239566
+      BambooBroObject_162: -1401659397
+      BambooBroObject_120: -1340374210
+      BambooBroObject_189: -1101968724
+      BambooBroObject_3: 484020698
+      BambooBroObject_86: -338712694
+      BambooBroObject_186: -1268322338
+      BambooBroObject_62: -1065521368
+      BambooBroObject_60: -1874259778
+      BambooBroObject_58: 591820403
+      BambooBroObject_160: 755376104
+      BambooBroObject_117: 1046191224
+      BambooBroObject_38: 2122398988
+      BambooBroObject_4: 1461577956
+      BambooBroObject_74: -262119866
+      BambooBroObject_28: -1881089676
+      BambooBroObject_81: -1862971542
+      BambooBroObject_90: 1439366003
+      BambooBroObject_124: 1910436042
+      BambooBroObject_167: 106056613
+      BambooBroObject_17: -1956259192
+      BambooBroObject_61: 1330304634
+      BambooBroObject_36: -323024622
+      BambooBroObject_103: 1542543202
+      BambooBroObject_84: 2030518678
+      BambooBroObject_77: -1705475404
+      BambooBroObject_153: -161875736
+      BambooBroObject_27: 540890036
+      BambooBroObject_121: -730123468
+      BambooBroObject_111: -1315190520
+      BambooBroObject_29: -1434902814
+      BambooBroObject_91: -1358292495
+      BambooBroObject_148: 2043473619
+      BambooBroObject_127: -430292872
+      BambooBroObject_10: -1521339601
+      BambooBroObject_146: -654864697
+      BambooBroObject_44: -1700662550
+      BambooBroObject_79: 1178089613
+      BambooBroObject_139: -2099871612
+      BambooBroObject_122: -2051928165
+      BambooBroObject_144: 549893859
+      BambooBroObject_169: 1771987214
+      BambooBroObject_147: 1728865392
+      BambooBroObject_150: 185584297
+      BambooBroObject_30: -265531568
+      BambooBroObject_137: 412468099
+      BambooBroObject_126: 1176319840
+      BambooBroObject_149: 376500520
+      BambooBroObject_108: -983155311
+      BambooBroObject_37: 714432083
+      BambooBroObject_138: 704221143
+      BambooBroObject_66: 866475278
+      BambooBroObject_45: 1174915410
+      BambooBroObject_183: -675083727
+      BambooBroObject_141: -1049067413
+      BambooBroObject_177: -36893287
+      BambooBroObject_40: -1856853060
+      BambooBroObject_191: 1367505559
+      BambooBroObject_180: 1012048667
+      BambooBroObject_195: -1627717989
+      BambooBroObject_119: 1718317874
+      BambooBroObject_129: -1342020357
+      BambooBroObject_23: 1553040908
+      BambooBroObject_164: -963784997
+      BambooBroObject_95: 1187771038
+      BambooBroObject_140: -436219632
+      BambooBroObject_182: -956823081
+      BambooBroObject_31: 138248987
+      BambooBroObject_39: 2100016022
+      BambooBroObject_19: 245529460
+      BambooBroObject_12: 960887990
+      BambooBroObject_83: 2015621019
+      BambooBroObject_48: 244133187
+      BambooBroObject_54: -730879368
+      BambooBroObject_99: 153722701
+      BambooBroObject_174: 1902951339
+      BambooBroObject_102: -299746265
+      BambooBroObject_145: 1105434926
+      BambooBroObject_94: 356344717
+      BambooBroObject_67: -507493015
+      BambooBroObject_110: -768218029
+      BambooBroObject_188: 125536523
+      BambooBroObject_88: -384782322
+      BambooBroObject_15: 1253335768
+      BambooBroObject_176: 2135342784
+      BambooBroObject_8: -1056677480
+      BambooBroObject_49: 2127805654
+      BambooBroObject_114: -1174832855
+      BambooBroObject_93: 422871189
+      BambooBroObject_132: 210636243
+      BambooBroObject_163: 1713148775
+      BambooBroObject_161: -272269116
+      BambooBroObject_185: 470945997
+      BambooBroObject_50: -860071644
+      BambooBroObject_73: 1358163575
+      BambooBroObject_98: 385621454
+      BambooBroObject_35: -319837154
+      BambooBroObject_47: 1221549082
+      BambooBroObject_178: -964825562
+      BambooBroObject_11: 845069955
+      BambooBroObject_32: 1846635369
+      BambooBroObject_157: 1829178259
+      BambooBroObject_26: -992152383
+      BambooBroObject_133: 231705007
+      BambooBroObject_100: 388851041
+      BambooBroObject_152: 1904972216
+      BambooBroObject_107: 1919508911
+      BambooBroObject_96: -248463900
+      BambooBroObject_52: 1230940234
+      BambooBroObject_33: 1579492206
+      BambooBroObject_170: -386060867
+      BambooBroObject_64: -1544859828
+      BambooBroObject_69: 1447071567
+      BambooBroObject_156: -1162526061
+      BambooBroObject_123: 879157710
+      BambooBroObject_25: 1863083208
+      BambooBroObject_184: -438428116
+      BambooBroObject_130: -1150896929
+      BambooBroObject_53: 1250596965
+      BambooBroObject_155: 902394389
+      BambooBroObject_6: -1359177512
+      BambooBroObject_51: -1364185311
+      BambooBroObject_2: 503566757
+      BambooBroObject_192: -648353061
+      BambooBroObject_101: -1434068039
+      BambooBroObject_196: 353610354
+      BambooBroObject_179: 1686756886
+      BambooBroObject_116: -1704339075
+      BambooBroObject_43: -274822894
+      BambooBroObject_142: -644238253
+      BambooBroObject_5: -1936801410
+      BambooBroObject_105: 1391763949
+      BambooBroObject_70: 1342152107
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

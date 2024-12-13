@@ -1,0 +1,5338 @@
+fileFormatVersion: 2
+guid: e7c076a60e948824a8cb978516fc55c7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TigergrassObject_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1033
+        width: 113
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b2165295443f0458a21850081d8eb3
+      internalID: -323458432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1086
+        width: 188
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b0d08fb541d1141a4e018e542e7191
+      internalID: -853476955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1086
+        width: 188
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93898aa63bb6f9c4a862d0ab8c37ffb4
+      internalID: -385757812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_3
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1086
+        width: 188
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0433ca517aedb704da76f93b6c203b83
+      internalID: 410297176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_4
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1086
+        width: 188
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c286d1b3ab01e704b8a5b82c2899f3c1
+      internalID: 498712963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_5
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1032
+        width: 92
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426c5820da07719449170f41f3e4a651
+      internalID: -1662874942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_6
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1181
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a0ab228e20b894cb21b2d9c7c20181
+      internalID: -1553985392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_7
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1166
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08778ecbc38d45a4489a692cdf23d759
+      internalID: -1119798379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_8
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1152
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7aa8aaba30fdf4f861b49846f3af67
+      internalID: -1010260833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_9
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1138
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c283d8cedda8e46a13897e147d04e9
+      internalID: -1209552995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_10
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1124
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36440b2d6daf934da68fa0227d7e830
+      internalID: -604870136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1056
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaad9a3f36f1ce48a04f231b877f13b
+      internalID: 1197811771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_12
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 938
+        width: 123
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7efa73d390f3b045830706744f2a30a
+      internalID: 1967585868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 938
+        width: 123
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f48d5223edeb246b2fbb21246bcdc7
+      internalID: 1393417450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_14
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 938
+        width: 123
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd81f6f9bd4fda479df6cfd40514b10
+      internalID: -1235969110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 938
+        width: 123
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bde0a54b20cce8499712d168f4fbd5a
+      internalID: -1830782794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_16
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1051
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edac81c7600f10d4a8c5d308cced86b2
+      internalID: 2140446862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_17
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1065
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d535cba9e7b1f44899534da959fd01
+      internalID: -322885956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_18
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1049
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bacd939a8f1e5a44995e20546fa0347
+      internalID: 1368389216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 896
+        width: 124
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782b8c477be3e884ca2948ef33767d51
+      internalID: -522547421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_20
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 997
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b81b4230b0e404e852c96bd56478f9
+      internalID: 1564144855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 939
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346b751f86e200245bcff345445ec0e1
+      internalID: -750591046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_22
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 938
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72f4d7d560fc3640a97d0c22d3ee902
+      internalID: 455590126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 801
+        width: 124
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240900aab6bfe5a448595adce7558ca7
+      internalID: 380157403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 810
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135ffb788c56e7a47b4aa7ab93914a79
+      internalID: -812204041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 810
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b95f5a1bcd38148a18adf590b03936
+      internalID: 1919028884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 848
+        width: 186
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade7eccb8fd64c449b6fcfe93e4789c
+      internalID: -969691755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_27
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 895
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aad692865512b47ad4f7764d32c528
+      internalID: -192729034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_28
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 888
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571f4ca2416e28c449a2853efb5ea317
+      internalID: 1152856462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_29
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 882
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b258c672f6e4df34c977869827dcfe50
+      internalID: 2037965534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 830
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ae8ff959d5c214d95ea0baabf4e70f
+      internalID: -921570577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 866
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00fce7807254df4683627c897b52f34
+      internalID: -2129864629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_32
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 767
+        width: 134
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31238b439fa6ff4f978cbb135b99b1b
+      internalID: -1709955116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_33
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 772
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660435f7c94e3d94da2d13e025a602df
+      internalID: -94982999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 836
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1e5cffc3f5fc840a54b9959fa17b6b
+      internalID: -1292876408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 737
+        width: 134
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214b166cd1e07534e9c4cda03d029b6e
+      internalID: 494565314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_36
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 791
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b168867d226da704da05d48df95ada35
+      internalID: -1564918021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_37
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 806
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd735ef0531c2843bf63dcd956a20b4
+      internalID: -836448097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_38
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 786
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649c4dc9aaa92904aa9c38f62a62ffd5
+      internalID: -369880892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 691
+        width: 134
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cb3f7d562830f4a8d5a4c5db188756
+      internalID: -1523397492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_40
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 691
+        width: 134
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add79baad5cecad4ab3e0f4ce23aa8e2
+      internalID: 122189131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_41
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 689
+        width: 123
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219f466f5fc11d34bb3ba643c7de356a
+      internalID: -330839308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_42
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 698
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0facf5bbec3134eb5ebb1ad493cf81
+      internalID: 1122431659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_43
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 743
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bedee8ecdc42043860afcf6eaefe3f
+      internalID: 85731313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_44
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 641
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe956511c7f8846a53d8787d93ed25
+      internalID: -1124235556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_45
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 629
+        width: 71
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba245937e9c0a9c488eef872ec6a2936
+      internalID: -665863105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_46
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 591
+        width: 56
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d2357cf6bae1a4bb295b07a6369bfc
+      internalID: -1681125565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 580
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67fa038cf4554e49a8e0a4007c01c88
+      internalID: -1165645502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_48
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 590
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb1ec36ae5a6bf4a86906d50a08a644
+      internalID: 266731184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_49
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 661
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7698f467ef2a342adbd72b0d624384
+      internalID: -432122323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_50
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 499
+        width: 49
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e575d166e1af241a2dfbcb2ca8d67d
+      internalID: 37139088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_51
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 654
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48490a1be77b52f4c9150a8a8c49fcb7
+      internalID: -1036046962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_52
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 587
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae288b4ef9ccdd40a4c9e8614291ea4
+      internalID: 1031971884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 582
+        width: 74
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb410f14b716c5d439a89cc62dda40f0
+      internalID: -1506225239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_54
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 559
+        width: 54
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e694cfed6db76c4ca652f4472261816
+      internalID: 575937276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_55
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 642
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ede073f5c9ea0448fcbc63cfc8f72a
+      internalID: 1637781071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_56
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 583
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbf854871308bf4c82e5fdfc74e6bbd
+      internalID: 1822234446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_57
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 579
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e699960dedd14546a40dac5bd19f5c0
+      internalID: 475328451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_58
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 580
+        width: 166
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae312a17818c67941ba14aab6b063354
+      internalID: 808025617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_59
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 594
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba50931df743954f83a2bb37747a40e
+      internalID: -1006181131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_60
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 593
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c27c3b2ca6da554ea9ac3297bd38f40
+      internalID: 484982872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 459
+        width: 69
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc5568e815e8f04cb52f3899cda17c5
+      internalID: -68333588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_62
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 548
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f1420a6a70221479d474f798dafcbf
+      internalID: -1051001154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_63
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 482
+        width: 86
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6becef35e06d9ce439d248232ce02983
+      internalID: 1251893189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_64
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 494
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2007bd37c3c4484e956a0be868c0022
+      internalID: -1890717270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_65
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 507
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e08518f1affa64b9a97a58c6410a06
+      internalID: -12439080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_66
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 479
+        width: 86
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38b107b099bf2e40ab604407d6ebf6c
+      internalID: 69187537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_67
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 435
+        width: 54
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ccd6570df745045a6bbd2df2ab950f
+      internalID: -1790277253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_68
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 416
+        width: 51
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88a2de815df6414a80c30a72df65e46
+      internalID: 2077769016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_69
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 545
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0072137de58ba1d4088b35f9e4b3cb6a
+      internalID: -1611819072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_70
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 523
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e4fee76f137a54db452362f8a4d73c
+      internalID: -1636484469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_71
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 488
+        width: 86
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aa2e52cbc99984593d1ce43371c8a9
+      internalID: 1794411051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_72
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 516
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b485c142aea3db64f9de1a620da285e6
+      internalID: 11737526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_73
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 518
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7984a75750cd3a46b9af21d3f8d6964
+      internalID: 422084184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_74
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 484
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e20b2190e6835479f9b88205778f8e
+      internalID: 1923911496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_75
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 415
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e2bea50074fb1478a351b60b8c4073
+      internalID: 884701310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_76
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 479
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014d53a30df71dd48a44ea88456c1308
+      internalID: -488641060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_77
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 472
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00366925b34d804fa5d1d7e712f499f
+      internalID: -1579562066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_78
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 429
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfeb0ffc49cc2444b5bb68960af5f0f
+      internalID: 957037989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_79
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 488
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2d709c5883ef14eb1744930f608d2e
+      internalID: -145639703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_80
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 409
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6a62920c4be4a4095bd41641965d30
+      internalID: 1032753870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_81
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 409
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9826af41ee2182f48ac22d3217ffbb0b
+      internalID: -1000468358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_82
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 406
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa07f8f05c91b649b4904f4ff74bc75
+      internalID: -1171894743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_83
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 312
+        width: 35
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365de9d3306f98d4dbaa35edf65f5d66
+      internalID: -1517714790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_84
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 367
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c3eb2c7ec84f6419e56629112f5500
+      internalID: 1715428401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_85
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 446
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808c912b24704a944b009d58b4e20142
+      internalID: 827870933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_86
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 415
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714e8d605c81dc246b4d27711f839d98
+      internalID: -1356362159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_87
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 331
+        width: 41
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d627eb7f0a8e5e49aa2894f276caa8b
+      internalID: 1213030237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_88
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 458
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae803cbed3ccac84f93cd39bfe4fac3f
+      internalID: 775492915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_89
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 358
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505022ed4fd6ccc43b3a364846fb30c1
+      internalID: 1117890302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_90
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 434
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebf8b7b774d9244eaf17e6f622f1dfa
+      internalID: 607595841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_91
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 364
+        width: 97
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789160ec8bce9a94daf0d08220296cfd
+      internalID: 971575968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_92
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 410
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bc8f11574f8124b901b5cea6d7ad16
+      internalID: -1018271807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_93
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 313
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bcee6d9bd53a54a979a145328bce47
+      internalID: -1903843587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_94
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 338
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903415084274c8b4d98d8c3c6b9b4b25
+      internalID: 1014486070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_95
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 356
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa31a1e29a87014f9a42bbad2ee866e
+      internalID: 1792234050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_96
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 350
+        width: 97
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37070246c4701664a8396b2a516e17ae
+      internalID: 1296985796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_97
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 353
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226625a452c53e6458fd1d57d9ec1d0d
+      internalID: -878033021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_98
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 351
+        width: 97
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbb473d25fc76642b6779a981486407
+      internalID: 532685180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_99
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 350
+        width: 97
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bff290d53587c468759eaba957a323
+      internalID: 321636332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_100
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 386
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eea45482d6b7bc47b72a70b09e1ada9
+      internalID: -1893115869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_101
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 362
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c7b5c89b9c1994e9876dc5ce7e08a4
+      internalID: 1530100846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 313
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80075476beb780b4bb14d6d9734f6167
+      internalID: -1415210789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_103
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 296
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52de029bb73c20a4e80c3b14ed1bfbc8
+      internalID: 1816426482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_104
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 308
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e4bb1c681935946bb56090c8376e01
+      internalID: -99803459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_105
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 300
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b584776d756ec4dbc3cd2237cb7fbe
+      internalID: 1811065789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_106
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 298
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4d86db5aec47d4398746b9df99f590
+      internalID: 1022791316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_107
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 310
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871ef944c10c0ae449f14be28d6f844c
+      internalID: -965687048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_108
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 339
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1684a30b43e1c46b963b22da295b15
+      internalID: -1332379881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_109
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 261
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610eff56b3d93484691cd269fcdf13c6
+      internalID: 1752290756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_110
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 261
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ffdd66df864bb4eba6276cab555347
+      internalID: -243972339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_111
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 305
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373068ab204feb645a2e95c698fb039c
+      internalID: 34911853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_112
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 305
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ed7a6f6e83bb443a1dcae16a35de53
+      internalID: -1636840913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_113
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 279
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db018864edbba99468bd612222f95c39
+      internalID: -943884581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_114
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 247
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d72a72cbff34648a888225c24e802c
+      internalID: 543101526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_115
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 212
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078036eccb1bacb47bce70f2a7eba0b6
+      internalID: -1355285803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_116
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 212
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c40fc21c7ff2064381f323b1c2305a7
+      internalID: -627461165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_117
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 275
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a4e7d27d2666e42832d8e328a0fafd
+      internalID: -381531703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_118
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 243
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928e29efdaf4575409f8d4e874b3c8de
+      internalID: -140077073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_119
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 243
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf4550f4c6e2cb4ca58f1d630f02f4a
+      internalID: 1157425001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_120
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 258
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297be2f3f44016544b0677863973f85f
+      internalID: 1044748226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_121
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 260
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ce7e00e3d844f4386814dc3f923d79
+      internalID: 1117754415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_122
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 244
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23ad122183cf7043b0fc2a0cf52f76d
+      internalID: 170405341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_123
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 242
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78dc4ebe3004da47b889f34d2d78889
+      internalID: -697097237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_124
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 215
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfcaab647c55a84cbd466320edec2a9
+      internalID: -365410508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_125
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 258
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f793c50930a55f40adbc570ff5f135e
+      internalID: -47706431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_126
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 214
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d784b3c2e189312479c1cac10b518432
+      internalID: -791835092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_127
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 194
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfdd65fc684c264695b7b756ef9e8ff
+      internalID: 548112169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_128
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 176
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dba1ec3db87d44f90ca4f0e5387126
+      internalID: -349982626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_129
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 176
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c35e785112e3344bc1d7f7266010e0
+      internalID: 954933273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_130
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 176
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978a68e3abd6f4f4898935346cd8d584
+      internalID: 1364381769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_131
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 223
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae52a16a463d8da41971f78adacd2699
+      internalID: -137838594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_132
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 155
+        width: 27
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4e98ee255ed5c40bd7d884a24c6be8
+      internalID: 525153023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_133
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 169
+        width: 19
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd55fd549ded1f94b85dcd3a96d544be
+      internalID: 1959171675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_134
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 157
+        width: 15
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beaebe40c9737a4782f0964f2875bde
+      internalID: 1934318889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_135
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 181
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee8e46af2913184ba85714429b8e0b2
+      internalID: -1512166752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_136
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 181
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc34f27396d960469909732c964a030
+      internalID: 1757633304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_137
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 188
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e196776c59ce14596d2624783488af
+      internalID: 1215593155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_138
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 193
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd056b685949e143a8593b83ae1d268
+      internalID: -1158870316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_139
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 178
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afe6d0510ba26a458f112962deb4daf
+      internalID: -1582289318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_140
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 180
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d16be18ef1224c81b809676b33e77
+      internalID: -438778146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_141
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 190
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd133618bff4ad245b87332d496bf280
+      internalID: 955929229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_142
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 151
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79373e41e145ad41a2faf436e1692f3
+      internalID: 1575134019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_143
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 148
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1db00fca3994b4287549fd18773d94
+      internalID: -1276583781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_144
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 175
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850343d95e536ce4e98e94da5e10ce99
+      internalID: -75953186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_145
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 137
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a346fc300fc84194b8a77dd2c56ff338
+      internalID: 1769215105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_146
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 137
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07efa4216efac0468fd1a7f7b0d0d25
+      internalID: -1110863685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_147
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 160
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874bc3a58de7a2c44bfc9a3749f0d4cb
+      internalID: 2141621872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_148
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 157
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5bac5fc5f932c478a97f57e29b0869
+      internalID: 1904375366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_149
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 140
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f948457aeb49a148be83a67c45c30cd
+      internalID: 760974771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_150
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 152
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b468badb7e609245806e17275326207
+      internalID: 1808244978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_151
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 141
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a427d1ae61fca6c44845126bbc20709e
+      internalID: -1756057461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_152
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 131
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c286de22c4ad2f439bd8fc36c17514e
+      internalID: -128302504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_153
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 135
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4b3ef5e69115849b88a11cc722a189
+      internalID: 1114992112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_154
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 103
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e71f3b023ad0d44cbd7b60dfba6bb58
+      internalID: 604810774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_155
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 103
+        width: 22
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76897a69933817c46a194b35582184b0
+      internalID: -1498752119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_156
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 110
+        width: 17
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ff80ebc95f9e34fa1ea22d6836a873
+      internalID: -222796620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_157
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 104
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fa3c93d4f163b41a0c47345d08f1f7
+      internalID: -571232366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_158
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 105
+        width: 22
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0219ab930330e9645a86c18c7fd9df1d
+      internalID: 1106101766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_159
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 112
+        width: 17
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47cc44bcee3e1a4994b1d6d8e5f51c9
+      internalID: -1738224089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_160
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 106
+        width: 14
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a2c0b29ffbafc4ca9eb1ec58ae930b
+      internalID: -1463641598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_161
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 158
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600f9a6dcdc5e274da9b006c1484338e
+      internalID: -1021284646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_162
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 94
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13965a425707a894c97ec7097898b1b2
+      internalID: -1595540125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_163
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 98
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf122291900064a4ea0cd84aa96376dc
+      internalID: 954500729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_164
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 103
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b564da685f86514694aa93b5e3e0660
+      internalID: 384784119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_165
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 92
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3cdf66104827e49abef34aabe37d17
+      internalID: -1507011374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_166
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 110
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31d4f353e40f32459e8e7696bc679ef
+      internalID: 2051474167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_167
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 103
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a2bdd6096c9b54d9941431d69e7989
+      internalID: -2087465796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_168
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 67
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c34fa31faeb7d418343f8b0307ceee
+      internalID: 1286905566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_169
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 93
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036244f34d8909a4988aa09bd44fcd50
+      internalID: -1571462924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_170
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 96
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d561dd026a7f144a9ca602dbad104a6
+      internalID: 197613473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_171
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 111
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae832074c210d8c46a1b1052495d56fc
+      internalID: 1757526020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_172
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 95
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395049ed062344f48a01dfc0de15e292
+      internalID: -1597582646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_173
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 95
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bb726258521d04d9efb3e3ba37236b
+      internalID: -1732516399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_174
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 70
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0dba22a30d119468a29b0a0d2c6851
+      internalID: 730475569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_175
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 70
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8544f25d362b1b46afc561e0da16678
+      internalID: 1482957164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_176
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 70
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae29a9a4daa0be498ed35fcd9ac1fe5
+      internalID: 1757282582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_177
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 62
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0491ae9320580a3488afafdcfaf5f12f
+      internalID: -1724167931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_178
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 68
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7713bf1a607535049bf46d271e6ffe2b
+      internalID: -1562836687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_179
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 70
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a938d5bf0b3cd94e8f1da3e67349834
+      internalID: 129138002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_180
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 65
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c06ffacebe513c4895600462ce10ad2
+      internalID: -1118678675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_181
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 77
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f91270e49ce0347bf40c277665f04e
+      internalID: -305521666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_182
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 73
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e3c7c8504b30948bc2e60984376e0c
+      internalID: 638440679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_183
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 74
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75eb4a787ba17154a920404e08cdde5f
+      internalID: -86993602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_184
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 55
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60df5a8c45f187a4e9aad845eb2bf083
+      internalID: 1501288930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_185
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 64
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335f6d90bdbcc6f4aa0ace631cd3b2fb
+      internalID: -1275964993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_186
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 64
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bc09f72ea28e34091f3c262971a6e5
+      internalID: 888271549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_187
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 72
+        width: 60
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52289817b8403aa40a13cf8451f2df94
+      internalID: 2031998287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_188
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 67
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2831b3382670f274997679b430b11b0e
+      internalID: 1479399054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_189
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 63
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da5f77d23e551f4fbc53bd27f0ff5bc
+      internalID: 1121356726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_190
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 63
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dea06aed2b22d419c24b0aad93c1e7
+      internalID: 275335439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_191
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 34
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a134a35e2e3a4db48b84885d08f2727a
+      internalID: 1470434344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_192
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 32
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50815bc8d6975e64891636a734b60710
+      internalID: -271763561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_193
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 31
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986f1c17e221ce247a02c84b988a0ed1
+      internalID: -830861615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_194
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 41
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fda9348c9a1d124b9191903cb3582c3
+      internalID: 1532990653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_195
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 37
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aeee8caf01f654b81f18076b7542a5
+      internalID: 512282812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_196
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 49
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad11d886644d304e9f500bfe41cef63
+      internalID: -1089419472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_197
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 46
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fbe7d53f9c1c04ea3d3a312406a5f3
+      internalID: 1491623419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_198
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 37
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be008d1e80b8fdd4ca0a8ca973c5f552
+      internalID: 938871196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_199
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 47
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cff77bfed01ebb4f88a8d66e50ec19d
+      internalID: 706402381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_200
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 39
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0643676a057064f85db00b61071e3a
+      internalID: 1439477249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_201
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 36
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2dbcfb1e59f2f45ad1a4360b0a38ed
+      internalID: 987863549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_202
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 35
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beccc14f14ff6c7449d9f3b0e41087e1
+      internalID: -1001689452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_203
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 42
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a482130250fc80741a009dd2e4321647
+      internalID: -522626628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_204
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 39
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915478c619752784d90cc4791a882cd2
+      internalID: 1421611556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_205
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 34
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4f5d779ead9174cb008e557f2cd3d2
+      internalID: 2011014730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_206
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 34
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e767be370cbd4c44dba7d5e74f23ed1b
+      internalID: 469298883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_207
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 34
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61fa419ef0c32d4a88ab3cf634309d8
+      internalID: 1306864989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_208
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 43
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc799e78ecd1be40ad928131f791551
+      internalID: 1203009403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_209
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0819dc4c1bc05f24bae3dd7309e63b59
+      internalID: 71416782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_210
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 34
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42299ccef64aa94c9f520d0794c0fb8
+      internalID: -725554282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_211
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 13
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367a368c9adb02647b23243947d210fa
+      internalID: -1455923303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_212
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 9
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c496ce5fc12dce24bb415dc9edb9ee81
+      internalID: 1123300449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_213
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 7
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad3844bee01a2a44a4eb353c4f7bfe1
+      internalID: -200214613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_214
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 21
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497627e12324ad644ad7899aee61e61b
+      internalID: 1304122684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_215
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 18
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7194456e786ff1344a31dd32e8ad5640
+      internalID: -244172234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_216
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 17
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cacf732b4c77964ebbf2aff7c41c193
+      internalID: -1382776256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_217
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 8
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae17cc7e9733c24e85c83a594786560
+      internalID: 863876589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_218
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 19
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd040ba7a50d9049ae0994af85af514
+      internalID: 1358351434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_219
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 11
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29fefbbfa5220b419f54dc25bf0ade6
+      internalID: -1968263576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_220
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 27
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96af9836474f99745a9246d96a43f8ee
+      internalID: -1796454194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_221
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 8
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd185ddca8e7ca498fab6fc4e167ec3
+      internalID: -1374268757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_222
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 8
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c7d754a18dcb04bb2ebd070e28f769
+      internalID: 1707553174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_223
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 12
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1a4f26837dde84fbc30830f98dea3f
+      internalID: 989660059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_224
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 5
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e914a15a2ff6a994389d7e56b807e0f6
+      internalID: 1009305776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_225
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 14
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514c02195b0bfd0429dc1ecb8e457865
+      internalID: 621522534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_226
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 11
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b4007c66bd8a24d8756e8932b8e782
+      internalID: 1931307871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_227
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 12
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb65986716cc674ebeced3e53ef8c39
+      internalID: 794515349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_228
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 12
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cf9efe9bb03f64eac82e2f03b9385f
+      internalID: -1811301465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_229
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 12
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abd6d3dad89bf6419ccddd4c2c36153
+      internalID: -1077003194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_230
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 11
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6618d24eb7c61444cafd04411b1050ec
+      internalID: -966258840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_231
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 6
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6664cfd04787cc943b2ba3ff847c5f0f
+      internalID: -956118171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_232
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0bd583db42dd342a8686cb602130cf
+      internalID: -1542068030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_233
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 3
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40ab05182ba6974eb3121d7ebf27e13
+      internalID: -1865509614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_234
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 3
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bc6eebbcbead847805c6e878df1c77
+      internalID: 1451505870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TigergrassObject_235
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 12
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eba20fbeab5104ca8f8d618c11cff7
+      internalID: 964902952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TigergrassObject_4: 498712963
+      TigergrassObject_51: -1036046962
+      TigergrassObject_64: -1890717270
+      TigergrassObject_203: -522626628
+      TigergrassObject_3: 410297176
+      TigergrassObject_115: -1355285803
+      TigergrassObject_117: -381531703
+      TigergrassObject_181: -305521666
+      TigergrassObject_66: 69187537
+      TigergrassObject_113: -943884581
+      TigergrassObject_173: -1732516399
+      TigergrassObject_228: -1811301465
+      TigergrassObject_48: 266731184
+      TigergrassObject_121: 1117754415
+      TigergrassObject_155: -1498752119
+      TigergrassObject_222: 1707553174
+      TigergrassObject_215: -244172234
+      TigergrassObject_73: 422084184
+      TigergrassObject_118: -140077073
+      TigergrassObject_0: -323458432
+      TigergrassObject_57: 475328451
+      TigergrassObject_43: 85731313
+      TigergrassObject_197: 1491623419
+      TigergrassObject_8: -1010260833
+      TigergrassObject_70: -1636484469
+      TigergrassObject_131: -137838594
+      TigergrassObject_146: -1110863685
+      TigergrassObject_190: 275335439
+      TigergrassObject_212: 1123300449
+      TigergrassObject_192: -271763561
+      TigergrassObject_99: 321636332
+      TigergrassObject_88: 775492915
+      TigergrassObject_153: 1114992112
+      TigergrassObject_100: -1893115869
+      TigergrassObject_171: 1757526020
+      TigergrassObject_145: 1769215105
+      TigergrassObject_119: 1157425001
+      TigergrassObject_28: 1152856462
+      TigergrassObject_81: -1000468358
+      TigergrassObject_129: 954933273
+      TigergrassObject_163: 954500729
+      TigergrassObject_191: 1470434344
+      TigergrassObject_108: -1332379881
+      TigergrassObject_165: -1507011374
+      TigergrassObject_102: -1415210789
+      TigergrassObject_162: -1595540125
+      TigergrassObject_75: 884701310
+      TigergrassObject_35: 494565314
+      TigergrassObject_101: 1530100846
+      TigergrassObject_55: 1637781071
+      TigergrassObject_216: -1382776256
+      TigergrassObject_97: -878033021
+      TigergrassObject_93: -1903843587
+      TigergrassObject_130: 1364381769
+      TigergrassObject_224: 1009305776
+      TigergrassObject_107: -965687048
+      TigergrassObject_34: -1292876408
+      TigergrassObject_58: 808025617
+      TigergrassObject_59: -1006181131
+      TigergrassObject_40: 122189131
+      TigergrassObject_183: -86993602
+      TigergrassObject_26: -969691755
+      TigergrassObject_185: -1275964993
+      TigergrassObject_187: 2031998287
+      TigergrassObject_221: -1374268757
+      TigergrassObject_147: 2141621872
+      TigergrassObject_169: -1571462924
+      TigergrassObject_53: -1506225239
+      TigergrassObject_9: -1209552995
+      TigergrassObject_68: 2077769016
+      TigergrassObject_2: -385757812
+      TigergrassObject_38: -369880892
+      TigergrassObject_122: 170405341
+      TigergrassObject_227: 794515349
+      TigergrassObject_211: -1455923303
+      TigergrassObject_142: 1575134019
+      TigergrassObject_36: -1564918021
+      TigergrassObject_200: 1439477249
+      TigergrassObject_92: -1018271807
+      TigergrassObject_106: 1022791316
+      TigergrassObject_206: 469298883
+      TigergrassObject_77: -1579562066
+      TigergrassObject_179: 129138002
+      TigergrassObject_223: 989660059
+      TigergrassObject_7: -1119798379
+      TigergrassObject_128: -349982626
+      TigergrassObject_172: -1597582646
+      TigergrassObject_132: 525153023
+      TigergrassObject_27: -192729034
+      TigergrassObject_19: -522547421
+      TigergrassObject_180: -1118678675
+      TigergrassObject_156: -222796620
+      TigergrassObject_149: 760974771
+      TigergrassObject_11: 1197811771
+      TigergrassObject_29: 2037965534
+      TigergrassObject_226: 1931307871
+      TigergrassObject_134: 1934318889
+      TigergrassObject_159: -1738224089
+      TigergrassObject_166: 2051474167
+      TigergrassObject_201: 987863549
+      TigergrassObject_140: -438778146
+      TigergrassObject_127: 548112169
+      TigergrassObject_47: -1165645502
+      TigergrassObject_141: 955929229
+      TigergrassObject_182: 638440679
+      TigergrassObject_13: 1393417450
+      TigergrassObject_67: -1790277253
+      TigergrassObject_125: -47706431
+      TigergrassObject_170: 197613473
+      TigergrassObject_103: 1816426482
+      TigergrassObject_1: -853476955
+      TigergrassObject_139: -1582289318
+      TigergrassObject_167: -2087465796
+      TigergrassObject_144: -75953186
+      TigergrassObject_220: -1796454194
+      TigergrassObject_41: -330839308
+      TigergrassObject_54: 575937276
+      TigergrassObject_5: -1662874942
+      TigergrassObject_138: -1158870316
+      TigergrassObject_160: -1463641598
+      TigergrassObject_78: 957037989
+      TigergrassObject_79: -145639703
+      TigergrassObject_137: 1215593155
+      TigergrassObject_195: 512282812
+      TigergrassObject_61: -68333588
+      TigergrassObject_208: 1203009403
+      TigergrassObject_150: 1808244978
+      TigergrassObject_32: -1709955116
+      TigergrassObject_37: -836448097
+      TigergrassObject_133: 1959171675
+      TigergrassObject_235: 964902952
+      TigergrassObject_6: -1553985392
+      TigergrassObject_42: 1122431659
+      TigergrassObject_196: -1089419472
+      TigergrassObject_232: -1542068030
+      TigergrassObject_95: 1792234050
+      TigergrassObject_74: 1923911496
+      TigergrassObject_31: -2129864629
+      TigergrassObject_207: 1306864989
+      TigergrassObject_230: -966258840
+      TigergrassObject_46: -1681125565
+      TigergrassObject_23: 380157403
+      TigergrassObject_120: 1044748226
+      TigergrassObject_86: -1356362159
+      TigergrassObject_16: 2140446862
+      TigergrassObject_219: -1968263576
+      TigergrassObject_184: 1501288930
+      TigergrassObject_214: 1304122684
+      TigergrassObject_33: -94982999
+      TigergrassObject_17: -322885956
+      TigergrassObject_161: -1021284646
+      TigergrassObject_49: -432122323
+      TigergrassObject_151: -1756057461
+      TigergrassObject_178: -1562836687
+      TigergrassObject_114: 543101526
+      TigergrassObject_98: 532685180
+      TigergrassObject_72: 11737526
+      TigergrassObject_116: -627461165
+      TigergrassObject_135: -1512166752
+      TigergrassObject_234: 1451505870
+      TigergrassObject_210: -725554282
+      TigergrassObject_157: -571232366
+      TigergrassObject_126: -791835092
+      TigergrassObject_229: -1077003194
+      TigergrassObject_218: 1358351434
+      TigergrassObject_56: 1822234446
+      TigergrassObject_231: -956118171
+      TigergrassObject_233: -1865509614
+      TigergrassObject_154: 604810774
+      TigergrassObject_148: 1904375366
+      TigergrassObject_176: 1757282582
+      TigergrassObject_45: -665863105
+      TigergrassObject_225: 621522534
+      TigergrassObject_52: 1031971884
+      TigergrassObject_112: -1636840913
+      TigergrassObject_143: -1276583781
+      TigergrassObject_20: 1564144855
+      TigergrassObject_91: 971575968
+      TigergrassObject_10: -604870136
+      TigergrassObject_96: 1296985796
+      TigergrassObject_217: 863876589
+      TigergrassObject_21: -750591046
+      TigergrassObject_152: -128302504
+      TigergrassObject_174: 730475569
+      TigergrassObject_158: 1106101766
+      TigergrassObject_168: 1286905566
+      TigergrassObject_186: 888271549
+      TigergrassObject_63: 1251893189
+      TigergrassObject_90: 607595841
+      TigergrassObject_85: 827870933
+      TigergrassObject_83: -1517714790
+      TigergrassObject_104: -99803459
+      TigergrassObject_110: -243972339
+      TigergrassObject_14: -1235969110
+      TigergrassObject_193: -830861615
+      TigergrassObject_189: 1121356726
+      TigergrassObject_65: -12439080
+      TigergrassObject_194: 1532990653
+      TigergrassObject_30: -921570577
+      TigergrassObject_15: -1830782794
+      TigergrassObject_209: 71416782
+      TigergrassObject_12: 1967585868
+      TigergrassObject_89: 1117890302
+      TigergrassObject_175: 1482957164
+      TigergrassObject_24: -812204041
+      TigergrassObject_105: 1811065789
+      TigergrassObject_198: 938871196
+      TigergrassObject_69: -1611819072
+      TigergrassObject_202: -1001689452
+      TigergrassObject_18: 1368389216
+      TigergrassObject_94: 1014486070
+      TigergrassObject_205: 2011014730
+      TigergrassObject_84: 1715428401
+      TigergrassObject_44: -1124235556
+      TigergrassObject_50: 37139088
+      TigergrassObject_124: -365410508
+      TigergrassObject_213: -200214613
+      TigergrassObject_82: -1171894743
+      TigergrassObject_60: 484982872
+      TigergrassObject_199: 706402381
+      TigergrassObject_62: -1051001154
+      TigergrassObject_80: 1032753870
+      TigergrassObject_109: 1752290756
+      TigergrassObject_111: 34911853
+      TigergrassObject_76: -488641060
+      TigergrassObject_22: 455590126
+      TigergrassObject_25: 1919028884
+      TigergrassObject_204: 1421611556
+      TigergrassObject_71: 1794411051
+      TigergrassObject_123: -697097237
+      TigergrassObject_177: -1724167931
+      TigergrassObject_164: 384784119
+      TigergrassObject_136: 1757633304
+      TigergrassObject_188: 1479399054
+      TigergrassObject_39: -1523397492
+      TigergrassObject_87: 1213030237
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2003 @@
+fileFormatVersion: 2
+guid: bc3c0756d8eaab843968f983367c3760
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TransportBoatObject_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1643
+        width: 1002
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be21c3c2a66de754cb4a7f34be324320
+      internalID: -1628361934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_1
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1448
+        width: 651
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7670e8bd6b5a0784c82802f50b38f4cb
+      internalID: -1965808815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_2
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1682
+        width: 292
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c158f28b86cc66418ad6b8a0f45b1ca
+      internalID: 1071137158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_3
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1776
+        width: 101
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6624a31385f16c4faa973c35d6f9def
+      internalID: 1400585442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_4
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1507
+        width: 91
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4779a844c41ed64409a3e2412106deca
+      internalID: 1800056362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_5
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1765
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b0ef64e64cd7240a905911c4689a30
+      internalID: 1148239495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1490
+        width: 236
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fcb35c5a2413c4d8148e3d8ce73434
+      internalID: 1942634734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_7
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1617
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed16227060884ee49bc1b1e36b98d007
+      internalID: 1297521555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_8
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1402
+        width: 214
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaacfb05be53874ca37c96a97621832
+      internalID: -423133140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_9
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1606
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ec0873ae9d1bd4abfc753b25f6643d
+      internalID: 880769024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_10
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1606
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547d705e0f9334547b2f2ae832a77b45
+      internalID: -855602271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_11
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1414
+        width: 111
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0873f32060a27d42b9667c3576c3205
+      internalID: 1147735428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_12
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1580
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfdbc3b0445c354aa743059e488700c
+      internalID: -542923772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_13
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1530
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e530ebca3f0e5d4b827ad203d0a038d
+      internalID: -1301427021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_14
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1547
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83125eb435075aa4c84cfc09e585315b
+      internalID: -1596309767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_15
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1514
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65bbe7ac58653942afccc8843f2e974
+      internalID: 1942857088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_16
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1487
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8dd5e48f955f143ab3240d6bc68167
+      internalID: 190473456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_17
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1410
+        width: 120
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3930e328b1b59a4d8be7dbd0c7c3040
+      internalID: 1593671893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_18
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1432
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f12f53b29153b24aa16de052a864dc1
+      internalID: -1624804762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1300
+        width: 478
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ccc3411c3d336478eb57b2db6ad400
+      internalID: 855500341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_20
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1382
+        width: 104
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9963c3d16ebfd97478ad0c814971c536
+      internalID: 523654868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_21
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1414
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a94c1678e147a46a17b8da0f0fe554
+      internalID: 1191893484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_22
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 1386
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c706fc415082bcb43b2c15cd565eefaf
+      internalID: 963562411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_23
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1165
+        width: 331
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0267bbe0be5ca7489e5d571ec26f78c
+      internalID: -1654036767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_26
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1258
+        width: 181
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1133471dfb998ff44adeb8cf6d2a1c61
+      internalID: -1163606640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_28
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1250
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ee788d6cf96df48a93875beebddce1
+      internalID: 1490891000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 946
+        width: 487
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90289fff0159304d85822e07db46ec3
+      internalID: -316848269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_36
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 934
+        width: 471
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e2c5c0e1197f749a67d2cdcf8840bc
+      internalID: -1146464025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_40
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 1258
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f415746d63de0e4cb9bc8d3b9c233e8
+      internalID: -1321554805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_59
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 892
+        width: 461
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a0dca5562e91a44a0fb6d21e06d46f
+      internalID: -2127551029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_60
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1050
+        width: 123
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb5b084b91309e468363e172e951fd1
+      internalID: -2109877337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_61
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1100
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89acbf82ef89d0e478a2909518c63363
+      internalID: 1971991668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_62
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 954
+        width: 115
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358b5de0729f700448d0c4b53e42610d
+      internalID: -904531673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_63
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 878
+        width: 128
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587f2a03615f6c749be2e5f2dc8ad976
+      internalID: -1528900633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_64
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1078
+        width: 93
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccdcdbcb690b57408d39d2c5975ea9f
+      internalID: 386390427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_65
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1124
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d35468dbac0c54295627be5ccfc641
+      internalID: -181608117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_66
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1108
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1095700695f77a548a997b6ada91e49f
+      internalID: -307260719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_67
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1060
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e819e188a9944d74da42da3aabb6b384
+      internalID: -438252569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_68
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1022
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3468c7866f8433b48a53d238f5b7c670
+      internalID: 1925575342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_69
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 958
+        width: 109
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944e0468d2916b54dac54d93bc39fe31
+      internalID: 1855079386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_70
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1007
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae252a6e3e71e54c9b60543da5b4f1b
+      internalID: -1203589889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_71
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1020
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8ff8da4c630a24dba03a2af69ec059
+      internalID: -147254826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_72
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 1010
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ba0351201f43a4593d5d9de167dfc6
+      internalID: -1135665520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_73
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1006
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f6721570438a141b335479d9b2e0cf
+      internalID: -490806350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_74
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 966
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6609542232defbc488e9f10ebfa5c10b
+      internalID: -402784170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_75
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1000
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ef1ce7bbe6f23429a98db07f38b566
+      internalID: 1031877437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_76
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 966
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adb3af9d54a3264da953b5ede33f40d
+      internalID: -1453934815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_77
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 960
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2301d91e295a84148bf412b84b1552da
+      internalID: 136380724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_78
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 926
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c843a28b70cde45a7d4310904b3aae
+      internalID: -1384554289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_79
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 822
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582859542c6347a428183fd1356b7a65
+      internalID: 465598898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_80
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 833
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8270af47b857dc4283d88b3aafc566b
+      internalID: -1812421405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 838
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20f3b036e960e342ba8f473700a434d
+      internalID: -511376486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_82
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 854
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923e1308565faac468d00eee7ce770ad
+      internalID: 1776490233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_83
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 854
+        width: 120
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f0db0796dcfef47a9a8b04ef1197ee
+      internalID: 925445860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_84
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 878
+        width: 115
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df1052bc03e6fd44bf46341c4e58a34
+      internalID: 677171727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_85
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 888
+        width: 135
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a409e402fc76f64ebb118280c98538c
+      internalID: -1720404144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_86
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 886
+        width: 117
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928b0cadeff0dad4db869376ce14d7a9
+      internalID: -2041646650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_87
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 898
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3b0603e284dd649878e09dea2d7957
+      internalID: -1120314865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_88
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 774
+        width: 199
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f29b6c8ce8ce1e43847c6e4f94d5a6f
+      internalID: 1344647204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_89
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 830
+        width: 113
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42ec9957f23a6745924f10fa7ce4da2
+      internalID: 2037089677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_90
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 910
+        width: 63
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7253bc12d1f995d42b43cf766b2931e1
+      internalID: 1824427866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_91
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 893
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6669141cf5f8f64f9708fa510b6aa82
+      internalID: 1817354205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_92
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 894
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307186e8185b114478419cbb91bbb429
+      internalID: -1247223348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_94
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 850
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd2be5560befb498577bc6841d0e42
+      internalID: 861331049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_95
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 853
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2522789e8db5b549a61414a08c54d02
+      internalID: -1621922275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_96
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 850
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b9694583c94bc4e8b75d8bf03f1fd1
+      internalID: 1096301102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_97
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 830
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0289514a656cdd3499184524c150facc
+      internalID: 596268583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_98
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 838
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1651dcbcbdc52d44792cb26ee431a531
+      internalID: -11733413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_99
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 850
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994ad30255f949a488478b6afe8e9142
+      internalID: 1409565335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_100
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 850
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07db901a83b712e4aa73b8fd2b08c4c7
+      internalID: -1821109528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_101
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 858
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34364f4a20c97f1499b13ad9f2f9ef11
+      internalID: -243186569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_102
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 854
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca36f00cd9d35c42b12e7d6f8235186
+      internalID: -1779574046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_103
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 846
+        width: 101
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe287a20c55d3ab40b60dddbb0ecca4c
+      internalID: 299205228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_104
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 858
+        width: 94
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d098adffd579c44a2a0b71f1d63ff4
+      internalID: -2116728780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_105
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 866
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adac2ab315736514fbfde12c311841e9
+      internalID: -1231043477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_106
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 869
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f81068bd1ef2d47b851b86dd856b70
+      internalID: 181930169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_107
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 864
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcb60fd875744840b1e125a63ba6486
+      internalID: -1883586648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_108
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 864
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5392753bd87e34585a93d71d96566d
+      internalID: -1905306769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_109
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 858
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2181dbfb3648000498ba65817b760a4c
+      internalID: -2046726789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_110
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 866
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca2dd7df6a098c499d4b998f6bbf34b
+      internalID: -909467147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_111
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 846
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bc7d8b907be30429d56827e82a11b4
+      internalID: -1153264474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_112
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 844
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938796a6c5c9d6d4b9adbd35d2af5a58
+      internalID: 374425035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransportBoatObject_113
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 862
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fba0cdba1b4be4d9de465226f34539
+      internalID: 1366164433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TransportBoatObject_40: -1321554805
+      TransportBoatObject_56: 232039254
+      TransportBoatObject_99: 1409565335
+      TransportBoatObject_69: 1855079386
+      TransportBoatObject_24: -1055753248
+      TransportBoatObject_50: 1875755675
+      TransportBoatObject_95: -1621922275
+      TransportBoatObject_49: 1102383972
+      TransportBoatObject_59: -2127551029
+      TransportBoatObject_52: 1838684210
+      TransportBoatObject_92: -1247223348
+      TransportBoatObject_61: 1971991668
+      TransportBoatObject_14: -1596309767
+      TransportBoatObject_38: 236341016
+      TransportBoatObject_33: -844409675
+      TransportBoatObject_35: -316848269
+      TransportBoatObject_89: 2037089677
+      TransportBoatObject_91: 1817354205
+      TransportBoatObject_65: -181608117
+      TransportBoatObject_83: 925445860
+      TransportBoatObject_110: -909467147
+      TransportBoatObject_108: -1905306769
+      TransportBoatObject_42: 810081795
+      TransportBoatObject_41: -1985113785
+      TransportBoatObject_105: -1231043477
+      TransportBoatObject_73: -490806350
+      TransportBoatObject_77: 136380724
+      TransportBoatObject_29: -944397621
+      TransportBoatObject_5: 1148239495
+      TransportBoatObject_111: -1153264474
+      TransportBoatObject_78: -1384554289
+      TransportBoatObject_90: 1824427866
+      TransportBoatObject_25: 1780421198
+      TransportBoatObject_76: -1453934815
+      TransportBoatObject_21: 1191893484
+      TransportBoatObject_68: 1925575342
+      TransportBoatObject_55: -2120784122
+      TransportBoatObject_45: 2018290483
+      TransportBoatObject_2: 1071137158
+      TransportBoatObject_19: 855500341
+      TransportBoatObject_36: -1146464025
+      TransportBoatObject_6: 1942634734
+      TransportBoatObject_106: 181930169
+      TransportBoatObject_104: -2116728780
+      TransportBoatObject_48: 836239133
+      TransportBoatObject_31: 1918453255
+      TransportBoatObject_112: 374425035
+      TransportBoatObject_37: 1077888572
+      TransportBoatObject_86: -2041646650
+      TransportBoatObject_63: -1528900633
+      TransportBoatObject_0: -1628361934
+      TransportBoatObject_47: -1055932151
+      TransportBoatObject_93: -1224969088
+      TransportBoatObject_46: -1493863767
+      TransportBoatObject_30: 266238717
+      TransportBoatObject_12: -542923772
+      TransportBoatObject_102: -1779574046
+      TransportBoatObject_27: -478568542
+      TransportBoatObject_57: 2112146213
+      TransportBoatObject_4: 1800056362
+      TransportBoatObject_53: -251922194
+      TransportBoatObject_7: 1297521555
+      TransportBoatObject_72: -1135665520
+      TransportBoatObject_11: 1147735428
+      TransportBoatObject_51: 1616217521
+      TransportBoatObject_66: -307260719
+      TransportBoatObject_96: 1096301102
+      TransportBoatObject_98: -11733413
+      TransportBoatObject_3: 1400585442
+      TransportBoatObject_34: 1829936204
+      TransportBoatObject_109: -2046726789
+      TransportBoatObject_44: 687431416
+      TransportBoatObject_84: 677171727
+      TransportBoatObject_103: 299205228
+      TransportBoatObject_67: -438252569
+      TransportBoatObject_87: -1120314865
+      TransportBoatObject_20: 523654868
+      TransportBoatObject_18: -1624804762
+      TransportBoatObject_70: -1203589889
+      TransportBoatObject_1: -1965808815
+      TransportBoatObject_113: 1366164433
+      TransportBoatObject_16: 190473456
+      TransportBoatObject_22: 963562411
+      TransportBoatObject_80: -1812421405
+      TransportBoatObject_9: 880769024
+      TransportBoatObject_26: -1163606640
+      TransportBoatObject_28: 1490891000
+      TransportBoatObject_39: 875903054
+      TransportBoatObject_85: -1720404144
+      TransportBoatObject_79: 465598898
+      TransportBoatObject_8: -423133140
+      TransportBoatObject_97: 596268583
+      TransportBoatObject_88: 1344647204
+      TransportBoatObject_62: -904531673
+      TransportBoatObject_107: -1883586648
+      TransportBoatObject_82: 1776490233
+      TransportBoatObject_75: 1031877437
+      TransportBoatObject_43: -1213749834
+      TransportBoatObject_64: 386390427
+      TransportBoatObject_13: -1301427021
+      TransportBoatObject_101: -243186569
+      TransportBoatObject_94: 861331049
+      TransportBoatObject_71: -147254826
+      TransportBoatObject_23: -1654036767
+      TransportBoatObject_74: -402784170
+      TransportBoatObject_15: 1942857088
+      TransportBoatObject_10: -855602271
+      TransportBoatObject_32: -1901201812
+      TransportBoatObject_17: 1593671893
+      TransportBoatObject_58: 1219988899
+      TransportBoatObject_100: -1821109528
+      TransportBoatObject_60: -2109877337
+      TransportBoatObject_54: -1884215802
+      TransportBoatObject_81: -511376486
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7120 @@
+fileFormatVersion: 2
+guid: 78a05f5b3110664499606e6b2cd91b2f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZombieFighterObject_0
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1721
+        width: 265
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d398101e5f07a6419e42e36b37a1dbf
+      internalID: 297636060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_1
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1806
+        width: 228
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700a7279947a1cd4f8f5056b744e646f
+      internalID: 1992147814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_2
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1861
+        width: 319
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132ea6215ca4f0c4dad2e8df13355eb2
+      internalID: 1452345920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_3
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1823
+        width: 257
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c225c0dff353f489ed354a04f5acd4
+      internalID: 1013911403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_4
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1823
+        width: 249
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbcf3114fbd46646af5607bd17bd160
+      internalID: 1360679394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_5
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1823
+        width: 250
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76218dc569fbdad49b5989ad3f588be3
+      internalID: 1798229571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_6
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 2010
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745fe384602396e4aaa252ef5aaea766
+      internalID: 2115205394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_7
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1982
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b6dd0bfbf70434898ffa78df43b866
+      internalID: -799228607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1682
+        width: 311
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88141192e8ca9834eb8b3ac6c67fc057
+      internalID: -1079836868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_9
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1588
+        width: 174
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0632765f16acfa468cf71cb54f0452c
+      internalID: -2068832714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_10
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1918
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadeeec03fb8b8a45ba37cfe9482364d
+      internalID: 1334417549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_12
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1858
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50201873babbc1b4bb261e971a1cb1f2
+      internalID: -1046899420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_15
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1822
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7294fc054221dbb43ac0fbf886373b7a
+      internalID: -1830756008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_16
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1845
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f25db1eb2e6d26488a01523c6a8f5d7
+      internalID: -1625352258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_17
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 1826
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c0c917ba5312a42a04a6f7f187a1d0
+      internalID: 1324253988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_18
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1626
+        width: 239
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d17faa78c5a964aba9090e56db7aac
+      internalID: -754876894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_19
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1826
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d50a9038c67d34dbecc1a0ca4cb17c
+      internalID: 902440046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_20
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1826
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a2e9c216cebe4e9fe62d8e84f74c8
+      internalID: -471526665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_22
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1626
+        width: 247
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba6e32f0ca81f94bb2bb26e4c7d6515
+      internalID: 301349600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_24
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1748
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc576c5bcaccee40bfaf6e45b0061b8
+      internalID: 1994085995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_25
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1766
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9828684b20d1e49b5b52685599a4e9
+      internalID: 1470299371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_26
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1784
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879b65bc9871cbd4492729643a243659
+      internalID: 1514774934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_27
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1618
+        width: 164
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9340ff20df57c004492c197c810f80a3
+      internalID: 1475223076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_28
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1794
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15cb57258b08134e8d279abeafbc873
+      internalID: 54398779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_30
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1776
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68232ea0fbc91764e8336a82eb558932
+      internalID: -1558517463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_32
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1682
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edf8aa930cd3e049a82d089f498b445
+      internalID: 2023010517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_33
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1781
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f42c18804f877540bf9d408a35a1b6e
+      internalID: 1589115759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_35
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1771
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eefa46664281e149b306f7f15404ce0
+      internalID: 1193006773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_36
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1606
+        width: 195
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0911bca059f6a124a9af8c4442b6da3b
+      internalID: -227772165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_37
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1743
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b633cf229a6d94fbd435502d64dbfe
+      internalID: -1385801388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_38
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1753
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe10526508da92458a4312feab358a7
+      internalID: 202391388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_39
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1754
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130d181ed3d09884eab5c167effc7f6f
+      internalID: 475896168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_41
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1738
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb11dd222b946524ea3791509e56ce19
+      internalID: 1836962930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_42
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1706
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4a290106b6ae44692b5c372dd27186
+      internalID: -1728728751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_43
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1694
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f846837d06dbcfc4ea2cb5008842ced7
+      internalID: -506539939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_44
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1718
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1190041da2f8a4442978c6884f9048e4
+      internalID: -69775311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_45
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1610
+        width: 31
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6c7535f73e16b4c87dcbb3954b9ea3
+      internalID: 498898360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_47
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1702
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935e5e6af3da4a545aafef3710c2e910
+      internalID: 2069506634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_48
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1704
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ae11e1c3d6b4d4583fadbd5765e65f
+      internalID: -314676137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_49
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1561
+        width: 212
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c7a0bd67b3ce04aa6e29e3a9b02559
+      internalID: -2005952078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_51
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1690
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5414b8c3675604a9cdd5450da24f9d
+      internalID: 1401628034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_53
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1658
+        width: 75
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31da7074aa9ea94d8095e59e322ed87
+      internalID: -1860790320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_54
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1666
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aedee0ec8e4c242b958e99d2df77fe
+      internalID: 364309548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_55
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1674
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef726431f1155f345bdf4d68455940af
+      internalID: -1120919548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_56
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1630
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e8050d2358f1145b50b02488538ea1
+      internalID: -1532484388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_58
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1660
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d371642bdac3c840948ed33ab740781
+      internalID: 868288858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_59
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1646
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6678ffe8767869e43b5f8cca97250b8a
+      internalID: -559490121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_61
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1514
+        width: 231
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8574edfef023074ea6ea51c897efb50
+      internalID: -1549765278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_63
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1631
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17757648aa400014ea0db5cf6c4cd4a3
+      internalID: 1769712263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_64
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1562
+        width: 115
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d664678ae43c294ab7fbf3740df06fd
+      internalID: 1254110968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_65
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1586
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c2980b9ae07a0408075a05a6df4466
+      internalID: -912656687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_68
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1582
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fc98414c99a694cb197cbcb5a15466
+      internalID: -760812406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_69
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1618
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb70558371cafc4b9f9a393a8ec19c8
+      internalID: 1158745813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1478
+        width: 178
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec512bb07b8095b4897dc3f145e0708a
+      internalID: -177299451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_71
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1517
+        width: 43
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db1fb8c7dc7c95429f0f3aca155675f
+      internalID: -1710054320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_72
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1514
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea9c9baddffabf49b9b2de0a3cb29b0
+      internalID: 1120445673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_73
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1438
+        width: 196
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ae39ca6fad6004bade5d2e86f63c4a
+      internalID: -1497115664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_74
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1600
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40342c33a3b3774bb8849e4f2a5a5a5
+      internalID: -933521936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_75
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1435
+        width: 193
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd1011099a73fe419ea6db64c3d68cf
+      internalID: -1490347066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_80
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1585
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a1ff07e61128c428203693bc6f4a7b
+      internalID: 381800066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_81
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1558
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f57991fdf6ee2643bc901baeaf28b8c
+      internalID: 669107321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_82
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1562
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f615cfb539c9749b175e4ac47086fa
+      internalID: -1839907786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_83
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1515
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4142d303f36222241a592d7648c07dea
+      internalID: -315575870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_84
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1567
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcdcf8e9827c2c40973ed7520e20cd5
+      internalID: 627080266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_85
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1558
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a229ab8b65291458713c424693ec74
+      internalID: 846531140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_86
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1551
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b414579f380f1534d9e721f8b1c36666
+      internalID: 535296598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_87
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1550
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b6de04600d40b40a683a160fa266c7
+      internalID: 2066919861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_90
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1546
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febac10ee97831c469a716c653c135b6
+      internalID: -29374090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_91
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1382
+        width: 151
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db66d683e8cfedf4b85e0a86c9b5a95a
+      internalID: 960617404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_92
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1482
+        width: 123
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea0741fe21bf884aa368dcad2e3b7e3
+      internalID: -919636435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_93
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1494
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893681cd85153e348807e3c45b20e6c3
+      internalID: 2124878717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_94
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1530
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3b4433b0d17c947ab20e799bcb2b6e
+      internalID: -1555977800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_95
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1532
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ef6e8b3af4cab44b99f2b8ee2ff1dc
+      internalID: -314180478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_96
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1533
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438993fe022fb71419a697d5ac0b9ffa
+      internalID: 134974891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_97
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1504
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7d007feb6f9f64780a707fd4a2b1ac
+      internalID: 1867173646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_98
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1521
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3b1e1972a4752438a83eebe89bc3ed
+      internalID: 1051309568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_99
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1466
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089cb0ec072a3bb4ca6746aa54da5ccb
+      internalID: 1346247081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_102
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1510
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a499a4dd085827f48a258e056e17499c
+      internalID: 1636221100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_103
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1442
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014252d56f6ab1c49ae9e03551ca096f
+      internalID: -766262258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_105
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1498
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d615275e30a94964b8f7d5992855bfc4
+      internalID: 1886311543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_106
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1462
+        width: 100
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2d2f328e644d749a5e4b47db5765d3
+      internalID: -1424630096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_107
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1489
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62887d961dc6d1345bbd75ba4761f285
+      internalID: 1546335034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_108
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1490
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fc984fbbc0ce645891a35bd8c2d8c6
+      internalID: 993602303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_110
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1488
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7846a3b7b262914eb73533ed64de29b
+      internalID: -1442184525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_111
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1382
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea787d91daa1734a96e4099c8424ae2
+      internalID: -1189581531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_112
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1462
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1307b7d893a9834fa2ab68d69a96c00
+      internalID: -42111946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_113
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1479
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164e6aabacbf6bb4ea800d2717ae478c
+      internalID: 1419756704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_114
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1450
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d80c9af682ee8479fe44c348f22257
+      internalID: -553200775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_115
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1474
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf32102caddbcf54e95f3494997994a4
+      internalID: 1964666538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_116
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1466
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0b05870d2100345a728da1910a3465
+      internalID: -1772891605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_117
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1466
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fad0e1c5504fe048aeb7aeb093bc2cb
+      internalID: -1371038808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_118
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1450
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e3fb2e096b14e4aaed751277396f77
+      internalID: 606117114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_119
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1446
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c9dfdf27c7e7849b3ba1879c915864
+      internalID: -277423293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_120
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1454
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5737fe73b494142a3e24d91771a97f
+      internalID: -82861047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_121
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1458
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d97f2ff9797881478a86b87a17ec626
+      internalID: 1958998296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_122
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1414
+        width: 168
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be50cb3efb8cdd04e98aa069aa681de4
+      internalID: 1163485724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_123
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 1458
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109b4bba5581cdc42b9a8217e3a04546
+      internalID: 1737286140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_124
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1434
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d20203100e03048b489cee021a577f
+      internalID: -1759550715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_125
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1417
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40db27bf10a543e4b8a586ffb22756b8
+      internalID: -764647591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_127
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1446
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94783a5013750346a220cbd1607dc51
+      internalID: -871214080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1259
+        width: 134
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddb5e20cbf9ade4aab3583fefdd1740
+      internalID: 1633594271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_129
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1382
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347ca5c8aac0b974aac0c9b4a4783865
+      internalID: -1787175891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_130
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1437
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267015faebd70474c9272ac9c8d859b0
+      internalID: -1566105532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_131
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1387
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f8f446bb178a4ebd1e1641eab6550
+      internalID: 578203418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_132
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1238
+        width: 103
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b499b8254fd882448bb0e0eff40cb807
+      internalID: 1997874260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_133
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1354
+        width: 91
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac41e3d0c3b6c041a17087c572d4149
+      internalID: -1930153807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_134
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1418
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebe1001ee4784746a5dd36e13ae7d7e
+      internalID: -400975379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_135
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1428
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219b36f92fba0be46b2ebb6d9529b622
+      internalID: 493652079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_136
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1322
+        width: 186
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae74f970cec04c4794a8ab2623374b5
+      internalID: -1018428949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_137
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1384
+        width: 204
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83656252c059704ba9477b3e4b31b93
+      internalID: -2067367020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_138
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1284
+        width: 127
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66d1ae80758f99459c8f5bf53a39609
+      internalID: 1754794875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_139
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1298
+        width: 117
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3873cacb38e81d4ea591d8be4d46893
+      internalID: -1728276827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_140
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1414
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe1e115fb480974da6c4d65f0d61909
+      internalID: 952388008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_141
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1358
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d39457c4bff5034cb947d081a10516d
+      internalID: 1753770817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_142
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1289
+        width: 147
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f094d313aaf0144ca3f9a583129e1bb
+      internalID: -194521145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_143
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1378
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4183360e2f4be428b14dc7a44f442d
+      internalID: -1012939023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_144
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1380
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba0354f4d622744db7d00cf85c5f5a3
+      internalID: 2083128242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_145
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1227
+        width: 151
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd6f38d921c93e4eb0579ef057b135f
+      internalID: 863178379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_146
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1234
+        width: 125
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f234143ac16304187b804776300bc0
+      internalID: -153613433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_147
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1364
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceec14969643f8f47b93c75daefc3431
+      internalID: -1234616444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_148
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1258
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113d69a5beb8a3d4b9b45f8f897a14c9
+      internalID: -1466557063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_149
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1350
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f21bf8250aa1e4c94738bd8112e1b9
+      internalID: -1861100364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_150
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1334
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f91b25f42969d247a93348d7c69b09c
+      internalID: -530890267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_151
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1348
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc982af2208633848bbd6eab30b0096f
+      internalID: 387724594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_152
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1249
+        width: 132
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078bea422292de49b2ef728ffbd490a
+      internalID: 1466206823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_153
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1338
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e51bbdd9fb57f46ba2e6ae0049057c
+      internalID: -1429383742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_155
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1260
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3276c8f719af3a04bbbcb920130e14aa
+      internalID: -2118149744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_156
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1321
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbf0650fc4087d41b921ad9eadce6a9
+      internalID: -78544289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_157
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1318
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d334536ef490f54cb400bec9f1ec75c
+      internalID: 232457996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_158
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1332
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713238df31ac8c5409dd1446cec83d53
+      internalID: 1199053508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_159
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 1286
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa39742504080418b3942d9ae4b599
+      internalID: -1052363016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_160
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1312
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de41562b96d62f4c968c5653e53e5ce
+      internalID: -992303852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_161
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1215
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8663737ab39a74fb5bba232e7ef1b8
+      internalID: 1628755985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_162
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1234
+        width: 119
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e36810679daff4cb8735648b782b68
+      internalID: -1727655347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_164
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1186
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037c5973fab85414c93bbc6b85351a57
+      internalID: -1798408741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_165
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1202
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111bd36d86480cb42b04e02def95759a
+      internalID: -1464329767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_166
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 1170
+        width: 123
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301dd9baab30b74448bf43f01560b197
+      internalID: -584008568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_167
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1277
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2673755bf878f6043909fcae32e98f29
+      internalID: -1739591079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_169
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1262
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc162e33012a504bae78a325f7fec42
+      internalID: 1789290898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_170
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1162
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53ccf2fd7fc25143b1be1f0bea62df6
+      internalID: -865663266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_171
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1238
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26bd247877a2c1498c8f162d938771b
+      internalID: 1097110980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_172
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1226
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054ee46e96745ae4aa549bf4ccd147f6
+      internalID: -552533105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_173
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1250
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcc87b261ab0e9439e941ece3091180
+      internalID: 1547276793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_174
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1126
+        width: 71
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bae012509a34945ad4da154da8ec4c
+      internalID: 846408510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_175
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1226
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ee8e2b34ac9b847825e723e5cdaa29
+      internalID: -931977927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_176
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1226
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ddedab317c0d14cb27ea4ff1b9a0fa
+      internalID: 990369537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_178
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1226
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342c44d5c1bb2b44f867834831b4dd67
+      internalID: -1618700573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_180
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1185
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce01bce28b53c8e42a142431921d6d82
+      internalID: 408242935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_181
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1160
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba56fe7b4022bf244af9fcd4aa122e3e
+      internalID: -1762401371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_182
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1241
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb797f993fff824889864d6c2fc8865
+      internalID: 523501894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_183
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1230
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba98a371a11afd4f9f0c4ce3ff916e7
+      internalID: -1004854794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_184
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1196
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7b9edff28865f429f304fa758e95f6
+      internalID: 1347268778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_185
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1209
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db7275261f2cc745a0314d7a1993147
+      internalID: 1634421939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_186
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1118
+        width: 63
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfb4a86da8690c4896370a07cafa4ba
+      internalID: 1306793066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_187
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1146
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5172b6d747ef2dc4bbc5c81785047fbc
+      internalID: -1996806518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_188
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1186
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9081c2e0a7607b2418945345340084b7
+      internalID: -1736831207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_189
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1218
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90b93c74f17be34fb5ac3a07878d833
+      internalID: 766544025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_190
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1124
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33ce50be71ca7c4889639c312eb0c61
+      internalID: -1954485536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_191
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1118
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad80612c76b9774eaad3d774ac66511
+      internalID: 478685013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_192
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1114
+        width: 79
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abd9cd54230b5248873215fc94f93db
+      internalID: -1348790909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_193
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1131
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae810ec49bf70444a818826135fecaff
+      internalID: 238185794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_194
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1186
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606b4ad6489de544d9acbcc531195176
+      internalID: -1412179008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_195
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1132
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379f2944c95975944a86c603d46baf61
+      internalID: -537671774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_196
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1209
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eda320d3bc1a184782602e22a85f981
+      internalID: -1361261884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_197
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1134
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc51c487d8b9fe449db2ad078bd478b
+      internalID: 2121263527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_198
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1198
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c93604c8afee8f42a599b8692e1fd08
+      internalID: -1214378344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_199
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1194
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11030e21c305564449a3de5f98c66c30
+      internalID: 335380652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_200
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1198
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5b2f6497708bc4f8735a478c778014
+      internalID: -677324066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_201
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1176
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ca18267d00d0478a2217795d73f39
+      internalID: 21453062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_202
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1182
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f262aa448c6b6b64c99a46c8e92ce04a
+      internalID: 2144205961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_203
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1126
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503f3877aa083f447b76dfbdf225a607
+      internalID: 478180951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_204
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1186
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18314b14b93975047b057a160a817188
+      internalID: -387007691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_205
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1174
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52d7e1835059c546aacfaa70e02183e
+      internalID: -305647695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_206
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1082
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739e01ef98faf024aa46c9344548139c
+      internalID: 1800840932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_207
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1128
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621da10a18a599a4692a8003ad471bc2
+      internalID: -423766165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_208
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1169
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba7c4e8b7bf6a14983c47ebf1cab161
+      internalID: -1870018374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_209
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0368717f56582499f40861c67486f7
+      internalID: -368141530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_210
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1074
+        width: 95
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2fbfb3890b2ed4c892d4c2826df766
+      internalID: 1288027543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_211
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1103
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf7fd13ad3f42e4ab394961086a7b39
+      internalID: 1142362379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_212
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1150
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64a01d8a6162e84b8fa2337a6030610
+      internalID: -838175123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_214
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1102
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79270918fe5af24428e76055e88cef20
+      internalID: -1375877008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_215
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1049
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c5af4ff871f0e46a6f2ba95450b81f
+      internalID: -191847163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_216
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1057
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84952018959effe43afdc9613ce3a852
+      internalID: 495260997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_217
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1138
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae2094c1828ca24a86ad947f7c99fbb
+      internalID: -1673321783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_218
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1058
+        width: 107
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd5fac1517c16a4e892ce19f9819967
+      internalID: -1134072585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_219
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1080
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd9e99d99467db40bdb175590af88d4
+      internalID: 444420891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_220
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1058
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd53b41a33812e64fb2070cc6d775795
+      internalID: -614308913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_221
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1110
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db0e0df44742b74986f92726b66d43f
+      internalID: -774354825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_222
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1122
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc51cd0ff44811c48a8c5fd3304c5172
+      internalID: 716042192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_223
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1046
+        width: 120
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f48eb5474ee1240ad497e138d91bd2
+      internalID: 661970660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1023
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f331871122e4604499eb4d01651a6b4
+      internalID: 746947440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_225
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1038
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b78989b2ef2b6489f90684b1e16910
+      internalID: -1196439682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_226
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1106
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d085ae4e7a0f344800fc56b8cb35dc
+      internalID: 1917299352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_227
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1046
+        width: 128
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe4b8d12a510847aa10ae219ef4652
+      internalID: -993458473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_228
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1078
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361133c80beee5e4b9fb9d404d423008
+      internalID: 1445521476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_229
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1010
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1b26c30e775f442a2dc6f1ec04fc6d
+      internalID: 1077725681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_230
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1047
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaac5039627830d4eb3f4564e6fe7d99
+      internalID: 1526293484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_231
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 994
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f3385252e7dad4dbf60d2a0342bde6
+      internalID: -888286856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_232
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1030
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0818a815dd6d2ea46a883ccb8c1a8601
+      internalID: 1273027163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_233
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1010
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f518911569b4c54e91917a027f18dbe
+      internalID: 2089152517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_234
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1038
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460595e30b2d9a84ba5cbc87e0dcbeda
+      internalID: 1074361469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_235
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1078
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d284f734ada13449740338f2209bea
+      internalID: -2038815429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_236
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1049
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77430a48996c0c04197d2a6b5bed9fa8
+      internalID: -1745457654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_237
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1078
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4435c2ea472281c498661a51778eeb36
+      internalID: 1887225858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_238
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1054
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b33eb7c06b99d4b84723eae908c13b
+      internalID: 48956156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_239
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1009
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22c3f955e3146d4f9f14fc2b12c0545
+      internalID: 846252806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_240
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 990
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675db9f0aa9e0ac468c906c70e1d27c2
+      internalID: 193769786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_241
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1054
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2944115814c1a414dbe812d73b711fff
+      internalID: -1868690855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_242
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1050
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a868d48ae11a946ab2786b290dc41e
+      internalID: -594653879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_243
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1054
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bb0e9a41a86fb45ad29f528d77ab0d
+      internalID: 694756753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_244
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1038
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a495681c160a43851a1b3fa4c6543
+      internalID: -355538440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_245
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1058
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7eb2741fc3a0449a6472d36df3e584
+      internalID: -1356169062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_246
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1050
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003dd23ae650bdd4db84bcc2414bb8c3
+      internalID: 1041578683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_248
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 998
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57683becfa9f6a542a07bf3fd5c26346
+      internalID: 998457289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_249
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1034
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666989e514ce9df47acb629e5b390bd9
+      internalID: -2045714687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_250
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 981
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5776cc8bce670e54eaef108a4fb605bd
+      internalID: -1025184865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_251
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 986
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4654ada527db20646b6cbc6024eafe6a
+      internalID: 846314234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_252
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 990
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39e502cb8b11f84cb4b82e9cdd1f09c
+      internalID: 489065959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_253
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 978
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98fe795f14619e4ebbeb0fb96453574
+      internalID: 523030716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_254
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 994
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4f321f0c2bdc54097e48cb355b83e5
+      internalID: 1305481406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_255
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1026
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abab7f10b9e56b4e80e9b8f62f9bdee
+      internalID: -194485587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_256
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1001
+        width: 115
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bb27c5d6de8314883c0cc25b1fb6a2
+      internalID: 484204015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_257
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1022
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43a7ff8f1e0e1d4c9e1bd5e0c804a95
+      internalID: -217102475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_258
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 986
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38588ed16507efc409ae07621bb995bc
+      internalID: -295308552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_259
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 1000
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f6016ad6c08884fbcdc4f3370551f0
+      internalID: -449212862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_260
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 974
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f752d3f5b751c47bc1446eeab0fdef
+      internalID: 682099686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_261
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 982
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ad8adc4b65ee641bcd91392d7388ae
+      internalID: -1523833827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_262
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 978
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fba3ef58fc8534fa7ead3061cbf4f7
+      internalID: -1304239811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_263
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1020
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad738c2b7ccc7f4b8d095894a01fefb
+      internalID: -404006614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_264
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1014
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c80c2994da83a409410d6bc8465e33
+      internalID: 531596171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_265
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 970
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e55ee327d4041341bbc1db962a60746
+      internalID: 1283409189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_266
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1002
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9342b6d0517f35744975d4e33b59b340
+      internalID: 2023785319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_267
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 960
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f1ba79be3dd944fa0c69e189b4ec99
+      internalID: 1710676707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_268
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 982
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb15c37523dd074786eb7993e0ffedb
+      internalID: 1237450131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_270
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 996
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba547095cbff8b44395f7f275cfdc463
+      internalID: 1764169681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_271
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 954
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e48d2100bc65884d96f05b6be2d5d39
+      internalID: -1963977278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_272
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 996
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080cd0af14b59904bbc5b92fffb810c8
+      internalID: 859397761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_275
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 970
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bff4a2d2cc1fcb49a83b5aaaf55424c
+      internalID: 2066153244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_276
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 982
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c2e7874ca013c48a9dfe2c6814dfae
+      internalID: -1130160829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_277
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 973
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e27953937ed8441b8ece24428ac454
+      internalID: -1242471501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_279
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 998
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a11f52063002c46a4957bb213a339e
+      internalID: -1609202632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_280
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 973
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba49cfebcf270b4984f803b8070b6a1
+      internalID: -1413710769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_281
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 956
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a2f3d6d2d368c4181b19bbd8dafe6c
+      internalID: 553317136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_282
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 978
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b5765bf4b915c4a98501c3ed04436b
+      internalID: -2144286045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_283
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 954
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc8d3e0f3429d244803464917b8ff14
+      internalID: -1095518508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_284
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 990
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa473f2c116b6a54ba375b0707c1c18c
+      internalID: -1088558468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_287
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 985
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467341b0a33f1d84ba590a8359592594
+      internalID: 592602316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_288
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 954
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2427a70030810244a5bcf7d802e17d3
+      internalID: 1508335614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_289
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 978
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1ee9d529056a04799b326c8344bc2e
+      internalID: -574742901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_290
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 962
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212c98a739fbaa74eadbeec03281cac1
+      internalID: -49690324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_291
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 947
+        width: 75
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90ad57ca5429014fb9dd8135c71d451
+      internalID: 556290119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_292
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 974
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361db55b6583e894da7c214f7be5baf6
+      internalID: -392071353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_293
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 938
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3280e8f5930a564bbb31c959ae7aba5
+      internalID: -1691885358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_294
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 966
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bebfdd3ce16da4389d7a386149badf
+      internalID: -804276390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_295
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 962
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d61f2bfd2ec8745b174a7ee257c9b3
+      internalID: -1737823736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_296
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 954
+        width: 105
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c854db95dde71947b7353d62d4cd461
+      internalID: 1933324689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_297
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 974
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548fe36f684bfa44aaedf036d9fbc64
+      internalID: -519925031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_298
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 962
+        width: 65
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b704d73ae46b349875cb686371a458
+      internalID: -155661679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_299
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 934
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a795b4ab9d632a44b9d0c520bda1d35
+      internalID: 221264507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_300
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 966
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85c586d508bfeb489aaac7c160b3b55
+      internalID: 1178399366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_301
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 934
+        width: 75
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e35b6ffa8f5c6459b3bd0710290041
+      internalID: 1775074955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_302
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 922
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea74c26c6d09d04fbe84b0be7bcc477
+      internalID: -1104275241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_303
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 938
+        width: 67
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73715fd39e2a0ca4abdc3abb20a15798
+      internalID: 1524778114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_304
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 926
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8617733a37e73124a95fefe5cc000dc3
+      internalID: -1868260883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_305
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 926
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a43c4263796e34da088ca77f6dd4bd
+      internalID: -1340656899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_306
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 934
+        width: 67
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bbda8b421569f49a7c28780f3bad0e
+      internalID: -1459129616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_307
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 930
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e4d7edc03af514ca43857ca931d6c5
+      internalID: -1574174543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_308
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 934
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6d7139a3ab7954d963c3acf17567cf
+      internalID: -2021010496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_309
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 934
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b88d7170e629f441b2277ffa1d4a904
+      internalID: 52446235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_310
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 922
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad9ed034cfd2b24a8c1acaf56856555
+      internalID: -2004792305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_311
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 932
+        width: 72
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9e65cb75b639043b1ab72bdf4649db
+      internalID: -286569005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_312
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 946
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579280d835692b543905e3271de1aca6
+      internalID: -163204796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_314
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 918
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f61fe2a32d0da249a6ad47fe2446a27
+      internalID: 554513000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_315
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 922
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5d3f9c7c599174eaff1391e2a8bd77
+      internalID: 1018712629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_316
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 930
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08041d8246eb71041a329313813a372b
+      internalID: 1094944553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_317
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 934
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b8cbda3407ae44bb015dccf7405228
+      internalID: 708611397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_318
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 918
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750728a1614238045b69acb596ba080b
+      internalID: -439244139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_319
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 930
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d46f409e8fe6ab49923e5a77b83971d
+      internalID: 1361340969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_320
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 918
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29454d01fa4f1254a9016c66a2435068
+      internalID: 1480707317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_321
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 922
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cfc9b02dc597346a60e6bba0606411
+      internalID: 1740556732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_322
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 924
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a10288ace0cb4348bf8eb83d0239d05
+      internalID: -2058165808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_323
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 929
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c0ce4c75ad42f44835996ffd196aeb
+      internalID: -1816293951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_324
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 929
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b58a410830349428216e547c15a770
+      internalID: -240490546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_325
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 942
+        width: 175
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8e6962a0dccf64ab82a98148950420
+      internalID: -499545848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_326
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 926
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a4ecdff03b46e429863d144c3f568f
+      internalID: 175581364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_327
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 930
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9e40883fa238b46b9f24b7cea7c9d1
+      internalID: 1854788435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_328
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 930
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1c8f466364b494c9cab821332f930e
+      internalID: -1988911207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_329
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 926
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea08d4c2dc970243981ea061a9afe26
+      internalID: 415797740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_330
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 922
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030d6cce07eacaa48af87265d1a17557
+      internalID: 1498016149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_331
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 926
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec1c282405bf1d41a18c1f96076f4f0
+      internalID: -714829729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_332
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 938
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1595adf6fab494cb30c4175ee7cb15
+      internalID: -1324980355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_333
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 926
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e758d5d7df69b40ae1a91ff8781207
+      internalID: 2084968653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_334
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 930
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f53b176b9608e44bae224b2bdc01fdf
+      internalID: -906863655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_335
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 922
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f68c8ed393166429112ad01925b6b9
+      internalID: -1593848001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_336
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 944
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea16c634ae70934f812453f73342e71
+      internalID: 1794873992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_337
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 922
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926750a882a87294bbedb282d4f16279
+      internalID: -1214624137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_339
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 922
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cac06f324433f46987d8da9bddb7fa
+      internalID: -1777303257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_340
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 922
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb40c0e21e996f48b5522f5d4713d41
+      internalID: -219653050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_341
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 914
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc315e73adea1842ac1a85c0de3b13a
+      internalID: -672751761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_342
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 918
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b08c84ade9dda143afb801d2d015c09
+      internalID: -968739141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_343
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 918
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52c73580e9417045bf680e1dd563df8
+      internalID: 1624148418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_344
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 922
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32503a38c748a4e4ea08fd9085fed05a
+      internalID: 1463689541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_345
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 918
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73ceea5e94da7b43a11399816197b54
+      internalID: 65755223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_346
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 922
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cb6c0d53d06d2489ac478f7aa58688
+      internalID: -1877647515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_348
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 928
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5957e5ec9708244864cac9f2ea0e74
+      internalID: 1791618654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_350
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 921
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc7956a5c099194bafac46d757a0658
+      internalID: -1662462911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_351
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 918
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5059e36e05ed5a478f255c6fc095fb0
+      internalID: 1407952598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_352
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 918
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa8f18ed66184488cf62c6cd15ef59
+      internalID: -1767226765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_353
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 918
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd873ea8d99a1c459353c3626144222
+      internalID: 253212833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_354
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 918
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fba11b3f69001c4681611607e60987a
+      internalID: 1749872718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_355
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 923
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb84bd07077d9a4e8d370a0b1ae9052
+      internalID: -2116953740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_356
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 918
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1484195451a36da4a85be8c6d63bfeec
+      internalID: -1845614937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_31
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 987
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bec168f41295a46aa7d5ec7732ee31
+      internalID: -2137057998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_34
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1454
+        width: 186
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a479d870cd811244e87e90240ffcd639
+      internalID: 595737496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZombieFighterObject_62
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1448
+        width: 188
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f79d8812edfa6e4d9322ef6910ba4a5
+      internalID: -951792133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ZombieFighterObject_108: 993602303
+      ZombieFighterObject_258: -295308552
+      ZombieFighterObject_200: -677324066
+      ZombieFighterObject_284: -1088558468
+      ZombieFighterObject_338: 1492928043
+      ZombieFighterObject_322: -2058165808
+      ZombieFighterObject_292: -392071353
+      ZombieFighterObject_253: 523030716
+      ZombieFighterObject_39: 475896168
+      ZombieFighterObject_262: -1304239811
+      ZombieFighterObject_192: -1348790909
+      ZombieFighterObject_350: -1662462911
+      ZombieFighterObject_242: -594653879
+      ZombieFighterObject_51: 1401628034
+      ZombieFighterObject_20: -471526665
+      ZombieFighterObject_48: -314676137
+      ZombieFighterObject_327: 1854788435
+      ZombieFighterObject_329: 415797740
+      ZombieFighterObject_236: -1745457654
+      ZombieFighterObject_304: -1868260883
+      ZombieFighterObject_268: 1237450131
+      ZombieFighterObject_138: 1754794875
+      ZombieFighterObject_265: 1283409189
+      ZombieFighterObject_45: 498898360
+      ZombieFighterObject_299: 221264507
+      ZombieFighterObject_96: 134974891
+      ZombieFighterObject_58: 868288858
+      ZombieFighterObject_176: 990369537
+      ZombieFighterObject_323: -1816293951
+      ZombieFighterObject_130: -1566105532
+      ZombieFighterObject_267: 1710676707
+      ZombieFighterObject_355: -2116953740
+      ZombieFighterObject_46: 1147790544
+      ZombieFighterObject_12: -1046899420
+      ZombieFighterObject_9: -2068832714
+      ZombieFighterObject_94: -1555977800
+      ZombieFighterObject_32: 2023010517
+      ZombieFighterObject_120: -82861047
+      ZombieFighterObject_212: -838175123
+      ZombieFighterObject_247: -1109429495
+      ZombieFighterObject_142: -194521145
+      ZombieFighterObject_233: 2089152517
+      ZombieFighterObject_52: -1143865532
+      ZombieFighterObject_356: -1845614937
+      ZombieFighterObject_179: 141334576
+      ZombieFighterObject_264: 531596171
+      ZombieFighterObject_271: -1963977278
+      ZombieFighterObject_87: 2066919861
+      ZombieFighterObject_111: -1189581531
+      ZombieFighterObject_197: 2121263527
+      ZombieFighterObject_72: 1120445673
+      ZombieFighterObject_40: 1452317745
+      ZombieFighterObject_191: 478685013
+      ZombieFighterObject_107: 1546335034
+      ZombieFighterObject_205: -305647695
+      ZombieFighterObject_309: 52446235
+      ZombieFighterObject_146: -153613433
+      ZombieFighterObject_156: -78544289
+      ZombieFighterObject_61: -1549765278
+      ZombieFighterObject_173: 1547276793
+      ZombieFighterObject_28: 54398779
+      ZombieFighterObject_280: -1413710769
+      ZombieFighterObject_152: 1466206823
+      ZombieFighterObject_301: 1775074955
+      ZombieFighterObject_290: -49690324
+      ZombieFighterObject_160: -992303852
+      ZombieFighterObject_311: -286569005
+      ZombieFighterObject_193: 238185794
+      ZombieFighterObject_318: -439244139
+      ZombieFighterObject_214: -1375877008
+      ZombieFighterObject_177: -41628166
+      ZombieFighterObject_25: 1470299371
+      ZombieFighterObject_63: 1769712263
+      ZombieFighterObject_42: -1728728751
+      ZombieFighterObject_136: -1018428949
+      ZombieFighterObject_131: 578203418
+      ZombieFighterObject_174: 846408510
+      ZombieFighterObject_220: -614308913
+      ZombieFighterObject_240: 193769786
+      ZombieFighterObject_341: -672751761
+      ZombieFighterObject_336: 1794873992
+      ZombieFighterObject_231: -888286856
+      ZombieFighterObject_149: -1861100364
+      ZombieFighterObject_77: -2066276763
+      ZombieFighterObject_88: -1229550683
+      ZombieFighterObject_70: -177299451
+      ZombieFighterObject_2: 1452345920
+      ZombieFighterObject_184: 1347268778
+      ZombieFighterObject_139: -1728276827
+      ZombieFighterObject_59: -559490121
+      ZombieFighterObject_99: 1346247081
+      ZombieFighterObject_303: 1524778114
+      ZombieFighterObject_151: 387724594
+      ZombieFighterObject_71: -1710054320
+      ZombieFighterObject_132: 1997874260
+      ZombieFighterObject_104: -1261319449
+      ZombieFighterObject_321: 1740556732
+      ZombieFighterObject_30: -1558517463
+      ZombieFighterObject_117: -1371038808
+      ZombieFighterObject_348: 1791618654
+      ZombieFighterObject_55: -1120919548
+      ZombieFighterObject_98: 1051309568
+      ZombieFighterObject_33: 1589115759
+      ZombieFighterObject_319: 1361340969
+      ZombieFighterObject_332: -1324980355
+      ZombieFighterObject_124: -1759550715
+      ZombieFighterObject_352: -1767226765
+      ZombieFighterObject_82: -1839907786
+      ZombieFighterObject_297: -519925031
+      ZombieFighterObject_282: -2144286045
+      ZombieFighterObject_238: 48956156
+      ZombieFighterObject_81: 669107321
+      ZombieFighterObject_294: -804276390
+      ZombieFighterObject_207: -423766165
+      ZombieFighterObject_186: 1306793066
+      ZombieFighterObject_89: -1976618893
+      ZombieFighterObject_257: -217102475
+      ZombieFighterObject_171: 1097110980
+      ZombieFighterObject_80: 381800066
+      ZombieFighterObject_78: 1821177500
+      ZombieFighterObject_22: 301349600
+      ZombieFighterObject_224: 746947440
+      ZombieFighterObject_128: 1633594271
+      ZombieFighterObject_189: 766544025
+      ZombieFighterObject_116: -1772891605
+      ZombieFighterObject_225: -1196439682
+      ZombieFighterObject_237: 1887225858
+      ZombieFighterObject_168: 6942728
+      ZombieFighterObject_302: -1104275241
+      ZombieFighterObject_266: 2023785319
+      ZombieFighterObject_255: -194485587
+      ZombieFighterObject_175: -931977927
+      ZombieFighterObject_345: 65755223
+      ZombieFighterObject_101: -684816316
+      ZombieFighterObject_6: 2115205394
+      ZombieFighterObject_283: -1095518508
+      ZombieFighterObject_75: -1490347066
+      ZombieFighterObject_190: -1954485536
+      ZombieFighterObject_53: -1860790320
+      ZombieFighterObject_218: -1134072585
+      ZombieFighterObject_270: 1764169681
+      ZombieFighterObject_93: 2124878717
+      ZombieFighterObject_199: 335380652
+      ZombieFighterObject_310: -2004792305
+      ZombieFighterObject_277: -1242471501
+      ZombieFighterObject_95: -314180478
+      ZombieFighterObject_215: -191847163
+      ZombieFighterObject_18: -754876894
+      ZombieFighterObject_293: -1691885358
+      ZombieFighterObject_17: 1324253988
+      ZombieFighterObject_92: -919636435
+      ZombieFighterObject_159: -1052363016
+      ZombieFighterObject_137: -2067367020
+      ZombieFighterObject_357: 867449496
+      ZombieFighterObject_79: 767705088
+      ZombieFighterObject_23: -1491216809
+      ZombieFighterObject_183: -1004854794
+      ZombieFighterObject_239: 846252806
+      ZombieFighterObject_295: -1737823736
+      ZombieFighterObject_68: -760812406
+      ZombieFighterObject_121: 1958998296
+      ZombieFighterObject_347: 72247487
+      ZombieFighterObject_106: -1424630096
+      ZombieFighterObject_229: 1077725681
+      ZombieFighterObject_349: -1372573924
+      ZombieFighterObject_286: 2071287846
+      ZombieFighterObject_259: -449212862
+      ZombieFighterObject_154: -70607899
+      ZombieFighterObject_44: -69775311
+      ZombieFighterObject_38: 202391388
+      ZombieFighterObject_129: -1787175891
+      ZombieFighterObject_110: -1442184525
+      ZombieFighterObject_324: -240490546
+      ZombieFighterObject_181: -1762401371
+      ZombieFighterObject_217: -1673321783
+      ZombieFighterObject_112: -42111946
+      ZombieFighterObject_141: 1753770817
+      ZombieFighterObject_334: -906863655
+      ZombieFighterObject_248: 998457289
+      ZombieFighterObject_133: -1930153807
+      ZombieFighterObject_243: 694756753
+      ZombieFighterObject_54: 364309548
+      ZombieFighterObject_281: 553317136
+      ZombieFighterObject_84: 627080266
+      ZombieFighterObject_122: 1163485724
+      ZombieFighterObject_145: 863178379
+      ZombieFighterObject_263: -404006614
+      ZombieFighterObject_43: -506539939
+      ZombieFighterObject_165: -1464329767
+      ZombieFighterObject_317: 708611397
+      ZombieFighterObject_187: -1996806518
+      ZombieFighterObject_4: 1360679394
+      ZombieFighterObject_105: 1886311543
+      ZombieFighterObject_14: -979219657
+      ZombieFighterObject_16: -1625352258
+      ZombieFighterObject_7: -799228607
+      ZombieFighterObject_11: -860099230
+      ZombieFighterObject_15: -1830756008
+      ZombieFighterObject_100: -591808470
+      ZombieFighterObject_206: 1800840932
+      ZombieFighterObject_346: -1877647515
+      ZombieFighterObject_167: -1739591079
+      ZombieFighterObject_358: 911607248
+      ZombieFighterObject_56: -1532484388
+      ZombieFighterObject_147: -1234616444
+      ZombieFighterObject_62: -951792133
+      ZombieFighterObject_162: -1727655347
+      ZombieFighterObject_353: 253212833
+      ZombieFighterObject_273: -1637727626
+      ZombieFighterObject_1: 1992147814
+      ZombieFighterObject_119: -277423293
+      ZombieFighterObject_144: 2083128242
+      ZombieFighterObject_164: -1798408741
+      ZombieFighterObject_67: -423842396
+      ZombieFighterObject_287: 592602316
+      ZombieFighterObject_244: -355538440
+      ZombieFighterObject_166: -584008568
+      ZombieFighterObject_226: 1917299352
+      ZombieFighterObject_114: -553200775
+      ZombieFighterObject_221: -774354825
+      ZombieFighterObject_83: -315575870
+      ZombieFighterObject_49: -2005952078
+      ZombieFighterObject_279: -1609202632
+      ZombieFighterObject_8: -1079836868
+      ZombieFighterObject_234: 1074361469
+      ZombieFighterObject_24: 1994085995
+      ZombieFighterObject_326: 175581364
+      ZombieFighterObject_102: 1636221100
+      ZombieFighterObject_245: -1356169062
+      ZombieFighterObject_342: -968739141
+      ZombieFighterObject_170: -865663266
+      ZombieFighterObject_219: 444420891
+      ZombieFighterObject_223: 661970660
+      ZombieFighterObject_222: 716042192
+      ZombieFighterObject_298: -155661679
+      ZombieFighterObject_315: 1018712629
+      ZombieFighterObject_198: -1214378344
+      ZombieFighterObject_351: 1407952598
+      ZombieFighterObject_278: -1073823213
+      ZombieFighterObject_235: -2038815429
+      ZombieFighterObject_261: -1523833827
+      ZombieFighterObject_5: 1798229571
+      ZombieFighterObject_21: -1540968425
+      ZombieFighterObject_213: -1416523484
+      ZombieFighterObject_325: -499545848
+      ZombieFighterObject_260: 682099686
+      ZombieFighterObject_26: 1514774934
+      ZombieFighterObject_155: -2118149744
+      ZombieFighterObject_36: -227772165
+      ZombieFighterObject_209: -368141530
+      ZombieFighterObject_275: 2066153244
+      ZombieFighterObject_90: -29374090
+      ZombieFighterObject_307: -1574174543
+      ZombieFighterObject_314: 554513000
+      ZombieFighterObject_252: 489065959
+      ZombieFighterObject_169: 1789290898
+      ZombieFighterObject_254: 1305481406
+      ZombieFighterObject_115: 1964666538
+      ZombieFighterObject_202: 2144205961
+      ZombieFighterObject_118: 606117114
+      ZombieFighterObject_65: -912656687
+      ZombieFighterObject_60: 2080269954
+      ZombieFighterObject_13: 1043352119
+      ZombieFighterObject_337: -1214624137
+      ZombieFighterObject_204: -387007691
+      ZombieFighterObject_288: 1508335614
+      ZombieFighterObject_27: 1475223076
+      ZombieFighterObject_69: 1158745813
+      ZombieFighterObject_210: 1288027543
+      ZombieFighterObject_64: 1254110968
+      ZombieFighterObject_251: 846314234
+      ZombieFighterObject_276: -1130160829
+      ZombieFighterObject_272: 859397761
+      ZombieFighterObject_333: 2084968653
+      ZombieFighterObject_10: 1334417549
+      ZombieFighterObject_203: 478180951
+      ZombieFighterObject_230: 1526293484
+      ZombieFighterObject_313: -1973903248
+      ZombieFighterObject_150: -530890267
+      ZombieFighterObject_296: 1933324689
+      ZombieFighterObject_188: -1736831207
+      ZombieFighterObject_57: -830646209
+      ZombieFighterObject_339: -1777303257
+      ZombieFighterObject_113: 1419756704
+      ZombieFighterObject_344: 1463689541
+      ZombieFighterObject_312: -163204796
+      ZombieFighterObject_194: -1412179008
+      ZombieFighterObject_74: -933521936
+      ZombieFighterObject_134: -400975379
+      ZombieFighterObject_163: -865915771
+      ZombieFighterObject_178: -1618700573
+      ZombieFighterObject_250: -1025184865
+      ZombieFighterObject_50: -1322929321
+      ZombieFighterObject_127: -871214080
+      ZombieFighterObject_291: 556290119
+      ZombieFighterObject_140: 952388008
+      ZombieFighterObject_172: -552533105
+      ZombieFighterObject_285: 235651764
+      ZombieFighterObject_153: -1429383742
+      ZombieFighterObject_331: -714829729
+      ZombieFighterObject_316: 1094944553
+      ZombieFighterObject_97: 1867173646
+      ZombieFighterObject_86: 535296598
+      ZombieFighterObject_76: 1744467545
+      ZombieFighterObject_269: 296643684
+      ZombieFighterObject_0: 297636060
+      ZombieFighterObject_158: 1199053508
+      ZombieFighterObject_228: 1445521476
+      ZombieFighterObject_340: -219653050
+      ZombieFighterObject_246: 1041578683
+      ZombieFighterObject_300: 1178399366
+      ZombieFighterObject_320: 1480707317
+      ZombieFighterObject_125: -764647591
+      ZombieFighterObject_232: 1273027163
+      ZombieFighterObject_305: -1340656899
+      ZombieFighterObject_143: -1012939023
+      ZombieFighterObject_306: -1459129616
+      ZombieFighterObject_157: 232457996
+      ZombieFighterObject_180: 408242935
+      ZombieFighterObject_274: 1996875418
+      ZombieFighterObject_91: 960617404
+      ZombieFighterObject_185: 1634421939
+      ZombieFighterObject_161: 1628755985
+      ZombieFighterObject_66: 1861861454
+      ZombieFighterObject_35: 1193006773
+      ZombieFighterObject_31: -2137057998
+      ZombieFighterObject_289: -574742901
+      ZombieFighterObject_211: 1142362379
+      ZombieFighterObject_41: 1836962930
+      ZombieFighterObject_135: 493652079
+      ZombieFighterObject_73: -1497115664
+      ZombieFighterObject_34: 595737496
+      ZombieFighterObject_256: 484204015
+      ZombieFighterObject_123: 1737286140
+      ZombieFighterObject_335: -1593848001
+      ZombieFighterObject_241: -1868690855
+      ZombieFighterObject_328: -1988911207
+      ZombieFighterObject_196: -1361261884
+      ZombieFighterObject_3: 1013911403
+      ZombieFighterObject_126: 564479688
+      ZombieFighterObject_85: 846531140
+      ZombieFighterObject_109: 223418526
+      ZombieFighterObject_208: -1870018374
+      ZombieFighterObject_330: 1498016149
+      ZombieFighterObject_249: -2045714687
+      ZombieFighterObject_308: -2021010496
+      ZombieFighterObject_47: 2069506634
+      ZombieFighterObject_182: 523501894
+      ZombieFighterObject_343: 1624148418
+      ZombieFighterObject_201: 21453062
+      ZombieFighterObject_195: -537671774
+      ZombieFighterObject_19: 902440046
+      ZombieFighterObject_148: -1466557063
+      ZombieFighterObject_216: 495260997
+      ZombieFighterObject_227: -993458473
+      ZombieFighterObject_29: 178359454
+      ZombieFighterObject_354: 1749872718
+      ZombieFighterObject_37: -1385801388
+      ZombieFighterObject_103: -766262258
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

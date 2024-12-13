@@ -1,0 +1,1180 @@
+fileFormatVersion: 2
+guid: 0e7351a4963f8524ba0fbedc4b6f37b6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KongfuZombieObject_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 399
+        width: 127
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cca48334d689843b21c1a768ee41fa
+      internalID: -26766422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 412
+        width: 127
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a482bad1e28694d994adb51b94431f
+      internalID: 1715863919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 439
+        width: 145
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1435f71b96daf9846a351762a32e11dd
+      internalID: -402818960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 448
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be99ad3fbc602444978f9a5c472c5f0
+      internalID: -594216061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_4
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 558
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e824e847a65ac947b48cd529c769657
+      internalID: -1452289940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 269
+        width: 137
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc4b69b3061f9c4da30de5bc622cfbf
+      internalID: -2049487150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 286
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7f908f3d1d8ff45ab74e48b3ce90d5
+      internalID: -328625491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 309
+        width: 137
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aefce1ceb9758845a349d0babb52af5
+      internalID: -1322829173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_8
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 356
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4854dce4cba3134c9bdbdb32b588a84
+      internalID: 640837804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 314
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ded0f7f53c6b44699d551a84c46a75
+      internalID: 1575029352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 323
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684bd1bd24bba7b48809a0b3d6fd6edd
+      internalID: 1509268969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 218
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c8bfa1898a6224db61ff68c65a581f
+      internalID: -572732277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 195
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7cda36c92cbf849a2325b4f305962f
+      internalID: -1860324997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 196
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f24c7a740566b84495d633f5bf7f568
+      internalID: 1145206864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 193
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30df670f222062d48a41b329e99e0b42
+      internalID: 161903563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 222
+        width: 18
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d7a7a5154d57d498b701c68c174f0b
+      internalID: -877502522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 192
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5789cd1d3e8725f4691b8c167562c70a
+      internalID: -157202789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_17
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 207
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10facec670176b45be036118312ac17
+      internalID: -1791638663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 119
+        width: 96
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d548264655946748b139029fd9ba365
+      internalID: -582818276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 103
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9318397c3f994e34e95c1918dfa4bf32
+      internalID: 385972221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_20
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 122
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8b02d7b57176941b5d3560ee8c9000
+      internalID: 708206785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 145
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dd138c5f90ba34a9015345b29fbabb
+      internalID: 604203333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 122
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838e94885ec37cd45922068616f58f4c
+      internalID: 229465085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_23
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 126
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885dc520230f3ee45abb2e1254a22e1c
+      internalID: -2117693554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_24
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 147
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4f6740bec19c945b095dfb564e382e
+      internalID: 1783044658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 69
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8357c202c46ef4fb5db303d4f746dd
+      internalID: 330257938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 54
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3300b0b2be79994fa38c9f6992e4ebb
+      internalID: -1239385959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_27
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 64
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0172964f88f1144eb5428500ce2fc7a
+      internalID: 658310118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3b5137df2774f40a4f9a1fac76f020
+      internalID: -1930869077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_29
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 70
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3bbbc57b705e1439ed3c255971550d
+      internalID: -1644858854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 84
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd1639fd7d650246b84f354e58a7432
+      internalID: 1135915755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 85
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0967b686871ea764ba43f1df73715d97
+      internalID: -256412176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 67
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342abf212dcf2f0448b841b392317f12
+      internalID: -1572205672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_33
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 70
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0e13e775a00de418872fdbe691b200
+      internalID: 1282473039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 75
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881f6716ae9b574fa769f746867242e
+      internalID: -1980457028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 13
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7144a173dd61024d8c0216c82e5934a
+      internalID: 1778429384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 59
+        width: 168
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff5f6aca022007429d84db63d2bc6ae
+      internalID: 219244433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 41
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622ef6e2fa7c34e4598b8880db712dda
+      internalID: -1578420027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_38
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 12
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a3507b6dbfad64196298d6bb8415a9
+      internalID: -2007785162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_39
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 29
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6630bb91e69a8ff43a4fec78624fe344
+      internalID: -498042079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_40
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 20
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621b135637b8ecc4a9bb62241682ab12
+      internalID: 1966931046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_41
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 31
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3e2cc50e1920f46bee1605e2d891a4
+      internalID: 1331810011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 25
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45a21f98421be0408edbda1eaf07d0c
+      internalID: 435340209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_43
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7208269ada56ac04d97565a8d9bd0b58
+      internalID: -1012786822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_44
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 29
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8139713151151234a9f9b6ceac816b89
+      internalID: -2054396547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 35
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e73b3299a30de4a874c400eb3e4825
+      internalID: -287426270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KongfuZombieObject_46
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 30
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80fdffcc5a48ab41996ba14708f1e10
+      internalID: 1838801693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      KongfuZombieObject_3: -594216061
+      KongfuZombieObject_12: -1860324997
+      KongfuZombieObject_39: -498042079
+      KongfuZombieObject_41: 1331810011
+      KongfuZombieObject_42: 435340209
+      KongfuZombieObject_11: -572732277
+      KongfuZombieObject_18: -582818276
+      KongfuZombieObject_19: 385972221
+      KongfuZombieObject_33: 1282473039
+      KongfuZombieObject_45: -287426270
+      KongfuZombieObject_38: -2007785162
+      KongfuZombieObject_16: -157202789
+      KongfuZombieObject_30: 1135915755
+      KongfuZombieObject_34: -1980457028
+      KongfuZombieObject_20: 708206785
+      KongfuZombieObject_13: 1145206864
+      KongfuZombieObject_21: 604203333
+      KongfuZombieObject_8: 640837804
+      KongfuZombieObject_37: -1578420027
+      KongfuZombieObject_9: 1575029352
+      KongfuZombieObject_22: 229465085
+      KongfuZombieObject_15: -877502522
+      KongfuZombieObject_6: -328625491
+      KongfuZombieObject_7: -1322829173
+      KongfuZombieObject_25: 330257938
+      KongfuZombieObject_43: -1012786822
+      KongfuZombieObject_0: -26766422
+      KongfuZombieObject_35: 1778429384
+      KongfuZombieObject_31: -256412176
+      KongfuZombieObject_36: 219244433
+      KongfuZombieObject_44: -2054396547
+      KongfuZombieObject_5: -2049487150
+      KongfuZombieObject_1: 1715863919
+      KongfuZombieObject_29: -1644858854
+      KongfuZombieObject_2: -402818960
+      KongfuZombieObject_23: -2117693554
+      KongfuZombieObject_46: 1838801693
+      KongfuZombieObject_26: -1239385959
+      KongfuZombieObject_14: 161903563
+      KongfuZombieObject_10: 1509268969
+      KongfuZombieObject_40: 1966931046
+      KongfuZombieObject_24: 1783044658
+      KongfuZombieObject_17: -1791638663
+      KongfuZombieObject_4: -1452289940
+      KongfuZombieObject_27: 658310118
+      KongfuZombieObject_32: -1572205672
+      KongfuZombieObject_28: -1930869077
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
